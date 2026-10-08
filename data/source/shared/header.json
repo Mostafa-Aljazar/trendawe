@@ -1,0 +1,103 @@
+{
+  "nav": [
+    {
+      "type": "link",
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "type": "servicesMenu",
+      "label": "Services",
+      "allServices": {
+        "label": "All Services",
+        "href": "/services"
+      }
+    },
+    {
+      "type": "link",
+      "label": "About us",
+      "href": "/about-us"
+    },
+    {
+      "type": "link",
+      "label": "Contact Us",
+      "href": "/contact-us"
+    },
+    {
+      "type": "countriesMenu",
+      "label": "Service Area"
+    },
+    {
+      "type": "dropdown",
+      "label": "Company",
+      "items": [
+        {
+          "label": "How it Works",
+          "href": "/#how-it-works"
+        },
+        {
+          "label": "Blog",
+          "href": "/blog"
+        },
+        {
+          "label": "FAQ",
+          "href": "/faq"
+        },
+        {
+          "label": "Cheap SMM Panel",
+          "href": "/cheap-smm-panel"
+        },
+        {
+          "label": "Best Smm Panel",
+          "href": "/best-smm-panel"
+        },
+        {
+          "label": "SMM Reseller Panel",
+          "href": "/smm-reseller-panel"
+        },
+        {
+          "label": "Wholesale SMM Panel",
+          "href": "/wholesale-smm-panel"
+        },
+        {
+          "label": "White Label SMM Panel",
+          "href": "/white-label-smm-panel"
+        },
+        {
+          "label": "SMM Panel API",
+          "href": "/smm-panel-api"
+        },
+        {
+          "label": "Terms and Conditions",
+          "href": "/terms-and-conditions"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "/privacy-policy"
+        },
+        {
+          "label": "Refund Policy",
+          "href": "/refund-policy"
+        },
+        {
+          "label": "Cookies Policy",
+          "href": "/cookies-policy"
+        },
+        {
+          "label": "Disclaimer",
+          "href": "/disclaimer"
+        }
+      ]
+    }
+  ],
+  "ctas": {
+    "login": {
+      "label": "Log In",
+      "href": "https://my.smmgen.com"
+    },
+    "signup": {
+      "label": "Sign Up",
+      "href": "https://my.smmgen.com/signup"
+    }
+  }
+}

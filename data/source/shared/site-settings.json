@@ -1,0 +1,77 @@
+{
+  "brandName": "SMMGen",
+  "logo": {
+    "src": "/image/logo.png",
+    "alt": "SMMGen"
+  },
+  "contact": {
+    "email": "support@smmgen.com",
+    "address": "Shilmuri, Barura, Cumilla, Bangladesh",
+    "tradeLicence": "20231910994000477"
+  },
+  "socials": [
+    {
+      "platform": "Facebook",
+      "href": "https://www.facebook.com/smmgen.co",
+      "icon": {
+        "src": "/image/follow-us-on-social-media-facebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "platform": "X",
+      "href": "https://twitter.com/smm_gen",
+      "icon": {
+        "src": "/image/follow-us-on-social-media-x.png",
+        "alt": ""
+      }
+    },
+    {
+      "platform": "YouTube",
+      "href": "https://www.youtube.com/@SMMGen-yv7lq",
+      "icon": {
+        "src": "/image/youtube.png",
+        "alt": ""
+      }
+    },
+    {
+      "platform": "LinkedIn",
+      "href": "https://www.linkedin.com/company/smmgen/",
+      "icon": {
+        "src": "/image/linkdein.png",
+        "alt": ""
+      }
+    },
+    {
+      "platform": "Telegram",
+      "href": "https://t.me/+xrao6UrTi6BmYWZl",
+      "icon": {
+        "src": "/image/follow-us-on-social-media-telegram.png",
+        "alt": ""
+      }
+    },
+    {
+      "platform": "Pinterest",
+      "href": "https://au.pinterest.com/smmgen/",
+      "icon": {
+        "src": "/image/pinterest.png",
+        "alt": ""
+      }
+    }
+  ],
+  "appUrls": {
+    "login": "https://my.smmgen.com",
+    "signup": "https://my.smmgen.com/signup"
+  },
+  "stats": {
+    "ordersCompleted": 108774260,
+    "ordersAll": 119517271,
+    "activeServices": 9509,
+    "activeUsers": 98121,
+    "usersActive": 97788,
+    "ticketsAll": 704287,
+    "platformsCount": 15,
+    "foundedYear": 2018,
+    "rating": 4.9
+  }
+}

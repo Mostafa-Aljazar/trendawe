@@ -1,0 +1,55 @@
+{
+  "about": "Founded in 2018, SMMGen is a leading provider of affordable and effective social media marketing services and neighboring regions. We offer diverse digital marketing solutions across platforms like Facebook, Instagram, Twitter, YouTube, LinkedIn, TikTok, Telegram, Spotify, Discord, Pinterest, and SoundCloud.",
+  "quickLinksTitle": "Quick Links",
+  "quickLinks": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Cheap SMM Panel",
+      "href": "/cheap-smm-panel"
+    },
+    {
+      "label": "SMM Reseller Panel",
+      "href": "/smm-reseller-panel"
+    },
+    {
+      "label": "Wholesale SMM Panel",
+      "href": "/wholesale-smm-panel"
+    },
+    {
+      "label": "White Label SMM Panel",
+      "href": "/white-label-smm-panel"
+    },
+    {
+      "label": "SMM Panel API",
+      "href": "/smm-panel-api"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/terms-and-conditions"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/privacy-policy"
+    },
+    {
+      "label": "Refund Policy",
+      "href": "/refund-policy"
+    },
+    {
+      "label": "Cookies Policy",
+      "href": "/cookies-policy"
+    },
+    {
+      "label": "Disclaimer",
+      "href": "/disclaimer"
+    }
+  ],
+  "servicesTitle": "Our Services",
+  "countryStrip": {
+    "enabled": true,
+    "title": "Global SMM Panel-Local Payments In Every Country"
+  }
+}

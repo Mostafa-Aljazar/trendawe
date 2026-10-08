@@ -1,0 +1,983 @@
+[
+  {
+    "slug": "cryptocurrency",
+    "name": "Cryptocurrency",
+    "types": [
+      "Crypto"
+    ],
+    "countries": [
+      "smm-panel-australia",
+      "smm-panel-bangladesh",
+      "smm-panel-brazil",
+      "smm-panel-canada",
+      "smm-panel-egypt",
+      "smm-panel-france",
+      "smm-panel-germany",
+      "smm-panel-india",
+      "smm-panel-indonesia",
+      "smm-panel-kenya",
+      "smm-panel-malaysia",
+      "smm-panel-mexico",
+      "smm-panel-morocco",
+      "smm-panel-nepal",
+      "smm-panel-nigeria",
+      "smm-panel-pakistan",
+      "smm-panel-philippines",
+      "smm-panel-saudi-arabia",
+      "smm-panel-south-africa",
+      "smm-panel-thailand",
+      "smm-panel-turkey",
+      "smm-panel-uae",
+      "smm-panel-uk",
+      "smm-panel-usa",
+      "smm-panel-vietnam"
+    ]
+  },
+  {
+    "slug": "paypal",
+    "name": "PayPal",
+    "types": [
+      "Digital wallet",
+      "International"
+    ],
+    "countries": [
+      "smm-panel-australia",
+      "smm-panel-bangladesh",
+      "smm-panel-brazil",
+      "smm-panel-canada",
+      "smm-panel-egypt",
+      "smm-panel-france",
+      "smm-panel-germany",
+      "smm-panel-india",
+      "smm-panel-indonesia",
+      "smm-panel-kenya",
+      "smm-panel-malaysia",
+      "smm-panel-mexico",
+      "smm-panel-morocco",
+      "smm-panel-nepal",
+      "smm-panel-nigeria",
+      "smm-panel-pakistan",
+      "smm-panel-philippines",
+      "smm-panel-south-africa",
+      "smm-panel-thailand",
+      "smm-panel-turkey",
+      "smm-panel-uae",
+      "smm-panel-uk",
+      "smm-panel-usa",
+      "smm-panel-vietnam"
+    ]
+  },
+  {
+    "slug": "visa-mastercard",
+    "name": "Visa / Mastercard",
+    "types": [
+      "International",
+      "Card payment"
+    ],
+    "countries": [
+      "smm-panel-bangladesh",
+      "smm-panel-brazil",
+      "smm-panel-egypt",
+      "smm-panel-france",
+      "smm-panel-germany",
+      "smm-panel-india",
+      "smm-panel-kenya",
+      "smm-panel-malaysia",
+      "smm-panel-mexico",
+      "smm-panel-morocco",
+      "smm-panel-nepal",
+      "smm-panel-pakistan",
+      "smm-panel-philippines",
+      "smm-panel-south-africa",
+      "smm-panel-thailand",
+      "smm-panel-vietnam"
+    ]
+  },
+  {
+    "slug": "apple-pay",
+    "name": "Apple Pay",
+    "types": [
+      "Mobile payment"
+    ],
+    "countries": [
+      "smm-panel-australia",
+      "smm-panel-canada",
+      "smm-panel-france",
+      "smm-panel-germany",
+      "smm-panel-saudi-arabia",
+      "smm-panel-uae",
+      "smm-panel-uk",
+      "smm-panel-usa"
+    ]
+  },
+  {
+    "slug": "mastercard",
+    "name": "Mastercard",
+    "types": [
+      "Card payment"
+    ],
+    "countries": [
+      "smm-panel-australia",
+      "smm-panel-canada",
+      "smm-panel-saudi-arabia",
+      "smm-panel-turkey",
+      "smm-panel-uae",
+      "smm-panel-uk",
+      "smm-panel-usa"
+    ]
+  },
+  {
+    "slug": "visa",
+    "name": "Visa",
+    "types": [
+      "Card payment"
+    ],
+    "countries": [
+      "smm-panel-australia",
+      "smm-panel-canada",
+      "smm-panel-saudi-arabia",
+      "smm-panel-turkey",
+      "smm-panel-uae",
+      "smm-panel-uk",
+      "smm-panel-usa"
+    ]
+  },
+  {
+    "slug": "google-pay",
+    "name": "Google Pay",
+    "types": [
+      "Mobile payment"
+    ],
+    "countries": [
+      "smm-panel-australia",
+      "smm-panel-canada",
+      "smm-panel-saudi-arabia",
+      "smm-panel-uae",
+      "smm-panel-uk",
+      "smm-panel-usa"
+    ]
+  },
+  {
+    "slug": "mercado-pago",
+    "name": "Mercado Pago",
+    "types": [
+      "Local payment platform"
+    ],
+    "countries": [
+      "smm-panel-brazil",
+      "smm-panel-mexico"
+    ]
+  },
+  {
+    "slug": "sepa-bank-transfer",
+    "name": "SEPA Bank Transfer",
+    "types": [
+      "European bank transfer"
+    ],
+    "countries": [
+      "smm-panel-france",
+      "smm-panel-germany"
+    ]
+  },
+  {
+    "slug": "stripe",
+    "name": "Stripe",
+    "types": [
+      "Payment gateway"
+    ],
+    "countries": [
+      "smm-panel-uk",
+      "smm-panel-usa"
+    ]
+  },
+  {
+    "slug": "access-bank-transfer",
+    "name": "Access Bank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-nigeria"
+    ]
+  },
+  {
+    "slug": "airtel-money",
+    "name": "Airtel Money",
+    "types": [
+      "Local mobile money"
+    ],
+    "countries": [
+      "smm-panel-kenya"
+    ]
+  },
+  {
+    "slug": "attijariwafa-bank-transfer",
+    "name": "Attijariwafa Bank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-morocco"
+    ]
+  },
+  {
+    "slug": "bangkok-bank-transfer",
+    "name": "Bangkok Bank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-thailand"
+    ]
+  },
+  {
+    "slug": "bank-transfer",
+    "name": "Bank Transfer",
+    "types": [
+      "International wire"
+    ],
+    "countries": [
+      "smm-panel-uae"
+    ]
+  },
+  {
+    "slug": "bca-transfer",
+    "name": "BCA Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-indonesia"
+    ]
+  },
+  {
+    "slug": "bdo-transfer",
+    "name": "BDO Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-philippines"
+    ]
+  },
+  {
+    "slug": "bkash",
+    "name": "bKash",
+    "types": [
+      "Local mobile banking"
+    ],
+    "countries": [
+      "smm-panel-bangladesh"
+    ]
+  },
+  {
+    "slug": "bni-transfer",
+    "name": "BNI Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-indonesia"
+    ]
+  },
+  {
+    "slug": "boleto-banc-rio",
+    "name": "Boleto Bancário",
+    "types": [
+      "Brazilian bank slip"
+    ],
+    "countries": [
+      "smm-panel-brazil"
+    ]
+  },
+  {
+    "slug": "cih-bank-transfer",
+    "name": "CIH Bank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-morocco"
+    ]
+  },
+  {
+    "slug": "cimb-clicks",
+    "name": "CIMB Clicks",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-malaysia"
+    ]
+  },
+  {
+    "slug": "dana",
+    "name": "DANA",
+    "types": [
+      "Local e-wallet"
+    ],
+    "countries": [
+      "smm-panel-indonesia"
+    ]
+  },
+  {
+    "slug": "easypaisa",
+    "name": "Easypaisa",
+    "types": [
+      "Local mobile banking"
+    ],
+    "countries": [
+      "smm-panel-pakistan"
+    ]
+  },
+  {
+    "slug": "egyptian-bank-transfer",
+    "name": "Egyptian Bank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-egypt"
+    ]
+  },
+  {
+    "slug": "equity-bank-transfer",
+    "name": "Equity Bank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-kenya"
+    ]
+  },
+  {
+    "slug": "esewa",
+    "name": "eSewa",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-nepal"
+    ]
+  },
+  {
+    "slug": "fawry",
+    "name": "Fawry",
+    "types": [
+      "Local payment network"
+    ],
+    "countries": [
+      "smm-panel-egypt"
+    ]
+  },
+  {
+    "slug": "flutterwave",
+    "name": "Flutterwave",
+    "types": [
+      "Local payment gateway"
+    ],
+    "countries": [
+      "smm-panel-nigeria"
+    ]
+  },
+  {
+    "slug": "fnb-transfer",
+    "name": "FNB Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-south-africa"
+    ]
+  },
+  {
+    "slug": "fpx-online-banking",
+    "name": "FPX Online Banking",
+    "types": [
+      "Local bank payment"
+    ],
+    "countries": [
+      "smm-panel-malaysia"
+    ]
+  },
+  {
+    "slug": "gcash",
+    "name": "GCash",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-philippines"
+    ]
+  },
+  {
+    "slug": "giropay",
+    "name": "Giropay",
+    "types": [
+      "German online banking"
+    ],
+    "countries": [
+      "smm-panel-germany"
+    ]
+  },
+  {
+    "slug": "gopay",
+    "name": "GoPay",
+    "types": [
+      "Local e-wallet"
+    ],
+    "countries": [
+      "smm-panel-indonesia"
+    ]
+  },
+  {
+    "slug": "grabpay",
+    "name": "GrabPay",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-malaysia"
+    ]
+  },
+  {
+    "slug": "gtbank-transfer",
+    "name": "GTBank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-nigeria"
+    ]
+  },
+  {
+    "slug": "ime-pay",
+    "name": "IME Pay",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-nepal"
+    ]
+  },
+  {
+    "slug": "instapay",
+    "name": "InstaPay",
+    "types": [
+      "Local digital payment"
+    ],
+    "countries": [
+      "smm-panel-egypt"
+    ]
+  },
+  {
+    "slug": "interac",
+    "name": "Interac",
+    "types": [
+      "Canadian bank payment"
+    ],
+    "countries": [
+      "smm-panel-canada"
+    ]
+  },
+  {
+    "slug": "jazzcash",
+    "name": "JazzCash",
+    "types": [
+      "Local mobile banking"
+    ],
+    "countries": [
+      "smm-panel-pakistan"
+    ]
+  },
+  {
+    "slug": "kbank-transfer",
+    "name": "KBank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-thailand"
+    ]
+  },
+  {
+    "slug": "kcb-transfer",
+    "name": "KCB Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-kenya"
+    ]
+  },
+  {
+    "slug": "khalti",
+    "name": "Khalti",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-nepal"
+    ]
+  },
+  {
+    "slug": "klarna",
+    "name": "Klarna",
+    "types": [
+      "Buy now pay later"
+    ],
+    "countries": [
+      "smm-panel-germany"
+    ]
+  },
+  {
+    "slug": "lydia",
+    "name": "Lydia",
+    "types": [
+      "French mobile payment"
+    ],
+    "countries": [
+      "smm-panel-france"
+    ]
+  },
+  {
+    "slug": "m-pesa",
+    "name": "M-Pesa",
+    "types": [
+      "Local mobile money"
+    ],
+    "countries": [
+      "smm-panel-kenya"
+    ]
+  },
+  {
+    "slug": "mada",
+    "name": "Mada",
+    "types": [
+      "Saudi national debit"
+    ],
+    "countries": [
+      "smm-panel-saudi-arabia"
+    ]
+  },
+  {
+    "slug": "mandiri-transfer",
+    "name": "Mandiri Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-indonesia"
+    ]
+  },
+  {
+    "slug": "maroc-telecom-cash",
+    "name": "Maroc Telecom Cash",
+    "types": [
+      "Local mobile payment"
+    ],
+    "countries": [
+      "smm-panel-morocco"
+    ]
+  },
+  {
+    "slug": "maya",
+    "name": "Maya",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-philippines"
+    ]
+  },
+  {
+    "slug": "maybank2u",
+    "name": "Maybank2u",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-malaysia"
+    ]
+  },
+  {
+    "slug": "momo",
+    "name": "MoMo",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-vietnam"
+    ]
+  },
+  {
+    "slug": "nabil-bank-transfer",
+    "name": "Nabil Bank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-nepal"
+    ]
+  },
+  {
+    "slug": "nagad",
+    "name": "Nagad",
+    "types": [
+      "Local mobile banking"
+    ],
+    "countries": [
+      "smm-panel-bangladesh"
+    ]
+  },
+  {
+    "slug": "nayapay",
+    "name": "Nayapay",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-pakistan"
+    ]
+  },
+  {
+    "slug": "nepal-bank-transfer",
+    "name": "Nepal Bank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-nepal"
+    ]
+  },
+  {
+    "slug": "opay",
+    "name": "OPay",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-nigeria"
+    ]
+  },
+  {
+    "slug": "ovo",
+    "name": "OVO",
+    "types": [
+      "Local e-wallet"
+    ],
+    "countries": [
+      "smm-panel-indonesia"
+    ]
+  },
+  {
+    "slug": "oxxo-cash",
+    "name": "OXXO Cash",
+    "types": [
+      "Local convenience store payment"
+    ],
+    "countries": [
+      "smm-panel-mexico"
+    ]
+  },
+  {
+    "slug": "ozow",
+    "name": "Ozow",
+    "types": [
+      "Instant EFT"
+    ],
+    "countries": [
+      "smm-panel-south-africa"
+    ]
+  },
+  {
+    "slug": "papara",
+    "name": "Papara",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-turkey"
+    ]
+  },
+  {
+    "slug": "paylib",
+    "name": "PayLib",
+    "types": [
+      "French bank payment"
+    ],
+    "countries": [
+      "smm-panel-france"
+    ]
+  },
+  {
+    "slug": "paystack",
+    "name": "Paystack",
+    "types": [
+      "Local payment gateway"
+    ],
+    "countries": [
+      "smm-panel-nigeria"
+    ]
+  },
+  {
+    "slug": "paytm",
+    "name": "Paytm",
+    "types": [
+      "Local mobile wallet"
+    ],
+    "countries": [
+      "smm-panel-india"
+    ]
+  },
+  {
+    "slug": "paytr",
+    "name": "PayTR",
+    "types": [
+      "Local payment gateway"
+    ],
+    "countries": [
+      "smm-panel-turkey"
+    ]
+  },
+  {
+    "slug": "phonepe",
+    "name": "PhonePe",
+    "types": [
+      "Local digital payment"
+    ],
+    "countries": [
+      "smm-panel-india"
+    ]
+  },
+  {
+    "slug": "picpay",
+    "name": "PicPay",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-brazil"
+    ]
+  },
+  {
+    "slug": "pix",
+    "name": "Pix",
+    "types": [
+      "Brazilian instant payment"
+    ],
+    "countries": [
+      "smm-panel-brazil"
+    ]
+  },
+  {
+    "slug": "poli",
+    "name": "POLi",
+    "types": [
+      "Australian bank payment"
+    ],
+    "countries": [
+      "smm-panel-australia"
+    ]
+  },
+  {
+    "slug": "promptpay",
+    "name": "PromptPay",
+    "types": [
+      "Thai instant payment"
+    ],
+    "countries": [
+      "smm-panel-thailand"
+    ]
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "types": [
+      "Local payment gateway"
+    ],
+    "countries": [
+      "smm-panel-india"
+    ]
+  },
+  {
+    "slug": "rocket",
+    "name": "Rocket",
+    "types": [
+      "Local mobile banking"
+    ],
+    "countries": [
+      "smm-panel-bangladesh"
+    ]
+  },
+  {
+    "slug": "sadapay",
+    "name": "SadaPay",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-pakistan"
+    ]
+  },
+  {
+    "slug": "scb-transfer",
+    "name": "SCB Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-thailand"
+    ]
+  },
+  {
+    "slug": "snapscan",
+    "name": "SnapScan",
+    "types": [
+      "Local QR payment"
+    ],
+    "countries": [
+      "smm-panel-south-africa"
+    ]
+  },
+  {
+    "slug": "spei",
+    "name": "SPEI",
+    "types": [
+      "Mexican bank transfer"
+    ],
+    "countries": [
+      "smm-panel-mexico"
+    ]
+  },
+  {
+    "slug": "standard-bank-transfer",
+    "name": "Standard Bank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-south-africa"
+    ]
+  },
+  {
+    "slug": "stc-pay",
+    "name": "STC Pay",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-saudi-arabia"
+    ]
+  },
+  {
+    "slug": "techcombank-transfer",
+    "name": "Techcombank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-vietnam"
+    ]
+  },
+  {
+    "slug": "touch-n-go-ewallet",
+    "name": "Touch 'n Go eWallet",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-malaysia"
+    ]
+  },
+  {
+    "slug": "truemoney-wallet",
+    "name": "TrueMoney Wallet",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-thailand"
+    ]
+  },
+  {
+    "slug": "unionbank-transfer",
+    "name": "UnionBank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-philippines"
+    ]
+  },
+  {
+    "slug": "upi",
+    "name": "UPI",
+    "types": [
+      "Local digital payment"
+    ],
+    "countries": [
+      "smm-panel-india"
+    ]
+  },
+  {
+    "slug": "venmo",
+    "name": "Venmo",
+    "types": [
+      "Digital wallet"
+    ],
+    "countries": [
+      "smm-panel-usa"
+    ]
+  },
+  {
+    "slug": "vietcombank-transfer",
+    "name": "Vietcombank Transfer",
+    "types": [
+      "Local bank transfer"
+    ],
+    "countries": [
+      "smm-panel-vietnam"
+    ]
+  },
+  {
+    "slug": "vnpay",
+    "name": "VNPay",
+    "types": [
+      "Local payment gateway"
+    ],
+    "countries": [
+      "smm-panel-vietnam"
+    ]
+  },
+  {
+    "slug": "vodafone-cash",
+    "name": "Vodafone Cash",
+    "types": [
+      "Local mobile wallet"
+    ],
+    "countries": [
+      "smm-panel-egypt"
+    ]
+  },
+  {
+    "slug": "zalopay",
+    "name": "ZaloPay",
+    "types": [
+      "Local digital wallet"
+    ],
+    "countries": [
+      "smm-panel-vietnam"
+    ]
+  },
+  {
+    "slug": "zapper",
+    "name": "Zapper",
+    "types": [
+      "Local QR payment"
+    ],
+    "countries": [
+      "smm-panel-south-africa"
+    ]
+  }
+]

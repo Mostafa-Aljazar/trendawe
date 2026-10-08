@@ -143,6 +143,10 @@ Exact visual variants of landing-page sections are confirmed against the screens
 3. ~~Digits in `/ar`?~~ Decided: Western digits.
 
 ## 9. Content issues (from the reference — fix while rewriting)
+- Footer "Quick Links" omits **Best SMM Panel** (the Company menu has it) — Trendawe footer links come from one curated list.
+- Payment methods: 89 unique across the 25 countries; "Visa / Mastercard" is one entry on some pages and two separate entries ("Visa", "Mastercard") on others → normalise in the library.
+- Home FAQ and `/faq` are the same 8 questions → one `faq-groups` entry ("general").
+- Live stats on the source (RSC `stats`): ordersCompleted 108,774,260 · ordersAll 119,517,271 · services 9,509 · users 98,121 · rating 4.9 — Trendawe enters its own numbers in site-settings.
 - Blog post CTA leftover from another brand ("SMMSun", "Bangladesh", "68,000 users").
 - `/white-label-smm-panel` section titled "Why SMMGen for **Wholesale** SMM Services?" (copied from wholesale).
 - Inconsistent numbers: "76 million orders" (wholesale, country pages) vs 108,774,260 (home); 79,000 vs 98,121 users → stat tokens.
