@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+/* Design tokens are filled in from docs/design-tokens.md during the Phase 0 design audit. */
+@theme {
+}
+
+@layer base {
+  body {
+    @apply bg-white text-neutral-900 antialiased;
+  }
+}
