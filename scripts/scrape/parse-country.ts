@@ -7,6 +7,7 @@ import { readFile } from 'fs/promises'
 import { URLS_FILE } from './config'
 import {
   type $,
+  buttonVariant,
   clean,
   expectHeading,
   faqFromJsonLd,
@@ -121,7 +122,7 @@ const parse = async (pathname: string, menu: ReturnType<typeof readMenu>) => {
           const cta = link($, panel.find('a').last())
           return {
             label: clean($(tab).text()),
-            platformSlug: cta?.href.replace(/^\//, '') ?? null,
+            platformSlug: cta?.href?.replace(/^\//, '') ?? null,
             title: heading($, panel.find('h3')),
             body: markdown($, panel.find('p')),
             ctaLabel: cta?.label ?? null,
@@ -170,7 +171,7 @@ const parse = async (pathname: string, menu: ReturnType<typeof readMenu>) => {
           buttons: cta
             .find('a')
             .filter((_, a) => /rounded-full/.test($(a).attr('class') ?? ''))
-            .map((i, a) => ({ ...link($, $(a)), variant: i === 0 ? 'primary' : 'outline' }))
+            .map((_, a) => ({ ...link($, $(a)), variant: buttonVariant($(a).attr('class')) }))
             .get(),
           image: image($, cta.find('img').last()),
         }

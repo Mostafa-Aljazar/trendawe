@@ -22,7 +22,8 @@ export interface Image {
 }
 export interface Link {
   label: string
-  href: string
+  /** null = styled like a link on the source but not linked (renderer falls back to signup). */
+  href: string | null
 }
 
 export const SOURCE_DIR = path.join(DATA_DIR, 'source')
@@ -154,6 +155,10 @@ export const intro = ($: $, section: Node) => {
   return markdown($, h.nextAll('p'))
 }
 
+/** Filled vs outline button, from the exact class tokens (ignores hover: variants). */
+export const buttonVariant = (cls = '') =>
+  cls.split(/\s+/).some((c) => c === 'bg-primary' || /^bg-\[#1a3aad\]$/i.test(c)) ? 'primary' : 'outline'
+
 export const writeSource = async (collection: string, slug: string, data: unknown) => {
   const dir = path.join(SOURCE_DIR, collection)
   await mkdir(dir, { recursive: true })
@@ -164,4 +169,69 @@ export const writeSource = async (collection: string, slug: string, data: unknow
 export const expectHeading = (section: Node | undefined, pattern: RegExp, where: string) => {
   const text = clean(section?.find('h1, h2').first().text() ?? '')
   if (!pattern.test(text)) throw new Error(`${where}: expected heading ${pattern}, got "${text}"`)
+}
+
+export interface Card {
+  title: string
+  body: string
+  icon: Image | null
+  link: Link | null
+  number: string | null
+  badge: string | null
+}
+
+/** A link-styled <span> with an arrow icon but no href (seen on some service cards). */
+const fakeLink = ($: $, root: Node): Link | null => {
+  const span = root.find('span').filter((__, sp) => $(sp).children('img').length > 0 && !!clean($(sp).text())).last()
+  return span.length ? { label: clean(span.text()), href: null } : null
+}
+
+/**
+ * Cards inside a section, found from their <h3>: the card root is the closest ancestor
+ * that contains exactly one h3. Works for grids, masonry and nested list layouts.
+ */
+export const cards = ($: $, section: Node): Card[] =>
+  section
+    .find('h3')
+    .map((_, h) => {
+      const $h = $(h)
+      let root = $h.parent()
+      while (root.parent().length && root.parent().find('h3').length === 1 && !root.is('section')) root = root.parent()
+      const badgeEl = root.find('div, span').filter((__, d) => /^From\s/i.test(clean($(d).text())) && $(d).children().length === 0).first()
+      const numberEl = root.find('span').filter((__, sp) => /^\d{2}$/.test(clean($(sp).text()))).first()
+      const linkEl = root.find('a').filter((__, a) => !!clean($(a).text())).last()
+      const bodyEls = root.find('p').filter((__, p) => !$(p).closest('a').length)
+      return {
+        title: clean($h.text()),
+        body: markdown($, bodyEls),
+        // Icons sit outside links/link-styled spans (those hold the arrow).
+        icon: image($, root.find('img').filter((__, img) => !$(img).closest('a, span').length).first()),
+        link: linkEl.length && !bodyEls.find('a').filter((__, a) => a === linkEl[0]).length
+          ? link($, linkEl)
+          : fakeLink($, root),
+        number: numberEl.length ? clean(numberEl.text()) : null,
+        badge: badgeEl.length ? clean(badgeEl.text()) : null,
+      }
+    })
+    .get()
+
+/** Platform list from the header Services menu + buy pages per platform from the footer tree. */
+export const readPlatformMenu = ($: $) => {
+  const platforms = $('header a[href$="-smm-panel"]')
+    .filter((_, a) => /SMM Panel$/.test(clean($(a).text())) && !!$(a).find('img').length)
+    .map((i, a) => ({
+      slug: ($(a).attr('href') ?? '').slice(1),
+      menuLabel: clean($(a).text()),
+      name: clean($(a).text()).replace(/\s*SMM Panel$/, ''),
+      menuOrder: i + 1,
+      icon: image($, $(a).find('img').first()),
+    }))
+    .get()
+  const buyPages = new Map<string, Link[]>()
+  $('footer details').each((_, d) => {
+    const all = $(d).find('a').filter((__, a) => /-smm-panel$/.test($(a).attr('href') ?? '')).first()
+    const slug = (all.attr('href') ?? '').slice(1)
+    if (slug) buyPages.set(slug, $(d).find('a[href^="/buy-"]').map((__, a) => link($, $(a))!).get())
+  })
+  return platforms.map((p) => ({ ...p, buyPages: buyPages.get(p.slug) ?? [] }))
 }

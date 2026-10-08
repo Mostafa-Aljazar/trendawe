@@ -153,4 +153,5 @@ Exact visual variants of landing-page sections are confirmed against the screens
 - `/blog/author/kanok-miah` returns 404.
 - Country pages: the payment-methods "Why choose" card body starts with a stray word ("accepted These are among…") — broken sentence on the source.
 - Country pages reuse Bangladesh image paths (`country-why-bangladesh/…`, `country-safe-bangladesh/…`) for every country — images are shared, only the hero image is country-specific.
+- Platform service cards: some show a link-styled "Browse X Services" that is not a link (Instagram card 08); several platforms without buy pages have cards with no link at all (Pinterest 02–06). Our cards: link → buy page, else signup URL, label editable.
 - "Why choose" has 3–5 cards depending on the country (not always 5); payment methods 6–8.

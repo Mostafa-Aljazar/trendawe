@@ -23,7 +23,8 @@
     "audit:screenshots": "tsx scripts/scrape/screenshots.ts",
     "audit:states": "tsx scripts/scrape/screenshots-states.ts",
     "audit:inventory": "tsx scripts/scrape/inventory.ts",
-    "parse:countries": "tsx scripts/scrape/parse-country.ts"
+    "parse:countries": "tsx scripts/scrape/parse-country.ts",
+    "parse:platforms": "tsx scripts/scrape/parse-platform.ts"
   },
   "dependencies": {
     "@payloadcms/db-postgres": "3.90.2",

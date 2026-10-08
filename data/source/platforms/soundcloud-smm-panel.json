@@ -1,0 +1,356 @@
+{
+  "slug": "soundcloud-smm-panel",
+  "sourceUrl": "/soundcloud-smm-panel",
+  "name": "SoundCloud",
+  "menuLabel": "SoundCloud SMM Panel",
+  "menuOrder": 15,
+  "icon": {
+    "src": "/image/soundcloud.png",
+    "alt": ""
+  },
+  "buyPages": [],
+  "hasBuyPages": false,
+  "seo": {
+    "title": "SoundCloud SMM Panel — Buy SoundCloud Plays, Followers and Reposts | SMMGen",
+    "description": "SMMGen's SoundCloud SMM panel covers plays, followers, reposts, likes and comments. Prices from $0.10 per 1,000. Fast delivery. Sign up free and grow your music today."
+  },
+  "hero": {
+    "title": "SoundCloud SMM Panel — Get Your **Music Heard with SMMGen**",
+    "intro": "SMMGen's SoundCloud SMM panel gives independent artists, music producers, DJs, podcasters, and record labels access to every growth service needed to build a credible and visible SoundCloud presence. Buy plays, followers, reposts, likes, and comments at wholesale prices with delivery starting within minutes. No password required. No account access ever needed.",
+    "buttons": [
+      {
+        "label": "Sign Up Free",
+        "href": "https://my.smmgen.com/signup",
+        "variant": "primary"
+      },
+      {
+        "label": "View All Services",
+        "href": "/services",
+        "variant": "outline"
+      }
+    ],
+    "trustBadge": {
+      "label": "Trusted by",
+      "value": "98121 Users"
+    },
+    "image": {
+      "src": "/image/soundcloud-smm-panel-get-your-music-heard-with-smmgen.webp",
+      "alt": "SoundCloud SMM Panel — Get Your Music Heard with SMMGen"
+    }
+  },
+  "whatIs": {
+    "title": "What Is a **SoundCloud SMM Panel?**",
+    "body": "A SoundCloud SMM panel is a platform where you purchase engagement services for SoundCloud tracks and artist profiles at automated, low-cost rates. You submit a public SoundCloud URL, choose a service and quantity, and delivery begins automatically. No login credentials, no password, and no account access are ever required.\n\n[SMMGen](/about-us) is a trusted [SMM panel](/) provider founded in 2018 with over 108774260 orders completed across all platforms. Our SoundCloud services cover every metric that drives visibility and credibility for independent artists, from play counts and followers to reposts and comments.\n\nSoundCloud is an audio-first platform where discovery depends heavily on play counts, repost activity, and follower networks rather than visual content or short-form video algorithms. Unlike TikTok or Instagram where a single viral moment can explode an account overnight, SoundCloud growth is built through consistent play accumulation, repost chains, and profile credibility that signals to listeners and curators that a track is worth their time.\n\nPlay counts on SoundCloud function as a quality filter at every level of the platform. Bloggers, playlist curators, record labels, and casual listeners all use play count as a first signal when deciding whether to listen, repost, or feature a track. An upload with 150 plays looks unproven regardless of production quality. An upload with 25,000 plays looks like momentum worth paying attention to. SMMGen's SoundCloud SMM panel gives artists the play and follower foundation that makes every subsequent promotional effort more effective.",
+    "image": {
+      "src": "/image/what-is-a-soundcloud-smm-panel.webp",
+      "alt": "What Is a SoundCloud SMM Panel?"
+    }
+  },
+  "services": {
+    "title": "Our **SoundCloud SMM Services**",
+    "intro": "SMMGen covers every SoundCloud service type that matters to artists, labels, podcasters, and resellers. Here is every service available in our SoundCloud catalog with direct links to dedicated purchase pages.",
+    "items": [
+      {
+        "title": "SoundCloud Plays",
+        "body": "Plays are the primary visibility metric on SoundCloud. Every track displays its play count prominently below the waveform. This number is the first thing any visitor sees when they land on your track page, and it functions as the most powerful social proof signal on the platform before any listening happens. SoundCloud's search and discovery algorithm also uses play count as a primary ranking signal. Tracks with higher play counts appear more prominently in search results for relevant genre and keyword searches. They are also more likely to be picked up by SoundCloud's automated playlist and station features that recommend tracks to listeners based on genre affinity. The most critical window for plays is the first 48 to 72 hours after a track is uploaded. Tracks that gain momentum quickly are evaluated positively by SoundCloud's algorithm during this early period. Tracks that start with single-digit plays rarely recover their discovery potential even if plays arrive later. SMMGen delivers SoundCloud plays at a controlled, gradual pace that avoids the sudden spikes that SoundCloud's detection systems flag as suspicious. Services start from $0.10 per 1,000 plays. Ready to order? Visit the dedicated buy SoundCloud plays page or browse the full catalog at smmgen.com/services.",
+        "icon": null,
+        "link": {
+          "label": "Buy Followers",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "number": "01",
+        "badge": "From $0.50/1k"
+      },
+      {
+        "title": "SoundCloud Followers",
+        "body": "Followers on SoundCloud receive feed updates every time an artist they follow uploads a new track or reposts music from another artist. This makes follower count directly proportional to how much immediate exposure a new upload receives in its first hours on the platform. Beyond direct notification reach, SoundCloud follower count signals artist credibility to every visitor who lands on a profile. A producer with 25,000 followers looks like an established presence in the music community. A producer with 40 followers looks like someone who just started regardless of production quality. Follower count also matters when pitching to playlist curators, music blogs, and record labels. Most curators and labels have minimum follower thresholds for artist submissions. Crossing these thresholds opens doors to promotion opportunities that are unavailable to artists with minimal follower bases. SMMGen delivers SoundCloud followers using real-looking listener accounts with listening history. Delivery is paced gradually to produce natural-looking follower growth. Services start from $0.80 per 1,000 followers. Ready to order? Visit the dedicated buy SoundCloud followers page or browse the full catalog at smmgen.com/services.",
+        "icon": null,
+        "link": {
+          "label": "Buy Shares",
+          "href": null
+        },
+        "number": "02",
+        "badge": "From $0.50/1k"
+      },
+      {
+        "title": "SoundCloud Comments",
+        "body": "Comments on SoundCloud appear directly on the waveform timeline of a track, meaning they are visible to every listener while the music plays rather than sitting below it in a separate section. This unique placement makes SoundCloud comments more impactful as social proof than comments on most other platforms. A track with multiple waveform comments looks like music that inspired genuine listener reaction. New visitors see those comments while the audio loads and are primed to listen more attentively. Tracks with no waveform comments look untested and uninspiring regardless of how good the music actually is. SMMGen offers SoundCloud comment services including custom comments where you specify the exact text placed at the specific waveform timestamp you choose, and positive engagement comments from listener-looking accounts. Services start from $1.00 per 10 comments.",
+        "icon": null,
+        "link": {
+          "label": "Buy Shares",
+          "href": null
+        },
+        "number": "03",
+        "badge": "From $0.50/1k"
+      },
+      {
+        "title": "SoundCloud Reposts",
+        "body": "Reposts are the most powerful organic distribution mechanism on SoundCloud. When an artist or listener reposts your track, it appears in the feeds of all of that account's followers. Unlike plays or likes which stay on your track page, a repost actively distributes your music to an entirely new network of listeners who had no prior awareness of your profile. Reposts from accounts with large, genre-relevant follower bases are particularly valuable. A repost from a well-followed electronic music account exposes your electronic track to thousands of listeners who are already predisposed to that genre. This targeted distribution effect is why repost networks have been a primary music promotion strategy on SoundCloud since the platform's early days. SMMGen delivers SoundCloud reposts from accounts with real follower bases. Each repost places your track in front of a new listener network and increases your track's overall distribution footprint on the platform. Services start from $0.30 per repost.",
+        "icon": null,
+        "link": {
+          "label": "Buy Likes",
+          "href": null
+        },
+        "number": "04",
+        "badge": "From $0.40/1k"
+      },
+      {
+        "title": "SoundCloud Likes",
+        "body": "Track likes on SoundCloud serve as visible social proof that listeners responded positively to the music. The like count appears on every track page and contributes to how the track is scored in SoundCloud's engagement-based ranking systems. A healthy like-to-play ratio is a signal that actual listeners who played the track found it compelling enough to react. Tracks with strong like ratios rank better in SoundCloud search results and are more likely to be recommended by the platform's automated discovery features. Likes also create secondary notification activity. Users who liked your track receive notifications when you upload new music, creating an engagement loop that builds listener retention over time. SMMGen delivers SoundCloud likes to any public track URL. Services start from $0.15 per 1,000 likes.",
+        "icon": null,
+        "link": {
+          "label": "Buy Followers",
+          "href": null
+        },
+        "number": "05",
+        "badge": "From $0.50/1k"
+      },
+      {
+        "title": "SoundCloud Downloads",
+        "body": "SoundCloud allows artists to enable free downloads on their tracks. A high download count signals that listeners found the track valuable enough to save permanently, which is a stronger quality signal than a play or a like. Download counts are displayed publicly on every track and contribute to overall track authority. High download counts also suggest to SoundCloud's algorithm that the track has lasting value beyond casual listening, which can improve how the track ranks in relevant searches over time. SMMGen delivers SoundCloud downloads to any public track with downloads enabled. Full pricing and package options are in the service catalog at smmgen.com/services.",
+        "icon": null,
+        "link": {
+          "label": "Buy Likes",
+          "href": null
+        },
+        "number": "06",
+        "badge": "From $0.40/1k"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose **SMMGen For SoundCloud SMM Services?**",
+    "intro": "",
+    "items": [
+      {
+        "title": "SoundCloud Is an Audio Platform That Judges Music on First Impressions",
+        "body": "Every other platform in this catalog presents content visually before audio. On Instagram, a thumbnail and caption pre-sell the video. On TikTok, the first frame plays automatically. On SoundCloud, the first thing a new listener evaluates is the play count, like count, and repost count before deciding whether the music is worth their time. This makes SoundCloud engagement services more directly tied to whether real people ever hear your music than engagement on any other platform. SMMGen's SoundCloud services are structured to build the engagement signals that clear this initial evaluation barrier.",
+        "icon": {
+          "src": "/image/why-choose/soundcloud-smm-panel/soundcloud-is-an-audio-platform-that-judges-music-on-first-impressions.png",
+          "alt": "SoundCloud Is an Audio Platform That Judges Music on First Impressions"
+        },
+        "link": null,
+        "number": null,
+        "badge": null
+      },
+      {
+        "title": "No Password Required, Ever",
+        "body": "SMMGen never requests your SoundCloud login credentials. Every service uses only the public URL of your track or profile. Your artist account, your SoundCloud monetization settings, and your upload access are never touched under any circumstance.",
+        "icon": {
+          "src": "/image/why-choose/soundcloud-smm-panel/no-password-required-ever.png",
+          "alt": "No Password Required, Ever"
+        },
+        "link": null,
+        "number": null,
+        "badge": null
+      },
+      {
+        "title": "24/7 Support from a Real Team",
+        "body": "Any issue with your SoundCloud order gets a real response from our support team. Submit a ticket or start a live chat at smmgen.com/contact-us at any time. Most order queries are resolved within a few hours.",
+        "icon": {
+          "src": "/image/why-choose/soundcloud-smm-panel/24-7-support-from-a-real-team.png",
+          "alt": "24/7 Support from a Real Team"
+        },
+        "link": null,
+        "number": null,
+        "badge": null
+      },
+      {
+        "title": "Reposts That Carry Your Music to Genre-Relevant Listeners",
+        "body": "SMMGen's repost service uses accounts with actual follower bases rather than empty accounts that deliver reposts with no real distribution value. A repost from an account with 5,000 genre-relevant followers places your track in front of 5,000 listeners who are already interested in that style of music. This targeted distribution effect is why reposts produce secondary engagement benefits including organic plays, likes, and follows from the listener networks your track is reposted into.",
+        "icon": {
+          "src": "/image/why-choose/soundcloud-smm-panel/reposts-that-carry-your-music-to-genre-relevant-listeners.png",
+          "alt": "Reposts That Carry Your Music to Genre-Relevant Listeners"
+        },
+        "link": null,
+        "number": null,
+        "badge": null
+      },
+      {
+        "title": "Drip Delivery That Protects Your Artist Account",
+        "body": "SoundCloud's fraud detection systems monitor tracks for unnatural play patterns, particularly plays that arrive from the same IP ranges in rapid succession or play counts that spike dramatically within hours of upload. SMMGen delivers SoundCloud plays, followers, and reposts at a gradual drip pace designed to mirror realistic listener arrival patterns. Your play count grows at a rate that looks organic in SoundCloud's analytics, protects your artist account from detection flags, and ensures the engagement you receive contributes to sustained algorithmic momentum rather than being removed.",
+        "icon": {
+          "src": "/image/why-choose/soundcloud-smm-panel/drip-delivery-that-protects-your-artist-account.png",
+          "alt": "Drip Delivery That Protects Your Artist Account"
+        },
+        "link": null,
+        "number": null,
+        "badge": null
+      },
+      {
+        "title": "Prices Starting from $0.10 per 1,000",
+        "body": "SoundCloud services on SMMGen start from $0.10 per 1,000 plays. Followers start from $0.80 per 1,000. Likes start from $0.15 per 1,000. You pay only for what you order with no subscriptions and no hidden fees. For the lowest available rates across all SoundCloud services, visit our [cheap SMM panel](/cheap-smm-panel) pricing page. For music labels and agencies managing multiple artist campaigns, our [wholesale SMM panel](/wholesale-smm-panel) page covers volume pricing.",
+        "icon": {
+          "src": "/image/why-choose/soundcloud-smm-panel/prices-starting-from-0-10-per-1-000.png",
+          "alt": "Prices Starting from $0.10 per 1,000"
+        },
+        "link": null,
+        "number": null,
+        "badge": null
+      }
+    ]
+  },
+  "steps": {
+    "title": "How to Order **SoundCloud SMM Services** on SMMGen",
+    "intro": "Getting started with SoundCloud growth on SMMGen takes less than five minutes. Follow these four simple steps to place your first SoundCloud order.",
+    "cta": {
+      "label": "Place Your First Order",
+      "href": "https://my.smmgen.com/signup"
+    },
+    "items": [
+      {
+        "title": "Create Your Free Account",
+        "body": "Go to smmgen.com/signup and register with your email address. No credit card is required. Your dashboard is ready immediately after registration.",
+        "icon": {
+          "src": "/image/how-social/soundcloud-smm-panel/create-your-free-account.png",
+          "alt": "Create Your Free Account"
+        },
+        "number": "01"
+      },
+      {
+        "title": "Add Funds to Your Balance",
+        "body": "Click \"Add Funds\" in your dashboard. SMMGen accepts PayPal, Visa, Mastercard, Bitcoin, Ethereum, USDT, and local payment options worldwide. Add any amount that covers your first order. No minimum deposit applies beyond the cost of the service you select.",
+        "icon": {
+          "src": "/image/how-social/soundcloud-smm-panel/add-funds-to-your-balance.png",
+          "alt": "Add Funds to Your Balance"
+        },
+        "number": "02"
+      },
+      {
+        "title": "Find Your SoundCloud Service",
+        "body": "Navigate to the SoundCloud category in the service catalog. Each listing shows the pricing, the minimum and maximum order size, the estimated start time, and delivery pacing details. For plays specifically, always select gradual drip delivery rather than instant bulk delivery. SoundCloud's detection systems are more responsive to sudden play spikes than most platforms.",
+        "icon": {
+          "src": "/image/how-social/soundcloud-smm-panel/choose-a-service.png",
+          "alt": "Find Your SoundCloud Service"
+        },
+        "number": "03"
+      },
+      {
+        "title": "Paste Your Track or Profile Link and Submit",
+        "body": "Copy the public URL of your SoundCloud track or profile. Paste it into the order form. Set your quantity. Confirm and submit. Delivery begins automatically and tracks live in your dashboard. For music label teams and resellers managing bulk SoundCloud campaigns across multiple artist tracks, connect through our SMM panel API to automate order placement and tracking without manual input per track.",
+        "icon": {
+          "src": "/image/how-social/soundcloud-smm-panel/place-your-order.png",
+          "alt": "Paste Your Track or Profile Link and Submit"
+        },
+        "number": "04"
+      }
+    ]
+  },
+  "whoUses": {
+    "title": "Who Uses **SMMGen's SoundCloud SMM Panel?**",
+    "intro": "",
+    "items": [
+      {
+        "title": "Independent Artists Building a Music Career",
+        "body": "Independent artists without label backing or promotional budgets face the hardest version of SoundCloud's cold-start problem. Without plays, likes, and reposts, a new track is invisible to discovery. Without discovery, the music never reaches the listeners who would genuinely love it. SMMGen helps independent artists establish the initial engagement signals that allow their best tracks to compete for listener attention in their genre alongside more established names.",
+        "icon": {
+          "src": "/image/who-uses/test.png",
+          "alt": "Independent Artists Building a Music Career"
+        }
+      },
+      {
+        "title": "Music Producers Selling Beats and Tracks",
+        "body": "Beat makers and producers who sell tracks directly to artists, content creators, and licensing clients use SoundCloud as their primary portfolio platform. A producer profile with 50,000 plays across their catalog looks established and attracts buyer inquiries. A producer with 200 total plays across the same catalog looks unproven regardless of production quality. SMMGen helps producers build the play and follower counts that make their portfolio credible to potential buyers.",
+        "icon": {
+          "src": "/image/who-uses/soundcloud-smm-panel/music-producers-selling-beats-and-tracks.png",
+          "alt": "Music Producers Selling Beats and Tracks"
+        }
+      },
+      {
+        "title": "DJs and Electronic Music Artists",
+        "body": "DJs and electronic music producers use SoundCloud more than any other genre community on the platform. Mix sets, original productions, and remixes are shared widely within the electronic music community through SoundCloud repost networks. SMMGen's repost services help DJs get their mixes into these repost networks quickly, exposing their music to genre-relevant listener communities that actively follow curated repost accounts in the electronic space.",
+        "icon": {
+          "src": "/image/who-uses/soundcloud-smm-panel/djs-and-electronic-music-artists.png",
+          "alt": "DJs and Electronic Music Artists"
+        }
+      },
+      {
+        "title": "Podcasters Building Listener Audiences",
+        "body": "SoundCloud remains a popular hosting and discovery platform for podcast creators who want to reach an audio-first audience without the algorithm complexity of Spotify or Apple Podcasts. Play counts on SoundCloud podcast episodes function exactly as they do on music tracks, signaling to new listeners whether a show is worth tuning into. SMMGen's play services help podcasters establish credible episode play counts that improve listener conversion rates from cold discovery.",
+        "icon": {
+          "src": "/image/who-uses/soundcloud-smm-panel/podcasters-building-listener-audiences.png",
+          "alt": "Podcasters Building Listener Audiences"
+        }
+      },
+      {
+        "title": "Resellers Serving Music Industry Clients",
+        "body": "Music promotion services are premium products in any SMM reseller catalog. Artists and labels understand the value of promotional spend in ways that general social media users sometimes do not, which means SoundCloud service buyers are often more motivated and repeat-oriented than buyers on other platforms. Plays bought from SMMGen at $0.10 per 1,000 and sold at $0.50 to $0.80 per 1,000 produce margins of 400% to 700%. Followers bought at $0.80 per 1,000 and sold at $3.00 to $5.00 per 1,000 produce margins of 275% to 525%. For resellers running their own branded panel, SoundCloud services are available through the [white label SMM panel](/white-label-smm-panel) API connection at the same wholesale rates. For agency-scale music promotion operations, see the [SMM reseller panel](/smm-reseller-panel) page.",
+        "icon": {
+          "src": "/image/who-uses/soundcloud-smm-panel/resellers-serving-music-industry-clients.png",
+          "alt": "Resellers Serving Music Industry Clients"
+        }
+      }
+    ]
+  },
+  "safety": {
+    "title": "Is It Safe to Buy SoundCloud Services **Through an SMM Panel?**",
+    "body": "SoundCloud monitors tracks for unnatural engagement patterns, particularly sudden play count spikes from accounts with no listening history on the platform and plays that complete in unusually short durations relative to the track's length.\n\nSMMGen never asks for your SoundCloud login credentials. Every service operates through public track and profile URLs only. Your artist account, upload permissions, and monetization settings are never accessed.\n\nThe safest SoundCloud SMM practices are specific to how the platform processes audio content. Always use gradual drip delivery rather than instant bulk plays. Keep play order sizes proportional to your track's existing performance history. Order likes and comments alongside plays to maintain engagement ratios that match realistic listener behavior. Avoid placing very large play orders on brand new profiles with no upload history or existing followers.\n\nSoundCloud works best when SMM services support a genuine release promotion strategy. If you are running a campaign across Instagram, TikTok, or your own network simultaneously, SMMGen's SoundCloud services add the platform-specific engagement layer that makes your track look as active on SoundCloud as your promotion efforts suggest it should be.",
+    "cta": {
+      "label": "About SMMGen",
+      "href": "/about-us"
+    },
+    "image": {
+      "src": "/image/safe-social/soundcloud-smm-panel/is-it-safe-to-buy-soundcloud-services-through-an-smm-panel.webp",
+      "alt": "Is It Safe to Buy SoundCloud Services Through an SMM Panel?"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked **Questions About the SoundCloud SMM Panel**",
+    "intro": "",
+    "items": [
+      {
+        "question": "What is a SoundCloud SMM panel?",
+        "answer": "A SoundCloud SMM panel is a platform where users purchase growth services for SoundCloud tracks and profiles. Services include plays, followers, reposts, likes, comments, and downloads. SMMGen is a SoundCloud SMM panel that processes all orders automatically using public track and profile URLs, with no account access or login credentials ever required."
+      },
+      {
+        "question": "Is it safe to buy SoundCloud plays from SMMGen?",
+        "answer": "Yes. SMMGen never requests your SoundCloud login credentials. Every service uses only public track or profile URLs. For best results, always use gradual drip delivery, order plays alongside likes and comments to maintain natural engagement ratios, and keep order sizes proportional to your existing track and account history."
+      },
+      {
+        "question": "How do reposts help SoundCloud growth?",
+        "answer": "SoundCloud reposts distribute your track to the follower feeds of every account that reposts it. Each repost creates a new distribution node that exposes your music to an entirely new listener network. SoundCloud's algorithm also treats reposts as quality signals, improving how your track ranks in search results and automated playlist recommendations. Reposts from accounts with genre-relevant follower bases produce the highest secondary engagement benefits."
+      },
+      {
+        "question": "What SoundCloud services are available on SMMGen?",
+        "answer": "SMMGen offers SoundCloud plays, followers, reposts, likes, comments, and downloads. Individual buy pages are available for plays and followers. The full catalog with live pricing for all SoundCloud services is at smmgen.com/services."
+      },
+      {
+        "question": "Can buying SoundCloud plays help get my track on playlists?",
+        "answer": "Yes, indirectly. SoundCloud's automated playlist and station features use play count and engagement rate as ranking signals when selecting tracks to recommend. Tracks with stronger play counts and engagement ratios appear more frequently in genre-relevant automated playlists. For editorial playlist placements, play count also functions as a credibility threshold that curators use when evaluating submissions."
+      },
+      {
+        "question": "What is the best engagement ratio for a SoundCloud track?",
+        "answer": "A well-performing SoundCloud track typically shows a like rate of 1% to 5% of total plays, a repost rate of 0.5% to 2%, and a comment rate of 0.1% to 0.5%. Use these ranges when ordering combinations of services. Maintaining ratios within these bands makes your track's engagement profile look credible to both SoundCloud's detection systems and to curators and labels who manually review your analytics."
+      },
+      {
+        "question": "Can resellers order SoundCloud services through the API?",
+        "answer": "Yes. Every SoundCloud service on SMMGen is available through the API. Resellers automate order placement, check delivery status, and manage multiple client tracks and profiles programmatically. Full documentation is on the SMM panel API page."
+      },
+      {
+        "question": "Does SMMGen offer refunds on SoundCloud orders?",
+        "answer": "Yes. SMMGen's refund policy covers all SoundCloud orders. If a service fails to deliver as described, you are eligible for a refund or account credit. Raise a support ticket through smmgen.com/contact-us to initiate any claim."
+      }
+    ]
+  },
+  "cta": {
+    "enabled": true,
+    "title": "Start with SMMGen Today",
+    "body": "Trusted by over 98,121 active users since 2018, SMMGen is one of the [Best SMM Panel](/best-smm-panel) platforms for creators, businesses, agencies, and resellers. No matter your goal, you can manage all your social media growth from one easy-to-use dashboard with fast delivery and affordable prices.\n\nCreate your account in just two minutes, add funds, and place your first order in a few clicks. Your campaign starts quickly, and most orders begin processing within minutes.",
+    "buttons": [
+      {
+        "label": "Create Free Account",
+        "href": "https://my.smmgen.com/signup",
+        "variant": "primary"
+      },
+      {
+        "label": "Browse All Services",
+        "href": "/services",
+        "variant": "outline"
+      }
+    ],
+    "image": {
+      "src": "/image/ready-to-start.webp",
+      "alt": "Ready to start illustration"
+    }
+  }
+}
