@@ -9,20 +9,20 @@
 |---|---|
 | Page types / URL patterns | Same as smmgen.com, in English (default) + Arabic (`/ar`) |
 | Unique page designs | 17 (11 singleton/landing + 6 templates) |
-| Templates | Country (25), Platform (15), Buy (23), Blog post (3–5 placeholder), Blog listing, Legal (5) |
+| Templates | Country (25), Platform (15), Buy (23), Blog post (79), Blog listing, Legal (5) |
 | Singleton / landing pages | Home, Services, About, Contact, FAQ + Best, Cheap, Reseller, Wholesale, White Label, API |
 | Admin | Payload CMS at `/admin` — collections, globals, blocks, drafts, live preview, roles, en/ar localization |
-| Content | Original placeholder copy for Trendawe (en + ar), replaced by the team from the admin |
+| Content | smmgen.com text scraped as a source, rewritten for Trendawe (en) and translated (ar) |
 
 ## Phase overview
 
 | Phase | Name | Output |
 |---|---|---|
-| 0 | Setup & design audit | Running app + admin, i18n routing, design tokens, reference screenshots, reference images |
+| 0 | Setup, audit & content extraction | Running app + admin, i18n routing, design tokens, reference screenshots, source content + images |
 | 1 | Foundation | Design system, layout (header/mega menu/footer), shared sections, core globals & libraries |
 | 2 | Country template | 25 country pages live from CMS — validates the whole architecture |
 | 3 | Platform & Buy templates | 15 + 23 pages, auto-generated menus |
-| 4 | Blog | Posts, categories, authors, listing/search/pagination, placeholder posts |
+| 4 | Blog | Posts, categories, authors, listing/search/pagination, 79 rewritten posts |
 | 5 | Singleton, landing & legal pages | 11 block-built pages + 5 legal pages |
 | 6 | SEO, routing & revalidation | Metadata, JSON-LD, sitemap, robots, redirects, 404, live preview |
 | 7 | Admin experience | Roles/access, dashboard widget, editor UX polish |
@@ -30,9 +30,9 @@
 
 ---
 
-## Phase 0 — Setup & design audit
+## Phase 0 — Setup, audit & content extraction
 
-**Goal:** a working bilingual Next.js + Payload project and a precise picture of the reference design (smmgen.com). No text content is scraped.
+**Goal:** a working bilingual Next.js + Payload project, a precise picture of the reference design (smmgen.com), and all its content captured as source JSON.
 
 ### 0.1 Project setup
 - [x] Scaffold with `pnpm create payload-app` (blank template, Postgres adapter, TypeScript) — Payload 3.90.2 + Next 16.3.3.
@@ -53,16 +53,31 @@
 - [ ] Capture interaction states: Services mega menu (with sub-menu open), Service Area two-column menu, Company menu, mobile drawer, FAQ accordion open, platform tabs.
 - [ ] Write `docs/page-inventory.md`: every section of every design, in order, with its matching block/field name and RTL notes. Include an "Open questions" list.
 
-### 0.3 Reference images & page list (`scripts/audit/`)
-- [ ] **Blocked until the owner confirms permission to reuse smmgen.com images.**
-- [ ] `fetch-sitemap.ts` — read `https://smmgen.com/sitemap.xml` → `data/reference-urls.json` (used only for page lists: which countries, platforms, buy pages, legal pages exist).
-- [ ] `download-assets.ts` — decode `/_next/image?url=…` to the original path; download the referenced images to `data/assets/` with a manifest (original URL → local file → used on which page/section). No HTML or text is stored.
+### 0.3 Content extraction (`scripts/scrape/`)
+- [ ] `fetch-sitemap.ts` — read `https://smmgen.com/sitemap.xml` → `data/urls.json` (expect 161 URLs). Add `/blog/author/kanok-miah`.
+- [ ] `fetch-pages.ts` — download raw HTML for every URL to `data/raw/` (throttle ~1 req/s, retry on failure, skip if cached).
+- [ ] FAQ answers: if answers are not present in the static HTML, use Playwright to expand each accordion and capture the text.
+- [ ] Parsers (cheerio), one per template → `data/source/<collection>/<slug>.json` shaped like the planned Payload fields:
+  - [ ] `parse-country.ts` (25)
+  - [ ] `parse-platform.ts` (15)
+  - [ ] `parse-buy.ts` (23)
+  - [ ] `parse-post.ts` (79) — keep heading/list/link structure so it can become Lexical; keep internal links.
+  - [ ] `parse-legal.ts` (5)
+  - [ ] `parse-singletons.ts` — Home, Services, About, Contact, FAQ, 6 landing pages → ordered list of blocks with content.
+  - [ ] `parse-shared.ts` — menus, footer, payment methods, testimonials, home FAQ group, authors, categories.
+- [ ] `download-assets.ts` — decode `/_next/image?url=…` to the original `/image/...` path; download all referenced images (site + `api.smmgen.com/storage/...` for blog) to `data/assets/` with a manifest mapping original URL → local file → alt text.
+- [ ] Validation script: every source JSON file passes a Zod schema; report missing fields.
+
+### 0.4 Rewrite pipeline
+- [ ] Define the `data/content/` shape (same as source, with `en` + `ar` per localized field) and a style guide for the Trendawe voice in `docs/content-style.md`.
+- [ ] Rewrite one sample of each template (1 country, 1 platform, 1 buy page, 1 post) for owner review before rewriting the rest in the phase that seeds them.
 
 ### Acceptance criteria — Phase 0
 - `pnpm dev` runs; `/admin` login works with en/ar locale switch; DB + storage connected.
 - `/` and `/ar` both render (empty shell) with correct `lang`/`dir`.
 - `docs/design-tokens.md`, `docs/page-inventory.md` and 18 reference screenshot pairs exist.
-- Reference page lists exist; images downloaded (if permission confirmed).
+- `data/source/` holds JSON for all 161 URLs + shared data; validation passes with zero errors; images downloaded.
+- Rewrite samples approved by the owner.
 - **STOP — summary + open questions.**
 
 ---
@@ -88,7 +103,7 @@
 - [ ] `lib/tokens.ts` + unit tests (formatting: full number, compact `98K+`, `109M+`).
 
 ### 1.3 Seed (first pass)
-- [ ] Write placeholder content (en + ar) in `data/content/` — original Trendawe copy, never copied from smmgen.
+- [ ] Rewrite shared content (menus, footer, testimonials, FAQ group, payment methods) into `data/content/` (en + ar).
 - [ ] `scripts/seed/` framework: Payload Local API, upsert by slug, writes both locales, uploads media from `data/assets` once (dedupe by original URL), idempotent re-runs.
 - [ ] Seed: media, site-settings, header, footer, payment methods, testimonials, FAQ groups, platforms/buy-pages/countries (menu fields).
 
@@ -115,7 +130,7 @@
 - [ ] Complete `countries` fields: hero (title, intro, image, CTA), whatIs, whyChoose (5 items: title, body, image), highlightNote, services (heading + `featuredPlatforms[]` → platform relation + country-specific description), payments (heading, intro, `methods[]` → payment-method relation + type label, secure-transaction note, side image, methods count badge), steps (4), reseller (title, body, image, CTA), faq, cta, seo.
 - [ ] `lib/resolve-slug.ts` + `src/app/(frontend)/[slug]/page.tsx` with `generateStaticParams` and `dynamicParams = false` once all collections are wired (keep `true` until Phase 5).
 - [ ] `CountryTemplate` composed from shared sections; platform tabs inside "Which services…" section.
-- [ ] Write placeholder copy (en + ar) for the 25 countries and seed them from `data/content/countries/`.
+- [ ] Rewrite the 25 countries (en + ar) into `data/content/countries/` and seed them.
 - [ ] Revalidation hook: saving a country revalidates `country:{slug}` and the countries menu tag.
 - [ ] Live Preview configured for `countries`.
 - [ ] Playwright visual test: `/smm-panel-egypt` and `/smm-panel-usa` vs reference (desktop + mobile).
@@ -132,12 +147,12 @@
 ### 3.1 Platforms (15)
 - [ ] Complete `platforms` fields: hero (+ trust badge), whatIs, serviceCards[] (number, title, priceFrom, body, link → buy-page relation **or** external URL fallback to signup), whyChoose[] (image cards), steps (4), whoUses[] (4–5), safety (title, body, image, CTA), faq, cta, seo.
 - [ ] `PlatformTemplate`.
-- [ ] Write placeholder copy (en + ar) and seed 15 platforms; verify platforms without buy pages (Pinterest, Snapchat, Threads, Reddit, Twitch, SoundCloud) link cards to signup.
+- [ ] Rewrite (en + ar) and seed 15 platforms; verify platforms without buy pages (Pinterest, Snapchat, Threads, Reddit, Twitch, SoundCloud) link cards to signup.
 
 ### 3.2 Buy pages (23)
 - [ ] Complete `buy-pages` fields: hero (title, intro, checklist[], CTA, image, trust badge), whyBuy (rich text with bullet list + image), packageTypes[] (title, body, image), whyChoose[] (6), steps (3), pricingPackages[] (name, quantity, delivery, price, isPopular), pricingNote (rich text), testimonials (rel, many), faq, cta, seo.
 - [ ] `BuyTemplate` with responsive pricing (cards on mobile, table on desktop) and a testimonials carousel rendered **once** (fix issue #8).
-- [ ] Write placeholder copy (en + ar) and seed 23 buy pages.
+- [ ] Rewrite (en + ar) and seed 23 buy pages.
 
 ### Acceptance criteria — Phase 3
 - 38 more URLs return 200 with correct content; the mega menu sub-menus link to the right buy pages.
@@ -147,14 +162,14 @@
 
 ## Phase 4 — Blog
 
-> The blog is managed in Payload. Seed 3–5 placeholder posts (en + ar) to build and test the templates; the team writes real posts later.
+> The blog is managed in Payload. All 79 posts are rewritten (en + ar) and seeded.
 
 - [ ] Collections: `posts` (drafts, versions, scheduled publish), `categories`, `authors`.
 - [ ] Computed `readingTime` (beforeChange hook) and auto-generated table of contents from H2/H3 headings (slugified anchors).
 - [ ] `/blog` listing: hero with background, search (`?q=` → Payload `like` on title/excerpt), category chips with counts, post cards (category, read time, title, excerpt, author + date, Read More), pagination (`?page=`, 25 per page).
 - [ ] `/blog/category/[slug]` and `/blog/author/[slug]` reuse the listing.
 - [ ] `/blog/[slug]`: TOC sidebar, author card, share buttons (Facebook, LinkedIn, X), featured image, published date, read time, Lexical body (custom converters for headings with anchors, lists, links, images), related posts (same category, latest 3), CTA from `site-settings` (fix issue #1).
-- [ ] Seed 3–5 placeholder posts (en + ar), 2 authors and a few categories.
+- [ ] Rewrite and seed 79 posts (en + ar) + images + authors + categories; keep original `publishedAt` dates.
 - [ ] Revalidation: post change → `post:{slug}`, `posts`, its category and author tags.
 
 ### Acceptance criteria — Phase 4
@@ -173,10 +188,10 @@
 
 ### 5.2 Pages
 - [ ] Globals with `layout` blocks: `home-page`, `services-page`, `about-page`, `contact-page`, `faq-page`.
-- [ ] Collection `landing-pages` with `layout` blocks; seed the 6 pages in the reference section order with placeholder copy (en + ar).
+- [ ] Collection `landing-pages` with `layout` blocks; seed the 6 pages in the reference section order with rewritten copy (en + ar).
 - [ ] Home "How it Works" section has id `how-it-works`; FAQ page and Home share one `faq-groups` entry.
 - [ ] Use stat tokens for every number in seeded copy.
-- [ ] Collection `legal-pages` + `LegalTemplate` (title, intro, last updated / effective date, rich text body, related legal links); seed 5 pages with placeholder text marked "to be reviewed by the owner".
+- [ ] Collection `legal-pages` + `LegalTemplate` (title, intro, last updated / effective date, rich text body, related legal links); rewrite (en + ar) and seed 5 pages, marked "to be reviewed by the owner" (legal text must match Trendawe's real business details).
 - [ ] Switch `[slug]` route to `dynamicParams = false` now that every root-level collection is wired.
 
 ### Acceptance criteria — Phase 5
@@ -189,7 +204,7 @@
 ## Phase 6 — SEO, routing & revalidation
 
 - [ ] `@payloadcms/plugin-seo` on every page-producing collection/global; `generateMetadata` uses it with fallbacks (title template `%s | Trendawe`, default OG image from `site-settings`).
-- [ ] Placeholder titles/meta descriptions seeded per locale; editors can override per page.
+- [ ] Rewritten titles/meta descriptions seeded per locale; editors can override per page.
 - [ ] Canonical URL on every page (no trailing slash), `hreflang` alternates (en, ar, x-default), Open Graph + Twitter cards.
 - [ ] JSON-LD: `Organization` (layout), `WebSite`, `BreadcrumbList` (all non-home pages), `FAQPage` (pages with FAQ), `Article` (posts), `Product`/`Offer` for buy-page pricing packages.
 - [ ] `sitemap.ts` generated from all published documents in both locales (includes every author; `lastmod` from `updatedAt`).

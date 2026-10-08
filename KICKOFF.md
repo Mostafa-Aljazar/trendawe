@@ -95,7 +95,7 @@ Report findings by severity, then fix the high and medium ones.
 ## Questions to settle with the owner before / during the build
 
 1. **Light-background logo** — does Trendawe have one, or should we create a temporary variant?
-2. **smmgen.com images** — confirm we have permission to reuse them.
+2. **Trendawe business details** — contact email, phone, address, socials and panel URLs for `site-settings` and legal pages.
 3. **Hosting** — Vercel + Supabase OK? Who owns the accounts?
 4. **Live stats** — should orders/users/services counts update automatically from the ordering app, or be edited manually in Site Settings?
 5. **Admin users** — who needs access, and with which role (admin / editor / writer)?

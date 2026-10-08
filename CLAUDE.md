@@ -8,15 +8,15 @@
 ## 1. What we are building
 
 The **Trendawe** marketing site (brand: https://trendawe.com) as a single Next.js application with an embedded **Payload CMS** admin at `/admin`.
-Its **structure and design replicate https://smmgen.com exactly** (the design reference), but with **Trendawe branding and Trendawe's own content**.
+Its **structure and design replicate https://smmgen.com exactly**, re-branded as **Trendawe**. smmgen.com is owned by the same owner (confirmed 2026-10-08), so its images and texts may be reused — texts are **rewritten** in Trendawe's voice.
 
 **What comes from where:**
 | Item | Source |
 |---|---|
 | Page types, sections, components, layout, interactions, responsive behaviour | **smmgen.com** — replicated exactly, written from scratch (our own React/Tailwind code; never copy its HTML/CSS/JS) |
-| Images / illustrations | smmgen.com (owner's decision — **pending confirmation that we have permission**) |
+| Images / illustrations | smmgen.com (same owner — reuse allowed) |
 | Logo, colors | **trendawe.com** (see §2a) |
-| Text content (all copy, FAQs, posts, SEO) | **Ours.** Seeded with original placeholder copy written for Trendawe (never copied from smmgen); the team replaces it from the admin |
+| Text content (all copy, FAQs, posts, SEO) | Scraped from smmgen.com as a **source**, then **rewritten** for Trendawe (same meaning and structure, new wording, Trendawe name) in English, and translated to Arabic. Never published verbatim (avoids duplicate-content SEO penalties). Editable in the admin |
 
 **Goals (in priority order):**
 1. **Design parity** — every page type, section and component looks and behaves like the smmgen.com equivalent (desktop + mobile), re-skinned with Trendawe brand tokens.
@@ -27,7 +27,7 @@ Its **structure and design replicate https://smmgen.com exactly** (the design re
 
 **Out of scope:**
 - The ordering panel (Log In / Sign Up) — external links stored in `site-settings`.
-- Scraping text content from smmgen.com — we don't migrate its copy.
+- Publishing smmgen.com text verbatim.
 
 ### 2a. Brand (from trendawe.com)
 | Token | Value |
@@ -109,12 +109,14 @@ src/
   payload.config.ts
   payload-types.ts               # Generated — never edit by hand
 scripts/
-  audit/                         # Phase 0: design audit + image download from the reference site
+  scrape/                        # Phase 0: fetch + parse smmgen.com into source JSON, download images
   seed/                          # Idempotent seeders using the Payload Local API
   qa/                            # URL parity, link checker, meta parity
 data/
-  content/                       # Placeholder seed content (our own copy, en + ar) per collection/global (committed)
-  assets/                        # Downloaded reference images (gitignored, uploaded to storage)
+  raw/                           # Raw HTML snapshots (gitignored)
+  source/                        # Parsed smmgen.com text per page, as scraped (committed; never seeded directly)
+  content/                       # Rewritten Trendawe content (en + ar) per collection/global — what the seeders read (committed)
+  assets/                        # Downloaded images (gitignored, uploaded to storage)
 docs/
   design-tokens.md
   page-inventory.md
@@ -137,7 +139,7 @@ All marketing pages live at the **root level**, so `src/app/(frontend)/[locale]/
 | `/smm-panel-{country}` | 25 (same list as smmgen) | collection `countries` | `[slug]` → CountryTemplate |
 | `/{platform}-smm-panel` (e.g. `x-twitter-smm-panel`) | 15 (same list as smmgen) | collection `platforms` | `[slug]` → PlatformTemplate |
 | `/buy-{platform}-{service}` | 23 (same list as smmgen) | collection `buy-pages` | `[slug]` → BuyTemplate |
-| `/blog`, `/blog/[slug]`, `/blog/category/[slug]`, `/blog/author/[slug]` | 3–5 placeholder posts + listings | `posts`, `categories`, `authors` | Blog templates |
+| `/blog`, `/blog/[slug]`, `/blog/category/[slug]`, `/blog/author/[slug]` | 79 posts (rewritten) + listings | `posts`, `categories`, `authors` | Blog templates |
 
 Rules:
 - The resolver queries collections by the **stored `slug` field**, never by parsing the pattern. Patterns are only for documentation.
@@ -207,12 +209,14 @@ The original text embeds live numbers ("over 108774260 orders", "98121 users"). 
 
 ---
 
-## 7. Content rules (placeholder copy)
+## 7. Content rules
 
-- All seeded copy is **original placeholder text written for Trendawe** in English and Arabic — never copied or paraphrased from smmgen.com. The team replaces it from the admin.
+- Pipeline: `data/raw` (HTML) → `data/source` (parsed smmgen text, unchanged) → `data/content` (rewritten Trendawe text, en + ar) → seed.
+- **Rewrite, don't copy:** keep each section's meaning, structure, headings count, list lengths and FAQ topics, but write new wording; replace the brand (SMMGen → Trendawe) and every smmgen URL/email/handle. Arabic is a natural translation, not word-for-word.
+- Brand facts (contact details, address, socials, app URLs) come from Trendawe / `site-settings`, never from smmgen.
 - Use stat tokens for every number (no hardcoded counts).
-- Lessons from the reference site to apply structurally: FAQ links always go to `/faq`; Company menu comes from one global; the sitemap includes every author; the testimonial carousel renders its list once (loop with CSS/JS).
-- Log open content/branding questions in `docs/page-inventory.md` under "Open questions".
+- Fix the reference site's issues while rewriting: leftover other-brand CTA in blog posts ("SMMSun", "Bangladesh", "68,000 users") → standard CTA from `site-settings`; white-label page section titled "…for Wholesale…" → retitle; inconsistent numbers → stat tokens; FAQ links always `/faq`; Company menu from one global; sitemap includes every author; testimonial carousel renders its list once.
+- Log anything unclear in `docs/page-inventory.md` under "Open questions".
 
 ---
 
@@ -225,7 +229,7 @@ pnpm lint
 pnpm typecheck           # tsc --noEmit
 pnpm payload generate:types
 pnpm payload migrate:create && pnpm payload migrate
-pnpm audit:images        # scripts/audit → data/assets (reference images)
+pnpm scrape              # scripts/scrape → data/raw + data/source + data/assets
 pnpm seed                # scripts/seed (idempotent, upsert by slug)
 pnpm test:e2e            # Playwright
 pnpm qa:urls             # every expected URL (both locales) returns 200
@@ -240,7 +244,7 @@ pnpm qa:urls             # every expected URL (both locales) returns 200
 3. Before marking any task done: `pnpm typecheck && pnpm lint && pnpm build` must pass.
 4. Commit after each task with Conventional Commits (`feat(countries): …`, `fix(header): …`). **No `Co-Authored-By` or other attribution lines.**
 5. **Stop at the end of every phase** and post a short summary: what was built, what to review, open questions.
-6. Never change an agreed URL pattern. Never hardcode content in components. Never copy smmgen.com text or code. Never edit `payload-types.ts` by hand.
+6. Never change an agreed URL pattern. Never hardcode content in components. Never copy smmgen.com code or publish its text verbatim. Never edit `payload-types.ts` by hand.
 7. When unsure what the reference looks like, inspect smmgen.com with Playwright — don't guess.
 8. Ask before: adding a dependency, changing the content model in a way that breaks seeded data, or deleting data.
 9. Secrets live in `.env` only. Keep `.env.example` up to date.
