@@ -39,9 +39,13 @@ export const topSections = ($: $) => {
 }
 
 /** Internal links become root-relative paths; external links stay absolute. */
+/** Old blog media host (offline); the same files are served by api.smmgen.com. */
+export const LEGACY_MEDIA_HOST = /^https?:\/\/smmgen-backend\.fexpink\.com\//
+export const MEDIA_HOST = 'https://api.smmgen.com/'
+
 export const normalizeHref = (href = '') => {
   if (href.startsWith(SOURCE_ORIGIN)) return href.slice(SOURCE_ORIGIN.length) || '/'
-  return href
+  return href.replace(LEGACY_MEDIA_HOST, MEDIA_HOST)
 }
 
 export const image = ($: $, img: Node | undefined): Image | null => {

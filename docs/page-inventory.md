@@ -143,6 +143,8 @@ Exact visual variants of landing-page sections are confirmed against the screens
 3. ~~Digits in `/ar`?~~ Decided: Western digits.
 
 ## 9. Content issues (from the reference — fix while rewriting)
+- 16 blog images point to an offline host (`smmgen-backend.fexpink.com`) and are broken on the live source; the same files exist on `api.smmgen.com` → remapped during scraping.
+- `/image/section-bg-3.svg` is referenced but returns 404 on the source.
 - Footer "Quick Links" omits **Best SMM Panel** (the Company menu has it) — Trendawe footer links come from one curated list.
 - Payment methods: 89 unique across the 25 countries; "Visa / Mastercard" is one entry on some pages and two separate entries ("Visa", "Mastercard") on others → normalise in the library.
 - Home FAQ and `/faq` are the same 8 questions → one `faq-groups` entry ("general").
