@@ -25,7 +25,8 @@
     "audit:inventory": "tsx scripts/scrape/inventory.ts",
     "parse:countries": "tsx scripts/scrape/parse-country.ts",
     "parse:platforms": "tsx scripts/scrape/parse-platform.ts",
-    "parse:buy": "tsx scripts/scrape/parse-buy.ts"
+    "parse:buy": "tsx scripts/scrape/parse-buy.ts",
+    "parse:blog": "tsx scripts/scrape/parse-post.ts"
   },
   "dependencies": {
     "@payloadcms/db-postgres": "3.90.2",

@@ -1,0 +1,15 @@
+{
+  "slug": "elio",
+  "sourceUrl": "/blog/author/elio",
+  "name": "Elio",
+  "role": "Senior Writer",
+  "bio": "\"We built SMMGen on one promise: deliver exactly what we say, every single time.\" Since founding the company in 2018, Elio has led SMMGen from a small service catalog to a platform processing over 96 million orders for users in 100+ countries - with a focus on operational reliability, transparent pricing, and long-term trust over short-term growth.",
+  "avatar": {
+    "src": "https://api.smmgen.com/storage/avatars/JI0e9PCgsuoVEKvYbas8Ynr23D7dcCAs4OCZy7W0.png",
+    "alt": "Elio"
+  },
+  "seo": {
+    "title": "Senior Writer",
+    "description": "\"We built SMMGen on one promise: deliver exactly what we say, every single time.\" Since founding the company in 2018, Elio has led SMMGen from a small service catalog to a platform processing over 96 million orders for users in 100+ countries - with a focus on operational reliability, transparent pricing, and long-term trust over short-term growth."
+  }
+}

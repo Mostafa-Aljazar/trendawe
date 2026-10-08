@@ -150,7 +150,10 @@ Exact visual variants of landing-page sections are confirmed against the screens
 - Footer address/phone differ between pages → Trendawe details from `site-settings`.
 - FAQ link alternates `/faq` vs `/#faq` → always `/faq`.
 - Testimonial carousel repeats the same 3 quotes 3× → render once.
-- `/blog/author/kanok-miah` returns 404.
+- `/blog/author/kanok-miah` returns 404. The blog has a single author (Elio, "Senior Writer") and a single category (Social Media Marketing, 79 posts).
+- Author bio describes Elio as SMMGen's founder with "over 96 million orders" (yet another order count) — Trendawe needs its own author persona(s).
+- The "SMMSun / Bangladesh / 68,000 users" CTA is part of the post template (all 79 posts), outside the body — not extracted; posts use the site-settings CTA.
+- Post bodies mention "smmgen.com" in running text and link out to competitor sites (e.g. smmpanels.com.bd, qqtube.com in comparison posts) — decide per post during rewrite.
 - Country pages: the payment-methods "Why choose" card body starts with a stray word ("accepted These are among…") — broken sentence on the source.
 - Country pages reuse Bangladesh image paths (`country-why-bangladesh/…`, `country-safe-bangladesh/…`) for every country — images are shared, only the hero image is country-specific.
 - Platform service cards: some show a link-styled "Browse X Services" that is not a link (Instagram card 08); several platforms without buy pages have cards with no link at all (Pinterest 02–06). Our cards: link → buy page, else signup URL, label editable.

@@ -61,7 +61,7 @@
   - [x] `parse-country.ts` (25)
   - [x] `parse-platform.ts` (15)
   - [x] `parse-buy.ts` (23)
-  - [ ] `parse-post.ts` (79) — keep heading/list/link structure so it can become Lexical; keep internal links.
+  - [x] `parse-post.ts` (79) — keep heading/list/link structure so it can become Lexical; keep internal links.
   - [ ] `parse-legal.ts` (5)
   - [ ] `parse-singletons.ts` — Home, Services, About, Contact, FAQ, 6 landing pages → ordered list of blocks with content.
   - [ ] `parse-shared.ts` — menus, footer, payment methods, testimonials, home FAQ group, authors, categories.
