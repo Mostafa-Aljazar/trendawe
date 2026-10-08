@@ -54,9 +54,9 @@
 - [ ] Write `docs/page-inventory.md`: every section of every design, in order, with its matching block/field name and RTL notes. Include an "Open questions" list.
 
 ### 0.3 Content extraction (`scripts/scrape/`)
-- [ ] `fetch-sitemap.ts` — read `https://smmgen.com/sitemap.xml` → `data/urls.json` (expect 161 URLs). Add `/blog/author/kanok-miah`.
-- [ ] `fetch-pages.ts` — download raw HTML for every URL to `data/raw/` (throttle ~1 req/s, retry on failure, skip if cached).
-- [ ] FAQ answers: if answers are not present in the static HTML, use Playwright to expand each accordion and capture the text.
+- [x] `fetch-sitemap.ts` — read `https://smmgen.com/sitemap.xml` → `data/urls.json` (161 URLs). `/blog/author/kanok-miah` returns 404 on the source, so it is not included.
+- [x] `fetch-pages.ts` — download raw HTML for every URL to `data/raw/` (throttle ~1 req/s, retry on failure, skip if cached).
+- [x] FAQ answers: present in the RSC payload of the static HTML (`question`/`answer` props) — no Playwright needed.
 - [ ] Parsers (cheerio), one per template → `data/source/<collection>/<slug>.json` shaped like the planned Payload fields:
   - [ ] `parse-country.ts` (25)
   - [ ] `parse-platform.ts` (15)
