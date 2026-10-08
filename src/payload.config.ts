@@ -1,5 +1,6 @@
 import { postgresAdapter } from '@payloadcms/db-postgres'
 import { lexicalEditor } from '@payloadcms/richtext-lexical'
+import { s3Storage } from '@payloadcms/storage-s3'
 import path from 'path'
 import { buildConfig } from 'payload'
 import { fileURLToPath } from 'url'
@@ -10,6 +11,14 @@ import { Media } from './collections/Media'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
+
+// Pooled (transaction-mode) URI in production; session-mode URI for local dev and migrations.
+const connectionString =
+  process.env.NODE_ENV === 'production'
+    ? process.env.DATABASE_URI
+    : process.env.DATABASE_URI_DIRECT || process.env.DATABASE_URI
+
+const storageEnabled = Boolean(process.env.S3_ACCESS_KEY_ID && process.env.S3_SECRET_ACCESS_KEY)
 
 export default buildConfig({
   admin: {
@@ -26,9 +35,26 @@ export default buildConfig({
   },
   db: postgresAdapter({
     pool: {
-      connectionString: process.env.DATABASE_URI || '',
+      connectionString: connectionString || '',
     },
   }),
   sharp,
-  plugins: [],
+  plugins: [
+    s3Storage({
+      enabled: storageEnabled,
+      collections: {
+        media: true,
+      },
+      bucket: process.env.S3_BUCKET || 'media',
+      config: {
+        endpoint: process.env.S3_ENDPOINT,
+        region: process.env.S3_REGION,
+        forcePathStyle: true,
+        credentials: {
+          accessKeyId: process.env.S3_ACCESS_KEY_ID || '',
+          secretAccessKey: process.env.S3_SECRET_ACCESS_KEY || '',
+        },
+      },
+    }),
+  ],
 })
