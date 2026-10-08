@@ -1,0 +1,65 @@
+{
+  "slug": "services-page",
+  "sourceUrl": "/services",
+  "seo": {
+    "title": "All Social Media Services | SMMGen",
+    "description": "Browse every SMMGen social media service in one place. Instagram, YouTube, TikTok, Facebook, Telegram, Twitter, LinkedIn, Spotify, Discord, and more."
+  },
+  "layout": [
+    {
+      "blockType": "hero",
+      "heading": "All **Social Media Services**",
+      "intro": "Explore every platform SMMGen supports. Pick a service category, browse sub-services, and start growing with wholesale pricing and fast automated delivery.",
+      "buttons": [
+        {
+          "label": "Sign Up Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "About SMMGen",
+          "href": "/about-us",
+          "variant": "outline"
+        }
+      ],
+      "rating": null,
+      "trustedBy": null,
+      "avatars": [],
+      "platformIcons": []
+    },
+    {
+      "blockType": "platformCardsGrid",
+      "heading": "Browse by Platform",
+      "intro": "Each card links to its SMM panel page, with quick access to popular sub-services like followers, likes, views, and more.",
+      "body": "- Facebook SMM Panel Buy Facebook services including followers, page likes, post likes, video views, shares, comments, and reactions. Fast delivery, no… [Buy Facebook Followers](/buy-facebook-followers) [Buy Facebook Likes](/buy-facebook-likes) [Buy Facebook Page Likes](/buy-facebook-page-likes) [Open Facebook Panel](/facebook-smm-panel)\n- Instagram SMM Panel Buy Instagram services including followers, likes, Reels views, Story views, comments, saves, and impressions. Fast delivery, no password… [Buy Instagram Followers](/buy-instagram-followers) [Buy Instagram Likes](/buy-instagram-likes) [Buy Instagram Views](/buy-instagram-views) [Buy Instagram Comments](/buy-instagram-comments) [Buy Instagram Story Views](/buy-instagram-story-views) [Buy Instagram Reels Views](/buy-instagram-reels-views) [Open Instagram Panel](/instagram-smm-panel)\n- YouTube SMM Panel Buy YouTube services including subscribers, views, likes, comments, watch hours, and shares. Fast delivery, no password required. [Buy YouTube Views](/buy-youtube-views) [Buy YouTube Subscribers](/buy-youtube-subscribers) [Buy YouTube Likes](/buy-youtube-likes) [Buy YouTube Watch Time](/buy-youtube-watch-time) [Open YouTube Panel](/youtube-smm-panel)\n- TikTok SMM Panel Buy TikTok services including followers, views, likes, shares, comments, and saves. Fast delivery, no password required. [Buy TikTok Followers](/buy-tiktok-followers) [Buy TikTok Likes](/buy-tiktok-likes) [Buy TikTok Views](/buy-tiktok-views) [Open TikTok Panel](/tiktok-smm-panel)\n- Telegram SMM Panel Buy Telegram services including channel members, post views, reactions, group members, and votes. Fast delivery, no password required. [Buy Telegram Members](/buy-telegram-members) [Open Telegram Panel](/telegram-smm-panel)\n- Twitter SMM Panel Buy Twitter services including followers, likes, retweets, impressions, video views, and poll votes. Fast delivery, no password required. [Buy Twitter Followers](/buy-twitter-followers) [Buy Twitter Likes](/buy-twitter-likes) [Open Twitter Panel](/x-twitter-smm-panel)\n- LinkedIn SMM Panel Buy LinkedIn services including followers, post likes, reactions, comments, connections, and impressions. Fast delivery, no password… [Buy LinkedIn Followers](/buy-linkedin-followers) [Open LinkedIn Panel](/linkedin-smm-panel)\n- Spotify SMM Panel Buy Spotify services including plays, followers, monthly listeners, saves, and playlist plays. Fast delivery, no password required. [Buy Spotify Plays](/buy-spotify-plays) [Buy Spotify Followers](/buy-spotify-followers) [Open Spotify Panel](/spotify-smm-panel)\n- Discord SMM Panel Buy Discord services including server members, online members, reactions, and engagement boosts. Fast delivery, no password required. [Buy Discord Members](/buy-discord-members) [Open Discord Panel](/discord-smm-panel)\n- Pinterest SMM Panel Buy Pinterest services including followers, repins, saves, likes, and impressions. Fast delivery, no password required. [Open Pinterest Panel](/pinterest-smm-panel)\n- Snapchat SMM Panel Buy Snapchat services including followers, story views, Spotlight views, reactions, and Snap Score boosts. Fast delivery, no password… [Open Snapchat Panel](/snapchat-smm-panel)\n- Threads SMM Panel Buy Threads services including followers, likes, shares, comments, and reposts. Fast delivery, no password required. [Open Threads Panel](/threads-smm-panel)\n- Reddit SMM Panel Buy Reddit services including upvotes, followers, comments, post views, and karma boosts. Fast delivery, no password required. [Open Reddit Panel](/reddit-smm-panel)\n- Twitch SMM Panel Buy Twitch services including followers, live viewers, channel views, clip views, and chat activity. Fast delivery, no password required. [Open Twitch Panel](/twitch-smm-panel)\n- SoundCloud SMM Panel Buy SoundCloud services including plays, followers, reposts, likes, and comments. Fast delivery, no password required. [Open SoundCloud Panel](/soundcloud-smm-panel)"
+    },
+    {
+      "blockType": "ctaBanner",
+      "heading": "Ready to Start? Join 98121 Active Users Worldwide",
+      "intro": "SMMGen gives you fast delivery, low prices, 9509 services, and a support team available 24 hours a day. You create an account in two minutes. The first order can be live within ten minutes of signing up.\n\nOver 98121 active users trust SMMGen every day to grow their social media. They range from solo creators posting their first TikTok video to full agencies running campaigns for hundreds of clients.\n\nThe panel is free to join. You only spend when you choose to place an order.",
+      "buttons": [
+        {
+          "label": "Create Free Account",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "Browse All Services",
+          "href": "/services",
+          "variant": "outline"
+        },
+        {
+          "label": "Contact Support",
+          "href": "/contact-us",
+          "variant": "outline"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/ready-to-start.webp",
+          "alt": "Ready to start illustration"
+        }
+      ]
+    }
+  ]
+}

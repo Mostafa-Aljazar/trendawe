@@ -1,0 +1,1196 @@
+{
+  "slug": "home-page",
+  "sourceUrl": "/",
+  "seo": {
+    "title": "SMM Panel Since 2018 - Prices From $0.0003 | SMMGen",
+    "description": "Trusted SMM panel in 100+ countries since 2018. Services from $0.0003/unit, delivery in 7-15 minutes. Instagram, TikTok, YouTube & more."
+  },
+  "layout": [
+    {
+      "blockType": "hero",
+      "heading": "SMM Panel for **Fast and Reliable Social** Media Growth",
+      "intro": "SMMGen is a global SMM panel trusted by influencers, agencies, and resellers in over 100 countries. An SMM panel (Social Media Marketing panel) is a platform where you buy social media services — followers, likes, views, and comments — for platforms like Instagram, YouTube, TikTok, Facebook, and Telegram. You place an order, we process it automatically, and delivery starts within minutes. We have completed over 108774260 orders since 2018. Services start from $0.0003. No password is ever required.",
+      "body": "4.9 Reviews",
+      "buttons": [
+        {
+          "label": "Sign In Now",
+          "href": "https://my.smmgen.com",
+          "variant": "outline"
+        },
+        {
+          "label": "Sign Up Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/google.png",
+          "alt": "Google reviews logo"
+        },
+        {
+          "src": "/image/fullstar.png",
+          "alt": "Full star rating"
+        },
+        {
+          "src": "/image/fullstar.png",
+          "alt": "Full star rating"
+        },
+        {
+          "src": "/image/fullstar.png",
+          "alt": "Full star rating"
+        },
+        {
+          "src": "/image/fullstar.png",
+          "alt": "Full star rating"
+        },
+        {
+          "src": "/image/halfstar.png",
+          "alt": "Half star rating"
+        },
+        {
+          "src": "/image/person-one.png",
+          "alt": "SMMGen user profile photo"
+        },
+        {
+          "src": "/image/person-two.png",
+          "alt": "SMMGen user profile photo"
+        },
+        {
+          "src": "/image/person-three.png",
+          "alt": "SMMGen user profile photo"
+        },
+        {
+          "src": "/image/person-four.png",
+          "alt": "SMMGen user profile photo"
+        },
+        {
+          "src": "/image/smm-panel-for-fast-reliable-social-growth.webp",
+          "alt": "SMMGen social media marketing dashboard with growth analytics"
+        },
+        {
+          "src": "/image/facebook-icon-small.png",
+          "alt": "Facebook SMM Panel"
+        },
+        {
+          "src": "/image/instagram-iocn-small.png",
+          "alt": "Instagram SMM Panel"
+        },
+        {
+          "src": "/image/linkdein-icon-small.png",
+          "alt": "LinkedIn SMM Panel"
+        },
+        {
+          "src": "/image/sportify-iocn-small.png",
+          "alt": "Spotify SMM Panel"
+        },
+        {
+          "src": "/image/telegram-icon-small.png",
+          "alt": "Telegram SMM Panel"
+        },
+        {
+          "src": "/image/tiktok-icon-small.png",
+          "alt": "TikTok SMM Panel"
+        }
+      ],
+      "rating": {
+        "value": "4.9",
+        "label": "Reviews",
+        "logo": {
+          "src": "/image/google.png",
+          "alt": "Google reviews logo"
+        }
+      },
+      "trustedBy": "Trusted by 98,121 users",
+      "avatars": [
+        {
+          "src": "/image/person-one.png",
+          "alt": "SMMGen user profile photo"
+        },
+        {
+          "src": "/image/person-two.png",
+          "alt": "SMMGen user profile photo"
+        },
+        {
+          "src": "/image/person-three.png",
+          "alt": "SMMGen user profile photo"
+        },
+        {
+          "src": "/image/person-four.png",
+          "alt": "SMMGen user profile photo"
+        }
+      ],
+      "platformIcons": [
+        {
+          "src": "/image/facebook-icon-small.png",
+          "alt": "Facebook SMM Panel"
+        },
+        {
+          "src": "/image/instagram-iocn-small.png",
+          "alt": "Instagram SMM Panel"
+        },
+        {
+          "src": "/image/linkdein-icon-small.png",
+          "alt": "LinkedIn SMM Panel"
+        },
+        {
+          "src": "/image/sportify-iocn-small.png",
+          "alt": "Spotify SMM Panel"
+        },
+        {
+          "src": "/image/telegram-icon-small.png",
+          "alt": "Telegram SMM Panel"
+        },
+        {
+          "src": "/image/tiktok-icon-small.png",
+          "alt": "TikTok SMM Panel"
+        }
+      ]
+    },
+    {
+      "blockType": "statsRow",
+      "body": "- 109M+ Orders Completed\n- 9.5K+ Active Services\n- 98K+ Active Users\n- #1 SMM Panel World Wide",
+      "stats": [
+        {
+          "value": "109M+",
+          "label": "Orders Completed",
+          "icon": {
+            "src": "/image/order-completed.png",
+            "alt": "Orders Completed"
+          }
+        },
+        {
+          "value": "9.5K+",
+          "label": "Active Services",
+          "icon": {
+            "src": "/image/active-services.png",
+            "alt": "Active Services"
+          }
+        },
+        {
+          "value": "98K+",
+          "label": "Active Users",
+          "icon": {
+            "src": "/image/active-users.png",
+            "alt": "Active Users"
+          }
+        },
+        {
+          "value": "#1",
+          "label": "SMM Panel World Wide",
+          "icon": {
+            "src": "/image/smm-panel-worldwide.png",
+            "alt": "SMM Panel World Wide"
+          }
+        }
+      ]
+    },
+    {
+      "blockType": "richTextWithImage",
+      "heading": "What Is **an SMM Panel?**",
+      "body": "An SMM panel is an online platform where users purchase social media marketing services in bulk, at low prices, through a single automated dashboard. Instead of spending months growing an account organically, users place targeted orders for followers, likes, views, watch time, or comments and receive results within minutes or hours.\n\nPanels connect buyers to a backend network of service providers through APIs. When you place an order, the system routes it to the correct provider, processes delivery, and updates your dashboard in real time. You track everything live.\n\n[SMMGen](/about-us) is one of the most established SMM panels operating today. Founded in 2018, we have served over 98121 active users globally and processed more than 108774260 individual orders across every major platform.\n\nResellers use panels like SMMGen to buy services at wholesale rates and sell to clients at a profit. Agencies use them to manage multiple accounts from one dashboard. Creators use them to build social proof quickly and accelerate organic reach.",
+      "buttons": [
+        {
+          "label": "Learn More About SMMGen",
+          "href": "/about-us",
+          "variant": "primary"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/what-is-an-smm-panel.webp",
+          "alt": "Professional explaining SMM panel services"
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "Why Choose **SMMGen as Your SMM Panel?**",
+      "intro": "Thousands of SMM panels exist online. Most deliver inconsistent results, slow support, or services that drop within days. SMMGen is built differently. Here is what sets us apart.",
+      "cards": [
+        {
+          "title": "Prices Starting from $0.0003",
+          "body": "SMMGen offers some of the lowest prices available on any SMM panel globally. Services start from $0.0003 per unit. High-volume resellers and agencies get even better rates through our [wholesale SMM panel](/wholesale-smm-panel) pricing structure. You pay for what you order. No subscriptions. No hidden fees. Add funds and spend only when you choose to.",
+          "icon": {
+            "src": "/image/icons/prices-starting-from-0-0003.png",
+            "alt": "Prices Starting from $0.0003"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Over 108774260 Orders Completed",
+          "body": "We do not use estimates or rounded figures. As of April 2026, SMMGen has processed over 108774260 individual orders. That volume reflects seven years of consistent, reliable delivery across every platform we support. This track record matters. It means our infrastructure handles scale without delays. When you place an order, the system works.",
+          "icon": {
+            "src": "/image/icons/over-76-million-orders-completed.png",
+            "alt": "Over 108774260 Orders Completed"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Fast Delivery on Every Order",
+          "body": "Most orders on SMMGen start within minutes of placement. Instagram followers begin arriving within 7 minutes. YouTube views typically start within 10 to 15 minutes. Telegram members process within hours, depending on the package size. Every order includes real-time tracking inside your dashboard. You see the progress as it happens.",
+          "icon": {
+            "src": "/image/icons/fast-delivery-on-every-order.png",
+            "alt": "Fast Delivery on Every Order"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "9509 Active Services Across All Platforms",
+          "body": "SMMGen covers every major platform in one place. You do not need multiple accounts or separate panels for different services. Instagram, YouTube, TikTok, Facebook, Telegram, Twitter/X, LinkedIn, Spotify, Discord, Pinterest and more are all inside a single dashboard. Browse the full catalog at [smmgen.com/services](/services).",
+          "icon": {
+            "src": "/image/icons/9092-active-services-across-all-platforms.png",
+            "alt": "9509 Active Services Across All Platforms"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "No Password Required — Ever",
+          "body": "We never ask for your social media password. Every service on SMMGen uses only your public profile link or post URL. Your account credentials remain completely private. Your account safety is never at risk.",
+          "icon": {
+            "src": "/image/icons/no-password-required-ever.png",
+            "alt": "No Password Required — Ever"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Refill Guarantee on Eligible Services",
+          "body": "Many services on SMMGen include a refill guarantee. If engagement drops within the stated refill period, we restore it automatically or on request. No arguments. No delays. Check the individual service description to confirm refill eligibility before ordering.",
+          "icon": {
+            "src": "/image/icons/refill-guarantee-on-eligible-services.png",
+            "alt": "Refill Guarantee on Eligible Services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "24/7 Support via Ticket and Live Chat",
+          "body": "Our support team is available around the clock. Submit a ticket or use live chat at [smmgen.com/contact-us](/contact-us). Every query gets a real response from a real team member. We do not use automated reply-only systems for billing or order issues.",
+          "icon": {
+            "src": "/image/icons/24-7-support-via-ticket-and-live-chat.png",
+            "alt": "24/7 Support via Ticket and Live Chat"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Secure Payments with SSL Protection",
+          "body": "SMMGen uses full SSL encryption on every page and transaction. We accept PayPal, Visa, Mastercard, crypto, and local payment options worldwide. Your financial data is processed through verified, encrypted payment gateways. Read our [privacy policy](/privacy-policy) and [refund policy](/refund-policy) for complete details on how we handle your data and orders.",
+          "icon": {
+            "src": "/image/icons/secure-payments-with-ssl-protection.png",
+            "alt": "Secure Payments with SSL Protection"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "platformTabs",
+      "heading": "Every Platform. Every Service. **One Dashboard**",
+      "intro": "SMMGen covers the full range of social media platforms. Each platform has its own dedicated service page with detailed descriptions, pricing, and delivery estimates.",
+      "images": [
+        {
+          "src": "/image/facebook-icon.png",
+          "alt": "Facebook decorative corner illustration"
+        }
+      ],
+      "tabs": [
+        {
+          "label": "Instagram",
+          "icon": {
+            "src": "/image/instagram.png",
+            "alt": ""
+          },
+          "title": "**Instagram** SMM Panel",
+          "body": "Grow your Instagram profile with followers, likes, views, comments, and story engagement delivered through one dashboard. Instagram is the highest-demand platform on our panel. Services start within minutes.",
+          "links": [
+            {
+              "label": "Buy Instagram Followers",
+              "href": "/buy-instagram-followers",
+              "text": "Increase your Instagram follower count."
+            },
+            {
+              "label": "Buy Instagram Likes",
+              "href": "/buy-instagram-likes",
+              "text": "Boost likes on photos, reels, and carousels."
+            },
+            {
+              "label": "Buy Instagram Views",
+              "href": "/buy-instagram-views",
+              "text": "Boost views on videos and Reels."
+            },
+            {
+              "label": "Buy Instagram Comments",
+              "href": "/buy-instagram-comments",
+              "text": "Add comments to posts and reels."
+            },
+            {
+              "label": "Buy Instagram Story Views",
+              "href": "/buy-instagram-story-views",
+              "text": "Drive more eyes to your daily stories."
+            },
+            {
+              "label": "Buy Instagram Reels Views",
+              "href": "/buy-instagram-reels-views",
+              "text": "Increase reach on short-form video content."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/instagram-smm-panel"
+          },
+          "image": {
+            "src": "/image/instagram-smm-panel.png",
+            "alt": "Instagram SMM Panel"
+          }
+        },
+        {
+          "label": "Facebook",
+          "icon": {
+            "src": "/image/facebook.png",
+            "alt": ""
+          },
+          "title": "**Facebook** SMM Panel",
+          "body": "Grow Facebook page likes, followers, post likes, video views, and shares from one dashboard. Facebook remains one of the most used platforms for business pages and community groups worldwide.",
+          "links": [
+            {
+              "label": "Buy Facebook Page Likes",
+              "href": "/buy-facebook-page-likes",
+              "text": "Grow your page audience for increased reach."
+            },
+            {
+              "label": "Buy Facebook Post Likes",
+              "href": "/buy-facebook-likes",
+              "text": "Boost engagement for better visibility."
+            },
+            {
+              "label": "Buy Facebook Followers",
+              "href": "/buy-facebook-followers",
+              "text": "Grow your Facebook follower count."
+            },
+            {
+              "text": "Make content look active."
+            },
+            {
+              "text": "Increase post reach."
+            },
+            {
+              "text": "Boost video content visibility."
+            },
+            {
+              "text": "Get diverse reactions (Love, Haha, Wow)."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/facebook-smm-panel"
+          },
+          "image": {
+            "src": "/image/facebook-smm-panel.png",
+            "alt": "Facebook SMM Panel"
+          }
+        },
+        {
+          "label": "YouTube",
+          "icon": {
+            "src": "/image/youtube.png",
+            "alt": ""
+          },
+          "title": "**YouTube** SMM Panel",
+          "body": "Increase subscribers, views, likes, and watch time on your YouTube channel with services designed for creators and brands. Watch time services are particularly popular for creators working toward the monetization threshold of 4,000 hours.",
+          "links": [
+            {
+              "label": "Buy YouTube Subscribers",
+              "href": "/buy-youtube-subscribers",
+              "text": "Grow your channel subscriber base."
+            },
+            {
+              "label": "Buy YouTube Video Views",
+              "href": "/buy-youtube-views",
+              "text": "Increase views on uploads and shorts."
+            },
+            {
+              "label": "Buy YouTube Watch Time",
+              "href": "/buy-youtube-watch-time",
+              "text": "Improve hours watched on your content."
+            },
+            {
+              "label": "Buy YouTube Likes",
+              "href": "/buy-youtube-likes",
+              "text": "Boost likes on individual videos."
+            },
+            {
+              "text": "Add comments to spark discussion."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/youtube-smm-panel"
+          },
+          "image": {
+            "src": "/image/youtube-smm-panel.png",
+            "alt": "YouTube SMM Panel"
+          }
+        },
+        {
+          "label": "TikTok",
+          "icon": {
+            "src": "/image/tiktok.png",
+            "alt": ""
+          },
+          "title": "**TikTok** SMM Panel",
+          "body": "Grow faster on TikTok with followers, likes, views, shares, and live stream engagement from a single SMMGen account. A well-timed boost to an early post can push it into the For You feed and trigger organic growth.",
+          "links": [
+            {
+              "label": "Buy TikTok Followers",
+              "href": "/buy-tiktok-followers",
+              "text": "Grow your profile or page audience."
+            },
+            {
+              "label": "Buy TikTok Likes",
+              "href": "/buy-tiktok-likes",
+              "text": "Increase engagement on posts and content."
+            },
+            {
+              "label": "Buy TikTok Views",
+              "href": "/buy-tiktok-views",
+              "text": "Boost visibility with more video or post views."
+            },
+            {
+              "text": "Add authentic comments to your posts."
+            },
+            {
+              "text": "Extend reach through post distribution."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/tiktok-smm-panel"
+          },
+          "image": {
+            "src": "/image/tiktok-smm-panel.png",
+            "alt": "TikTok SMM Panel"
+          }
+        },
+        {
+          "label": "Telegram",
+          "icon": {
+            "src": "/image/telegram.png",
+            "alt": ""
+          },
+          "title": "**Telegram** SMM Panel",
+          "body": "Expand Telegram channels and groups with members, post views, reactions, and premium-ready engagement packages. A strong member base signals legitimacy to new visitors.",
+          "links": [
+            {
+              "label": "Buy Telegram Members",
+              "href": "/buy-telegram-members",
+              "text": "Grow your channel or group audience."
+            },
+            {
+              "text": "Boost visibility on channel posts."
+            },
+            {
+              "text": "Increase engagement on messages."
+            },
+            {
+              "text": "Add comments to channel discussions."
+            },
+            {
+              "text": "Extend reach through message distribution."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/telegram-smm-panel"
+          },
+          "image": {
+            "src": "/image/telegram-smm-panel.png",
+            "alt": "Telegram SMM Panel"
+          }
+        },
+        {
+          "label": "X (Twitter)",
+          "icon": {
+            "src": "/image/twiiter.png",
+            "alt": ""
+          },
+          "title": "**X (Twitter)** SMM Panel",
+          "body": "Boost your X profile with followers, likes, retweets, impressions, and post engagement that helps your content travel further. Our services help accounts build credibility and reach faster.",
+          "links": [
+            {
+              "label": "Buy Twitter Followers",
+              "href": "/buy-twitter-followers",
+              "text": "Increase your X profile follower count."
+            },
+            {
+              "label": "Buy Twitter Likes",
+              "href": "/buy-twitter-likes",
+              "text": "Boost engagement on tweets and threads."
+            },
+            {
+              "text": "Extend reach through post distribution."
+            },
+            {
+              "text": "Improve visibility metrics."
+            },
+            {
+              "text": "Add replies to spark discussion."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/x-twitter-smm-panel"
+          },
+          "image": {
+            "src": "/image/twitter-smm-panel.png",
+            "alt": "X (Twitter) SMM Panel"
+          }
+        },
+        {
+          "label": "LinkedIn",
+          "icon": {
+            "src": "/image/linkdein.png",
+            "alt": ""
+          },
+          "title": "**LinkedIn** SMM Panel",
+          "body": "Strengthen your professional presence with LinkedIn followers, connections, post likes, and company page engagement. Every service is accessible from one dashboard after signup.",
+          "links": [
+            {
+              "label": "Buy LinkedIn Followers",
+              "href": "/buy-linkedin-followers",
+              "text": "Grow your professional network."
+            },
+            {
+              "text": "Build meaningful professional connections."
+            },
+            {
+              "text": "Boost engagement on your updates."
+            },
+            {
+              "text": "Add thoughtful comments to posts."
+            },
+            {
+              "text": "Extend content reach."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/linkedin-smm-panel"
+          },
+          "image": {
+            "src": "/image/linkdein-smm-panel.png",
+            "alt": "LinkedIn SMM Panel"
+          }
+        },
+        {
+          "label": "Spotify",
+          "icon": {
+            "src": "/image/spotify.png",
+            "alt": ""
+          },
+          "title": "**Spotify** SMM Panel",
+          "body": "Increase Spotify plays, followers, saves, and playlist engagement to help your music reach more listeners. Every service is accessible from one dashboard after signup.",
+          "links": [
+            {
+              "label": "Buy Spotify Plays",
+              "href": "/buy-spotify-plays",
+              "text": "Boost track and album play counts."
+            },
+            {
+              "label": "Buy Spotify Followers",
+              "href": "/buy-spotify-followers",
+              "text": "Grow your artist or profile following."
+            },
+            {
+              "text": "Increase library saves for your tracks."
+            },
+            {
+              "text": "Get added to more playlists."
+            },
+            {
+              "text": "Increase your audience reach."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/spotify-smm-panel"
+          },
+          "image": {
+            "src": "/image/spotify-smm-panel.png",
+            "alt": "Spotify SMM Panel"
+          }
+        },
+        {
+          "label": "Discord",
+          "icon": {
+            "src": "/image/discord.png",
+            "alt": ""
+          },
+          "title": "**Discord** SMM Panel",
+          "body": "Grow Discord servers with online members, boosts, and community engagement services for creators and brands. Every service is accessible from one dashboard after signup.",
+          "links": [
+            {
+              "label": "Buy Discord Members",
+              "href": "/buy-discord-members",
+              "text": "Grow your server community."
+            },
+            {
+              "text": "Increase active presence."
+            },
+            {
+              "text": "Level up server perks."
+            },
+            {
+              "text": "Build brand awareness."
+            },
+            {
+              "text": "Boost community interaction."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/discord-smm-panel"
+          },
+          "image": {
+            "src": "/image/discord-smm-panel.png",
+            "alt": "Discord SMM Panel"
+          }
+        },
+        {
+          "label": "Pinterest",
+          "icon": {
+            "src": "/image/pinterest.png",
+            "alt": ""
+          },
+          "title": "**Pinterest** SMM Panel",
+          "body": "Drive more saves, followers, and pin engagement on Pinterest boards and business profiles. Every service is accessible from one dashboard after signup.",
+          "links": [
+            {
+              "text": "Increase pin saves to boards."
+            },
+            {
+              "text": "Boost engagement on your pins."
+            },
+            {
+              "text": "Grow individual board audiences."
+            },
+            {
+              "text": "Increase profile visibility."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/pinterest-smm-panel"
+          },
+          "image": {
+            "src": "/image/pinterest-smm-panel.png",
+            "alt": "Pinterest SMM Panel"
+          }
+        },
+        {
+          "label": "Snapchat",
+          "icon": {
+            "src": "/image/snapchat.png",
+            "alt": ""
+          },
+          "title": "**Snapchat** SMM Panel",
+          "body": "Increase Snapchat followers, story views, and spotlight engagement with fast-delivery panel services. Every service is accessible from one dashboard after signup.",
+          "links": [
+            {
+              "text": "Grow your Snapchat audience."
+            },
+            {
+              "text": "Boost story engagement."
+            },
+            {
+              "text": "Increase spotlight content reach."
+            },
+            {
+              "text": "Improve your snap score."
+            },
+            {
+              "text": "Promote lens creations."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/snapchat-smm-panel"
+          },
+          "image": {
+            "src": "/image/snapchat-smm-panel.png",
+            "alt": "Snapchat SMM Panel"
+          }
+        },
+        {
+          "label": "Threads",
+          "icon": {
+            "src": "/image/threads.png",
+            "alt": ""
+          },
+          "title": "**Threads** SMM Panel",
+          "body": "Build your Threads audience with followers, likes, reposts, and post engagement from one dashboard. Every service is accessible from one dashboard after signup.",
+          "links": [
+            {
+              "text": "Grow your Threads following."
+            },
+            {
+              "text": "Boost engagement on your threads."
+            },
+            {
+              "text": "Increase content reach."
+            },
+            {
+              "text": "Spark discussions on threads."
+            },
+            {
+              "text": "Boost thread visibility."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/threads-smm-panel"
+          },
+          "image": {
+            "src": "/image/threads-smm-panel.png",
+            "alt": "Threads SMM Panel"
+          }
+        },
+        {
+          "label": "Reddit",
+          "icon": {
+            "src": "/image/reddit.png",
+            "alt": ""
+          },
+          "title": "**Reddit** SMM Panel",
+          "body": "Grow subreddits and posts with upvotes, comments, subscribers, and community engagement services. Every service is accessible from one dashboard after signup.",
+          "links": [
+            {
+              "text": "Boost post and comment visibility."
+            },
+            {
+              "text": "Add engagement to discussions."
+            },
+            {
+              "text": "Grow your community."
+            },
+            {
+              "text": "Increase content reach."
+            },
+            {
+              "text": "Highlight quality content."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/reddit-smm-panel"
+          },
+          "image": {
+            "src": "/image/reddit-smm-panel.png",
+            "alt": "Reddit SMM Panel"
+          }
+        },
+        {
+          "label": "Twitch",
+          "icon": {
+            "src": "/image/twitch.png",
+            "alt": ""
+          },
+          "title": "**Twitch** SMM Panel",
+          "body": "Increase Twitch followers, live viewers, channel views, and clip engagement for streamers at every level. Every service is accessible from one dashboard after signup.",
+          "links": [
+            {
+              "text": "Grow your channel following."
+            },
+            {
+              "text": "Boost concurrent stream viewers."
+            },
+            {
+              "text": "Increase overall channel metrics."
+            },
+            {
+              "text": "Promote your best moments."
+            },
+            {
+              "text": "Build subscriber count."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/twitch-smm-panel"
+          },
+          "image": {
+            "src": "/image/twitch-smm-panel.png",
+            "alt": "Twitch SMM Panel"
+          }
+        },
+        {
+          "label": "SoundCloud",
+          "icon": {
+            "src": "/image/soundcloud.png",
+            "alt": ""
+          },
+          "title": "**SoundCloud** SMM Panel",
+          "body": "Boost SoundCloud plays, likes, reposts, and followers to help your tracks gain momentum. Every service is accessible from one dashboard after signup.",
+          "links": [
+            {
+              "text": "Increase track play counts."
+            },
+            {
+              "text": "Boost engagement on your tracks."
+            },
+            {
+              "text": "Extend track reach."
+            },
+            {
+              "text": "Grow your profile following."
+            },
+            {
+              "text": "Add feedback to your tracks."
+            }
+          ],
+          "cta": {
+            "label": "View Service",
+            "href": "/soundcloud-smm-panel"
+          },
+          "image": {
+            "src": "/image/soundcloud-smm-panel.png",
+            "alt": "SoundCloud SMM Panel"
+          }
+        }
+      ]
+    },
+    {
+      "blockType": "audienceGrid",
+      "heading": "Who **Uses SMMGen?**",
+      "intro": "SMMGen serves four main groups of users. Each group uses the panel differently, but all rely on the same core advantages: low prices, fast delivery, and consistent results.",
+      "cards": [
+        {
+          "title": "Content Creators and Influencers",
+          "body": "Creators use SMMGen to build social proof quickly. A higher follower count and stronger engagement rate push content to more people through platform algorithms. Early momentum on a new post or video can make the difference between staying invisible and going viral. Many creators buy a small initial boost on a new account to pass the credibility threshold. After that, organic growth often follows because the account looks established.",
+          "icon": {
+            "src": "/image/content-creators-and-influencers.png",
+            "alt": ""
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Small Businesses and Brands",
+          "body": "New business pages often struggle to look credible without an existing follower base. SMMGen helps businesses launch with a professional presence. A page with 5,000 followers converts visitors at a higher rate than a page with 50, even if the product is identical. This is not a shortcut to business success. It is a tool for removing the perception barrier that stops potential customers from trusting a new brand online.",
+          "icon": {
+            "src": "/image/small-businesses-and-brands.png",
+            "alt": ""
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Marketing Agencies",
+          "body": "Agencies use SMMGen to manage social media growth for multiple clients from one dashboard. Our API integration allows full automation. Agencies place bulk orders, track delivery in real time, and report results to clients without switching between tools. Visit our [SMM reseller panel page](/smm-reseller-panel) to see how agencies and account managers use our platform at scale.",
+          "icon": {
+            "src": "/image/marketing-agencies.png",
+            "alt": ""
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Resellers and Entrepreneurs",
+          "body": "SMMGen's most profitable use case is reselling. You buy services from us at wholesale prices and sell them to your own clients at a markup. You set your own prices. You manage your own customer relationships. SMMGen handles all delivery on the backend. Our SMM reseller panel gives you everything you need to run a social media service business. For those wanting a fully branded experience, our [white label SMM panel](/white-label-smm-panel) lets you operate under your own brand name. For high-volume buyers, our wholesale SMM panel pricing offers the deepest discounts available.",
+          "icon": {
+            "src": "/image/resellers-and-entrprenuers.png",
+            "alt": ""
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "stepsTimeline",
+      "id": "how-it-works",
+      "heading": "How **SMMGen Works — Step by Step**",
+      "intro": "Getting started takes less than five minutes. Here is the exact process from signup to your first completed order.",
+      "cards": [
+        {
+          "title": "Create Your Free Account",
+          "body": "Go to [smmgen.com/signup](https://my.smmgen.com/signup). Enter your email address and set a password. No credit card is required to create an account. Your dashboard is ready immediately after registration.",
+          "icon": {
+            "src": "/image/how-smmgen-works-1.png",
+            "alt": "Create Your Free Account"
+          },
+          "link": null,
+          "number": "01",
+          "badge": null
+        },
+        {
+          "title": "Add Funds to Your Balance",
+          "body": "Log in and click \"Add Funds.\" Choose your preferred payment method. SMMGen accepts PayPal, Visa, Mastercard, Bitcoin, Ethereum, USDT, and other major cryptocurrencies, along with local payment options for users in multiple countries worldwide. The minimum deposit is kept low deliberately so new users can test services before committing to larger orders.",
+          "icon": {
+            "src": "/image/how-smmgen-works-2.png",
+            "alt": "Add Funds to Your Balance"
+          },
+          "link": null,
+          "number": "02",
+          "badge": null
+        },
+        {
+          "title": "Choose a Service",
+          "body": "Browse the service catalog by platform. Every service listing shows the price per 1,000 units, the minimum and maximum order size, the estimated start time, and the refill guarantee status. Filter by platform or service type to find exactly what you need.",
+          "icon": {
+            "src": "/image/how-smmgen-works-3.png",
+            "alt": "Choose a Service"
+          },
+          "link": null,
+          "number": "03",
+          "badge": null
+        },
+        {
+          "title": "Place Your Order",
+          "body": "Select your package. Paste the public link to your profile or post. Confirm the order details and click \"Submit.\" The system processes your order instantly. You do not need to be online for delivery to start.",
+          "icon": {
+            "src": "/image/how-smmgen-works-4.png",
+            "alt": "Place Your Order"
+          },
+          "link": null,
+          "number": "04",
+          "badge": null
+        },
+        {
+          "title": "Track Your Results",
+          "body": "Every order appears in your dashboard with a live status update. You see when delivery starts, how many units have been delivered, and when the order completes. If any issue occurs, raise a support ticket directly from the dashboard. Most users see their first results arrive within 7 to 15 minutes of placing an order.",
+          "icon": {
+            "src": "/image/how-smmgen-works-5.png",
+            "alt": "Track Your Results"
+          },
+          "link": null,
+          "number": "05",
+          "badge": null
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Start Your First Order Now",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/how-smmgen-works-1.png",
+          "alt": "Create Your Free Account"
+        },
+        {
+          "src": "/image/how-smmgen-works-2.png",
+          "alt": "Add Funds to Your Balance"
+        },
+        {
+          "src": "/image/how-smmgen-works-3.png",
+          "alt": "Choose a Service"
+        },
+        {
+          "src": "/image/how-smmgen-works-4.png",
+          "alt": "Place Your Order"
+        },
+        {
+          "src": "/image/how-smmgen-works-5.png",
+          "alt": "Track Your Results"
+        }
+      ]
+    },
+    {
+      "blockType": "startingPriceCard",
+      "heading": "SMMGen Pricing: How Cheap **Is This SMM Panel?**",
+      "body": "SMMGen offers some of the most competitive prices in the industry. We keep prices low through direct provider relationships and high-volume infrastructure. Services start from $0.0003 per unit. That means you can buy 1,000 units of certain services for as little as $0.30. The exact price depends on the platform, service type, quality tier, and delivery speed.\n\nHigher quality services cost more. A “real-looking” high-retention follower costs more than a basic follower. A targeted view from a specific country costs more than a standard view. You choose the tier that fits your goals and budget.\n\nSMMGen services start from $0.0003 per unit. The full pricing breakdown across every major platform is on the [cheap smm panel page](/cheap-smm-panel). No hidden fees. Prices are publicly listed before registration.\n\nWhen any user signs up and places an order on SMMGen's standard catalog, they pay the listed rate for each service. As a Cheap SMM Panel, SMMGen offers some of the lowest prices globally, starting from just $0.0003 per unit. This pricing is ideal for creators, small businesses, and early-stage resellers placing occasional orders. High-volume buyers can also explore our SMM reseller panel for bulk workflows and wholesale access.\n\n- Pay only for what you order\n- No monthly subscription fees\n- Wholesale rates for resellers\n- Multiple quality tiers available\n- Low minimum deposit amount",
+      "buttons": [
+        {
+          "label": "View Cheap SMM Panel",
+          "href": "/cheap-smm-panel",
+          "variant": "primary"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/starting-price.png",
+          "alt": "Starting price icon"
+        }
+      ],
+      "priceCard": {
+        "label": "Starting price",
+        "value": "$0.0003",
+        "features": [
+          "Pay only for what you order",
+          "No monthly subscription fees",
+          "Wholesale rates for resellers",
+          "Multiple quality tiers available",
+          "Low minimum deposit amount"
+        ],
+        "cta": {
+          "label": "View Cheap SMM Panel",
+          "href": "/cheap-smm-panel"
+        }
+      }
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "Is SMMGen a **Safe and Trusted SMM Panel?**",
+      "intro": "Trust is the most important factor when choosing any SMM panel. The industry has many unreliable providers. Here is how SMMGen establishes and maintains trust.",
+      "cards": [
+        {
+          "title": "Founded in 2018 and Still Operating",
+          "body": "SMMGen has operated continuously since 2018, more than seven years. Most SMM panels disappear within six to twelve months. Longevity in this industry is itself a trust signal. We have maintained consistent service through multiple platform algorithm changes, payment gateway updates, and market shifts.",
+          "icon": {
+            "src": "/image/trust-section-icon-1.png",
+            "alt": "Founded in 2018 and Still Operating"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "108774260 Orders Is Verifiable",
+          "body": "Our order counter is live on the homepage. You see the actual number, not an estimate. 108774260 orders processed across seven years works out to approximately 29,000 orders per day on average. That volume is only possible with a stable, professional infrastructure.",
+          "icon": {
+            "src": "/image/trust-section-icon-2.png",
+            "alt": "108774260 Orders Is Verifiable"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "No Password, No Risk",
+          "body": "Every SMM panel that asks for your social media password creates account risk. SMMGen never asks for any password. Every service uses only your public link. If any panel you consider asks for your login credentials, do not use it.",
+          "icon": {
+            "src": "/image/trust-section-icon-3.png",
+            "alt": "No Password, No Risk"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Clear Refund and Privacy Policies",
+          "body": "We publish our refund policy, privacy policy, and [terms and conditions](/terms-and-conditions) openly. Every user can read exactly how we handle orders, refunds, and data before spending a single dollar.",
+          "icon": {
+            "src": "/image/trust-section-icon-4.png",
+            "alt": "Clear Refund and Privacy Policies"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "SSL on Every Page",
+          "body": "SMMGen runs full SSL encryption across the entire website and payment flow. Your personal information and payment data are protected on every page, every transaction, every time.",
+          "icon": {
+            "src": "/image/trust-section-icon-5.png",
+            "alt": "SSL on Every Page"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "codeSample",
+      "heading": "SMM Panel **API for Resellers and Developers**",
+      "body": "SMMGen provides a full API for resellers, agencies, and developers who want to automate order placement and management. The API uses a standard JSON format and supports all services available on the panel.\n\nWith the API, you can build your own ordering interface, connect SMMGen to your existing client management system, or run a fully automated reseller operation. You place orders, check status, and retrieve delivery data programmatically without logging into the dashboard manually.\n\nOur [SMM panel API page](/smm-panel-api) has full documentation, endpoint references, and setup instructions.",
+      "buttons": [
+        {
+          "label": "Start Reselling",
+          "href": "/smm-reseller-panel",
+          "variant": "primary"
+        }
+      ],
+      "code": "const response = await fetch('https://smmgen.com/api/v2', {  method: 'POST',  headers: {    'Content-Type': 'application/json'  },  body: JSON.stringify({    key: 'YOUR_API_KEY',    action: 'add',    service: 1,    link: 'https://instagram.com/username',    quantity: 1000  })});"
+    },
+    {
+      "blockType": "faqSection",
+      "id": "faq",
+      "heading": "Frequently Asked **Questions About SMMGen**",
+      "intro": "Find answers to common questions about SMMGen, our services, and how the panel works.",
+      "faq": [
+        {
+          "question": "What is an SMM panel?",
+          "answer": "An SMM panel is an online platform where users buy social media services such as followers, likes, views, and comments for platforms like Instagram, YouTube, and TikTok. Orders are placed through a dashboard and processed automatically. SMMGen is a global SMM panel that has completed over 76 million orders since 2018."
+        },
+        {
+          "question": "How does an SMM panel work?",
+          "answer": "You create an account, add funds, choose a service from the catalog, paste your public profile or post link, and submit the order. The panel routes the order to the delivery system automatically. Most orders start within minutes. You track progress in real time from your dashboard."
+        },
+        {
+          "question": "Is it safe to use SMMGen?",
+          "answer": "Yes. SMMGen uses SSL encryption on all pages and transactions. We never ask for your social media password. Only your public link is required for any service. Payment is processed through verified, secure gateways. Your account and personal data are never at risk."
+        },
+        {
+          "question": "How fast does SMMGen deliver orders?",
+          "answer": "Most orders start within minutes. Instagram followers typically begin within 7 minutes. YouTube views start within 10 to 15 minutes. Delivery speed varies by service type and package size. You see a live status update for every order inside your dashboard."
+        },
+        {
+          "question": "What payment methods does SMMGen accept?",
+          "answer": "We accept PayPal, Visa, Mastercard, Bitcoin, Ethereum, USDT, and other cryptocurrencies. We also support local payment options for users in multiple countries worldwide. If you have a question about payment methods available in your country, contact our support team at smmgen.com/contact-us."
+        },
+        {
+          "question": "Can I use SMMGen as a reseller?",
+          "answer": "Yes. SMMGen is built for resellers. You access services at wholesale prices and sell to your own clients at a markup. The SMM reseller panel page covers everything you need to start. For a fully branded panel under your own name, visit the white label SMM panel page."
+        },
+        {
+          "question": "Does SMMGen offer a refund if something goes wrong?",
+          "answer": "Yes. We have a published refund policy that covers all order scenarios. If a service is not delivered as described, you are eligible for a refund or credit. Raise a support ticket from your dashboard and our team will respond within hours."
+        },
+        {
+          "question": "What platforms does SMMGen support?",
+          "answer": "SMMGen supports Instagram, YouTube, TikTok, Facebook, Telegram, Twitter/X, LinkedIn, Spotify, Discord, Pinterest, Snapchat, Threads, Reddit, Twitch, SoundCloud, and more. All platforms are accessible from one dashboard. Visit smmgen.com/services to see the complete list."
+        }
+      ]
+    },
+    {
+      "blockType": "ctaBanner",
+      "heading": "Ready to Start? Join 98121 Active Users Worldwide",
+      "intro": "SMMGen gives you fast delivery, low prices, 9509 services, and a support team available 24 hours a day. You create an account in two minutes. The first order can be live within ten minutes of signing up.\n\nOver 98121 active users trust SMMGen every day to grow their social media. They range from solo creators posting their first TikTok video to full agencies running campaigns for hundreds of clients.\n\nThe panel is free to join. You only spend when you choose to place an order.",
+      "buttons": [
+        {
+          "label": "Create Free Account",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "Browse All Services",
+          "href": "/services",
+          "variant": "outline"
+        },
+        {
+          "label": "Contact Support",
+          "href": "/contact-us",
+          "variant": "outline"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/ready-to-start.webp",
+          "alt": "Ready to start illustration"
+        }
+      ]
+    }
+  ]
+}

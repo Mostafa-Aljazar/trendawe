@@ -27,7 +27,10 @@
     "parse:platforms": "tsx scripts/scrape/parse-platform.ts",
     "parse:buy": "tsx scripts/scrape/parse-buy.ts",
     "parse:blog": "tsx scripts/scrape/parse-post.ts",
-    "parse:legal": "tsx scripts/scrape/parse-legal.ts"
+    "parse:legal": "tsx scripts/scrape/parse-legal.ts",
+    "parse:pages": "tsx scripts/scrape/parse-singletons.ts",
+    "scrape:coverage": "tsx scripts/scrape/coverage.ts",
+    "scrape:price-overview": "tsx scripts/scrape/price-overview.ts"
   },
   "dependencies": {
     "@payloadcms/db-postgres": "3.90.2",

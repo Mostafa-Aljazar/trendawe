@@ -1,0 +1,78 @@
+{
+  "slug": "faq-page",
+  "sourceUrl": "/faq",
+  "seo": {
+    "title": "FAQ — SMM Panel Questions Answered | SMMGen",
+    "description": "Answers to common questions about SMMGen: how the panel works, delivery speed, payments, refunds, supported platforms, and reseller options."
+  },
+  "layout": [
+    {
+      "blockType": "faqSection",
+      "id": "faq",
+      "heading": "Frequently Asked **Questions**",
+      "intro": "Find answers to common questions about SMMGen, our services, and how the panel works.",
+      "faq": [
+        {
+          "question": "What is an SMM panel?",
+          "answer": "An SMM panel is an online platform where users buy social media services such as followers, likes, views, and comments for platforms like Instagram, YouTube, and TikTok. Orders are placed through a dashboard and processed automatically. SMMGen is a global SMM panel that has completed over 76 million orders since 2018."
+        },
+        {
+          "question": "How does an SMM panel work?",
+          "answer": "You create an account, add funds, choose a service from the catalog, paste your public profile or post link, and submit the order. The panel routes the order to the delivery system automatically. Most orders start within minutes. You track progress in real time from your dashboard."
+        },
+        {
+          "question": "Is it safe to use SMMGen?",
+          "answer": "Yes. SMMGen uses SSL encryption on all pages and transactions. We never ask for your social media password. Only your public link is required for any service. Payment is processed through verified, secure gateways. Your account and personal data are never at risk."
+        },
+        {
+          "question": "How fast does SMMGen deliver orders?",
+          "answer": "Most orders start within minutes. Instagram followers typically begin within 7 minutes. YouTube views start within 10 to 15 minutes. Delivery speed varies by service type and package size. You see a live status update for every order inside your dashboard."
+        },
+        {
+          "question": "What payment methods does SMMGen accept?",
+          "answer": "We accept PayPal, Visa, Mastercard, Bitcoin, Ethereum, USDT, and other cryptocurrencies. We also support local payment options for users in multiple countries worldwide. If you have a question about payment methods available in your country, contact our support team at smmgen.com/contact-us."
+        },
+        {
+          "question": "Can I use SMMGen as a reseller?",
+          "answer": "Yes. SMMGen is built for resellers. You access services at wholesale prices and sell to your own clients at a markup. The SMM reseller panel page covers everything you need to start. For a fully branded panel under your own name, visit the white label SMM panel page."
+        },
+        {
+          "question": "Does SMMGen offer a refund if something goes wrong?",
+          "answer": "Yes. We have a published refund policy that covers all order scenarios. If a service is not delivered as described, you are eligible for a refund or credit. Raise a support ticket from your dashboard and our team will respond within hours."
+        },
+        {
+          "question": "What platforms does SMMGen support?",
+          "answer": "SMMGen supports Instagram, YouTube, TikTok, Facebook, Telegram, Twitter/X, LinkedIn, Spotify, Discord, Pinterest, Snapchat, Threads, Reddit, Twitch, SoundCloud, and more. All platforms are accessible from one dashboard. Visit smmgen.com/services to see the complete list."
+        }
+      ]
+    },
+    {
+      "blockType": "ctaBanner",
+      "heading": "Still have a question?",
+      "intro": "Our support team is available 24/7. Submit a ticket or start live chat and get a real answer from a real person.",
+      "buttons": [
+        {
+          "label": "Create Free Account",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "Browse All Services",
+          "href": "/services",
+          "variant": "outline"
+        },
+        {
+          "label": "Contact Support",
+          "href": "/contact-us",
+          "variant": "outline"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/ready-to-start.webp",
+          "alt": "Ready to start illustration"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "slug": "wholesale-smm-panel",
+  "sourceUrl": "/wholesale-smm-panel",
+  "seo": {
+    "title": "Wholesale SMM Panel — Bulk SMM Services at the Lowest Volume Prices | SMMGen",
+    "description": "SMMGen's wholesale SMM panel offers bulk social media services at the lowest volume prices. Built for high-order agencies, panel owners, and serious resellers. Sign up free."
+  },
+  "layout": [
+    {
+      "blockType": "hero",
+      "heading": "Wholesale SMM Panel — **Bulk Social Media Services** at Volume Prices",
+      "intro": "SMMGen's wholesale SMM panel gives high-volume buyers, agencies, and panel operators access to bulk social media services at the lowest available per-unit rates. The more you order, the lower your cost. No subscriptions. No commitments. Just volume pricing applied automatically at scale.",
+      "body": "Trusted by\n\n79,000+ Users",
+      "buttons": [
+        {
+          "label": "Sign Up Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "View All Services",
+          "href": "/services",
+          "variant": "outline"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/wholesale-smm-bulk-social-media-at-volume-prices.png",
+          "alt": "Wholesale SMM panel — bulk social media services at volume prices"
+        }
+      ],
+      "rating": null,
+      "trustedBy": "Trusted by 79,000+ Users",
+      "avatars": [],
+      "platformIcons": []
+    },
+    {
+      "blockType": "richTextWithImage",
+      "heading": "What Is a **Wholesale SMM Panel?**",
+      "body": "A wholesale SMM panel is a social media marketing panel that operates on bulk pricing economics. Users who order at high volume pay less per unit than users placing smaller individual orders. The pricing structure rewards scale directly.\n\nIn the traditional sense, wholesale means buying in large quantities from a supplier at cost, then selling to end users at retail markup. In the SMM panel context, wholesale works the same way. You buy social media services from SMMGen at our bulk rates, which sit below our standard catalog prices. You then either use those services for your own campaigns at reduced cost, or resell them to clients with a profitable margin.\n\nSMMGen's wholesale model is built for operators who already understand the SMM market and process orders at a volume where per-unit pricing differences translate directly into meaningful profit or cost savings.",
+      "images": [
+        {
+          "src": "/image/what-is-a-wholesales-smm-panel.png",
+          "alt": "Professional using a wholesale SMM panel on laptop"
+        }
+      ]
+    },
+    {
+      "blockType": "comparisonTable",
+      "heading": "Wholesale SMM Panel vs **Standard SMM Panel**",
+      "intro": "The difference between a wholesale and standard SMM Panel comes down to one thing: price per unit at volume. Understanding this distinction helps you choose the right [SMM Panel](/) for your needs and avoids confusion with our other services.",
+      "cards": [
+        {
+          "title": "Standard SMM Panel Pricing",
+          "body": "When any user signs up and places an order on SMMGen's standard catalog, they pay the listed rate for each service. As a [Cheap SMM Panel](/cheap-smm-panel), SMMGen offers some of the lowest prices globally, starting from just $0.0003 per unit. This pricing is ideal for creators, small businesses, and early-stage resellers placing occasional orders.",
+          "icon": {
+            "src": "/image/wholesale-vs-standard-icon.png",
+            "alt": "Standard SMM Panel Pricing"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Wholesale SMM Panel Pricing",
+          "body": "Wholesale pricing applies when order volume crosses thresholds where the economics of bulk fulfillment justify lower per-unit rates. At wholesale rates, the same service that costs $0.80 per 1,000 on standard pricing may cost $0.55 to $0.65 per 1,000. Across tens of thousands of units per month, that gap produces significant savings. The exact wholesale rate for any service depends on the service type, quality tier, and monthly volume.",
+          "icon": {
+            "src": "/image/wholesale-vs-standard-wholesale-icon.png",
+            "alt": "Wholesale SMM Panel Pricing"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "table": {
+        "rows": [
+          [
+            "Pricing Tier",
+            "Who It Is For",
+            "Typical Monthly Volume"
+          ],
+          [
+            "Standard catalog",
+            "Solo users, small businesses, early resellers",
+            "Under 10,000 units/month"
+          ],
+          [
+            "Standard reseller",
+            "Growing resellers, freelancers with client base",
+            "10,000 to 50,000 units/month"
+          ],
+          [
+            "Wholesale",
+            "Agencies, panel operators, high-volume resellers",
+            "50,000+ units/month"
+          ]
+        ],
+        "recommendedColumn": null,
+        "recommendedRow": 3
+      }
+    },
+    {
+      "blockType": "audienceGrid",
+      "heading": "Who Should Use SMMGen's **Wholesale SMM Panel?**",
+      "cards": [
+        {
+          "title": "High-Volume Resellers",
+          "body": "Resellers who have grown past the early stage of the [SMM reseller panel](/smm-reseller-panel) model and now process significant monthly volume are the natural candidates for wholesale access. A reseller processing 80,000 Instagram likes per month at a $0.05 per 1,000 discount saves $4 per month on that one service alone. Across a full catalog with dozens of active service types, the combined monthly saving is substantial.",
+          "icon": {
+            "src": "/image/wholesale-who-high-volume-resellers-icon.png",
+            "alt": "High-Volume Resellers"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Social Media Marketing Networks",
+          "body": "Networks that aggregate demand from multiple agencies or resellers and route it through a single provider account benefit significantly from wholesale pricing. The aggregated volume qualifies for lower rates that individual agencies would not reach independently. The network operator retains a margin on the difference.",
+          "icon": {
+            "src": "/image/wholesale-who-smm-networks-icon.png",
+            "alt": "Social Media Marketing Networks"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Enterprises Running Large Campaigns",
+          "body": "Some enterprise brands, entertainment companies, record labels, and media groups run large-scale social media campaigns that generate consistent, high-unit-count orders. For these buyers, wholesale pricing reduces campaign cost without changing the quality or speed of service delivery.",
+          "icon": {
+            "src": "/image/wholesale-who-high-volume-resellers-icon.png",
+            "alt": "Enterprises Running Large Campaigns"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Large Marketing Agencies",
+          "body": "Agencies running social media campaigns for multiple clients simultaneously generate consistent, high-volume demand for SMM services. Paying standard rates on 100,000 units per month costs significantly more than accessing wholesale rates for the same volume. An agency spending $800 per month at standard rates for Instagram followers could reduce that cost to $550 to $650 at wholesale rates. Over 12 months, that difference funds additional client acquisition or service investment.",
+          "icon": {
+            "src": "/image/wholesale-who-agencies-icon.png",
+            "alt": "Large Marketing Agencies"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Panel Owners",
+          "body": "Panel owners who already operate their own dashboard, whether through SMMGen's white label SMM panel or an independent setup, generate order volume from their own client base. Wholesale rates from SMMGen give panel operators a lower cost base, which either improves margins at existing prices or allows them to compete more aggressively on pricing with their own clients.",
+          "icon": {
+            "src": "/image/wholesale-who-agencies-icon.png",
+            "alt": "Panel Owners"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "Wholesale Pricing Economics — **Why Volume Changes the Numbers**",
+      "intro": "Understanding why wholesale pricing exists helps you determine whether your volume justifies pursuing it.",
+      "cards": [
+        {
+          "title": "How Volume Affects Per-Unit Cost",
+          "body": "At standard catalog rates, every order pays the same rate regardless of size. A 1,000-unit order and a 100,000-unit order pay the same per-unit price for the same service.At wholesale rates, the cost structure reflects the economics of bulk fulfillment. Processing a single large order costs the delivery infrastructure proportionally less than processing many small orders of equivalent total volume. Order routing, status tracking, and administrative handling all become more efficient at scale. That efficiency converts into lower per-unit rates for the buyer.",
+          "icon": null,
+          "link": null,
+          "number": "01",
+          "badge": null
+        },
+        {
+          "title": "Real Margin Impact at Scale",
+          "body": "Consider a reseller with the following monthly order profile: 200,000 Instagram likes, 50,000 TikTok views, 20,000 YouTube views, 10,000 Telegram members. At standard rates, the total cost might be $85 per month. At wholesale rates with a 20% reduction, the same volume costs $68 per month. The saving is $17 per month, or $204 per year. A reseller doing 10x this volume saves $1,700 per year. An agency doing 50x this volume saves $8,500 per year.",
+          "icon": null,
+          "link": null,
+          "number": "02",
+          "badge": null
+        },
+        {
+          "title": "Compounding Effect on Competitive Pricing",
+          "body": "Wholesale rates also create a competitive pricing advantage. A reseller buying at wholesale can offer lower prices to clients than a reseller buying at standard rates while maintaining the same profit margin. Lower prices to clients means more clients. More clients means more volume. More volume means better wholesale rates. The economics compound in the right direction.",
+          "icon": null,
+          "link": null,
+          "number": "03",
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "Wholesale Ordering on **SMMGen**",
+      "cards": [
+        {
+          "title": "API-Driven Bulk Ordering",
+          "body": "Wholesale buyers almost universally use the SMMGen API rather than placing orders manually through the dashboard. The API allows automated order placement, real-time status checking, balance management, and delivery tracking without any manual input per order. Full API documentation is on the SMM panel API page.",
+          "icon": {
+            "src": "/image/wholesale-ordering-api-icon.png",
+            "alt": "API-Driven Bulk Ordering"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Drip-Feed Delivery for Large Orders",
+          "body": "Large bulk orders benefit from drip-feed delivery, which spreads delivery over a period of time rather than sending all units at once. A single order of 100,000 Instagram followers arriving in one hour looks unnatural to platform algorithms. The same order delivered over 7 to 14 days at a controlled daily rate avoids algorithm flags entirely.",
+          "icon": {
+            "src": "/image/wholesale-ordering-drip-feed-icon.png",
+            "alt": "Drip-Feed Delivery for Large Orders"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Batch Order Management",
+          "body": "Agencies and panel operators placing large numbers of simultaneous orders across multiple client accounts use batch ordering to manage volume efficiently. The SMMGen dashboard and API both support multiple concurrent active orders.",
+          "icon": {
+            "src": "/image/wholesale-ordering-batch-icon.png",
+            "alt": "Batch Order Management"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Balance Management for High Volume",
+          "body": "Wholesale buyers maintain a funded balance in their SMMGen account that covers their expected monthly order volume. We recommend wholesale buyers maintain a balance that covers at least two weeks of their average weekly spend.",
+          "icon": {
+            "src": "/image/wholesale-ordering-balance-icon.png",
+            "alt": "Balance Management for High Volume"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "Platforms Available at **Wholesale Rates**",
+      "intro": "Every platform on SMMGen's standard catalog is available at wholesale rates. The same 9,000+ services that standard users access become more affordable at volume for wholesale buyers.",
+      "body": "LinkedIn, Spotify, Discord, Pinterest, Snapchat, Threads, Reddit, Twitch, SoundCloud, and more are all available.\n\nBrowse the complete catalog at [smmgen.com/services](/services).",
+      "cards": [
+        {
+          "title": "Instagram bulk services",
+          "body": "Followers, likes, Reels views, Story views, comments, saves, impressions.",
+          "icon": {
+            "src": "/image/instagram.png",
+            "alt": "Instagram bulk services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "YouTube bulk services",
+          "body": "Views, subscribers, likes, watch time, Shorts views, comments.",
+          "icon": {
+            "src": "/image/youtube.png",
+            "alt": "YouTube bulk services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "TikTok bulk services",
+          "body": "Followers, views, likes, shares, comments, saves.",
+          "icon": {
+            "src": "/image/tiktok.png",
+            "alt": "TikTok bulk services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Facebook bulk services",
+          "body": "Page likes, followers, post likes, video views, shares.",
+          "icon": {
+            "src": "/image/facebook.png",
+            "alt": "Facebook bulk services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Telegram bulk services",
+          "body": "Channel members, post views, reactions.",
+          "icon": {
+            "src": "/image/telegram.png",
+            "alt": "Telegram bulk services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Twitter/X bulk services",
+          "body": "Followers, likes, retweets, impressions.",
+          "icon": {
+            "src": "/image/twiiter.png",
+            "alt": "Twitter/X bulk services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "Combining Wholesale with Other **SMMGen Models**",
+      "intro": "The wholesale pricing model is not exclusive to any single way of using SMMGen. It combines naturally with other models depending on your business structure.",
+      "cards": [
+        {
+          "title": "Wholesale Plus White Label Panel",
+          "body": "Many of the most profitable SMM businesses combine wholesale pricing with a branded white label panel. The white label panel generates client orders automatically. Those orders route to SMMGen at wholesale rates. The operator earns the margin between their client-facing retail price and the wholesale fulfillment cost. This combination produces the highest gross margin possible: a self-serve branded front end generating automated revenue, powered by the lowest available backend cost.",
+          "icon": null,
+          "link": null,
+          "number": "01",
+          "badge": null
+        },
+        {
+          "title": "Wholesale Plus API Automation",
+          "body": "High-volume wholesale buyers almost always use API automation to manage order flow. Connecting your internal systems or client-facing panel to SMMGen via API eliminates manual ordering entirely. Orders process automatically as clients place them. No human involvement is needed per transaction.",
+          "icon": null,
+          "link": null,
+          "number": "02",
+          "badge": null
+        },
+        {
+          "title": "Wholesale as an Upgrade from Standard Reselling",
+          "body": "Resellers who started with the standard SMM reseller panel model naturally grow into wholesale pricing as their monthly volume increases. The transition requires no new account setup. Your existing SMMGen account and API credentials remain the same. Wholesale pricing applies to your orders at the volume thresholds you reach.",
+          "icon": null,
+          "link": null,
+          "number": "03",
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "stepsTimeline",
+      "heading": "How to Access **Wholesale Pricing on SMMGen**",
+      "cards": [
+        {
+          "title": "Create or Log Into Your SMMGen Account",
+          "body": "All wholesale access begins with a SMMGen account. If you do not have one yet, create a free account at smmgen.com/signup. Existing users can proceed directly to step two.",
+          "icon": {
+            "src": "/image/how-social/wholesale-smm-panel/create-or-log-in.png",
+            "alt": "Create or Log Into Your SMMGen Account"
+          },
+          "link": null,
+          "number": "01",
+          "badge": null
+        },
+        {
+          "title": "Assess Your Monthly Volume",
+          "body": "Before contacting us, have a realistic estimate of your monthly order volume by service category. Relevant information to prepare: the platforms you buy for, the service types you order most frequently, your average monthly unit count per service, and whether you need drip-feed delivery on large orders.",
+          "icon": {
+            "src": "/image/how-social/wholesale-smm-panel/assess-monthly-volume.png",
+            "alt": "Assess Your Monthly Volume"
+          },
+          "link": null,
+          "number": "02",
+          "badge": null
+        },
+        {
+          "title": "Contact Our Team",
+          "body": "Reach out to our team directly through smmgen.com/contact-us. Provide your volume details and the specific services you need at wholesale rates. Our team reviews your requirements and provides a wholesale pricing structure tailored to your buying profile.",
+          "icon": {
+            "src": "/image/how-social/wholesale-smm-panel/contact-our-team.png",
+            "alt": "Contact Our Team"
+          },
+          "link": null,
+          "number": "03",
+          "badge": null
+        },
+        {
+          "title": "Integrate the API for Automation",
+          "body": "Once wholesale pricing is confirmed, connect the SMMGen API to your ordering system for full automation. The SMM panel API page has all documentation needed for integration. Most API setups are completed within a few hours by a developer familiar with REST APIs.",
+          "icon": {
+            "src": "/image/how-social/wholesale-smm-panel/integrate-api.png",
+            "alt": "Integrate the API for Automation"
+          },
+          "link": null,
+          "number": "04",
+          "badge": null
+        },
+        {
+          "title": "Fund Your Balance and Start Ordering",
+          "body": "Maintain a funded balance that comfortably covers your weekly order volume. Place your first wholesale orders and verify delivery speed, quality, and status tracking. Scale volume as you confirm performance meets your requirements.",
+          "icon": {
+            "src": "/image/how-social/wholesale-smm-panel/fund-balance.png",
+            "alt": "Fund Your Balance and Start Ordering"
+          },
+          "link": null,
+          "number": "05",
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/how-social/wholesale-smm-panel/create-or-log-in.png",
+          "alt": "Create or Log Into Your SMMGen Account"
+        },
+        {
+          "src": "/image/how-social/wholesale-smm-panel/assess-monthly-volume.png",
+          "alt": "Assess Your Monthly Volume"
+        },
+        {
+          "src": "/image/how-social/wholesale-smm-panel/contact-our-team.png",
+          "alt": "Contact Our Team"
+        },
+        {
+          "src": "/image/how-social/wholesale-smm-panel/integrate-api.png",
+          "alt": "Integrate the API for Automation"
+        },
+        {
+          "src": "/image/how-social/wholesale-smm-panel/fund-balance.png",
+          "alt": "Fund Your Balance and Start Ordering"
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "Why SMMGen for Wholesale **SMM Services?**",
+      "intro": "High-volume buyers have clear requirements that differ from casual users. Here is why SMMGen meets those requirements consistently.",
+      "cards": [
+        {
+          "title": "Operational history since 2018",
+          "body": "Seven years of continuous operation means SMMGen has survived platform changes, API updates, and market shifts that ended newer competitors. Wholesale buyers cannot afford panel downtime or service discontinuation mid-campaign.",
+          "icon": {
+            "src": "/image/wholesale-why/operational-history.png",
+            "alt": "Operational history since 2018"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "76 million completed orders",
+          "body": "The volume of orders SMMGen has processed proves the infrastructure handles scale without failure. High-volume buyers need infrastructure that works at their level, not just at a demo level.",
+          "icon": {
+            "src": "/image/wholesale-why/completed-orders.png",
+            "alt": "76 million completed orders"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "9,000+ active services",
+          "body": "Agencies and panel operators need a catalog wide enough to cover every client request. SMMGen's catalog eliminates the need for multiple provider relationships.",
+          "icon": {
+            "src": "/image/wholesale-why/active-services.png",
+            "alt": "9,000+ active services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Full API with documentation",
+          "body": "Wholesale buyers operate through the API. SMMGen's API is fully documented, stable, and covers every service in the catalog.",
+          "icon": {
+            "src": "/image/wholesale-why/full-api.png",
+            "alt": "Full API with documentation"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Refill guarantee on eligible services",
+          "body": "When you are managing hundreds of client accounts, service drops create support problems. SMMGen's refill guarantee on eligible services reduces the volume of client complaints your team has to handle.",
+          "icon": {
+            "src": "/image/wholesale-why/refill-guarantee.png",
+            "alt": "Refill guarantee on eligible services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "24/7 support",
+          "body": "Issues at scale need fast resolution. Our team is available around the clock. Wholesale buyers get priority response for volume-related queries.",
+          "icon": {
+            "src": "/image/wholesale-why/support-24-7.png",
+            "alt": "24/7 support"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Secure infrastructure",
+          "body": "SSL encryption across all pages. No password required for any service. Verified payment gateways.",
+          "icon": {
+            "src": "/image/wholesale-why/secure-infrastructure.png",
+            "alt": "Secure infrastructure"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/wholesale-why/secure-infrastructure.png",
+          "alt": "Secure infrastructure"
+        }
+      ]
+    },
+    {
+      "blockType": "faqSection",
+      "id": "faq",
+      "heading": "Frequently Asked Questions About **Wholesale SMM Panels**",
+      "faq": [
+        {
+          "question": "What is a wholesale SMM panel?",
+          "answer": "A wholesale SMM panel is a platform that offers social media services at reduced per-unit rates for high-volume buyers. Standard pricing applies to smaller individual orders. Wholesale pricing applies when monthly order volume crosses thresholds where bulk fulfillment economics justify lower rates. SMMGen's wholesale pricing is available to agencies, panel operators, and high-volume resellers who meet volume requirements."
+        },
+        {
+          "question": "How do wholesale SMM prices differ from standard prices?",
+          "answer": "Standard prices are the published catalog rates any user pays on their first order. Wholesale prices are lower per-unit rates negotiated based on committed monthly volume. The discount varies by service type and volume tier, but typically ranges from 15% to 30% below standard catalog rates for qualifying volume levels."
+        },
+        {
+          "question": "Who should use a wholesale SMM panel?",
+          "answer": "Wholesale SMM pricing suits buyers processing 50,000 or more service units per month across their order profile. This includes large agencies managing multiple client campaigns, existing SMM panel operators using SMMGen as their backend provider, social media marketing networks aggregating reseller demand, and enterprise buyers running ongoing large-scale campaigns."
+        },
+        {
+          "question": "Is there a minimum order quantity for wholesale pricing?",
+          "answer": "Wholesale pricing applies based on total monthly volume across all services rather than a single minimum order size. There is no minimum for a single order. Your total monthly volume across the service categories you use determines which pricing tier applies. Contact our team at smmgen.com/contact-us with your volume profile to confirm the applicable rates."
+        },
+        {
+          "question": "Can I use the wholesale model alongside a white label panel?",
+          "answer": "Yes. This combination is one of the most profitable ways to use SMMGen. Your white label panel generates client orders through its own branded front end. Those orders route to SMMGen at wholesale rates. You earn the margin between your client-facing retail price and the wholesale fulfillment cost. Full details on setting up a white label panel are on the white label SMM panel page."
+        },
+        {
+          "question": "Does the API work at wholesale volume?",
+          "answer": "Yes. SMMGen's API is designed to handle high-volume throughput. Wholesale buyers use the API for automated order placement, real-time status checks, balance queries, and delivery tracking. The API supports all services in the catalog and uses standard JSON formatting. Full documentation is on the SMM panel API page."
+        },
+        {
+          "question": "Does SMMGen offer refunds on wholesale orders?",
+          "answer": "Yes. Our published refund policy covers all orders including wholesale. If a service fails to deliver as described, you are eligible for a refund or account credit. Raise a support ticket from your dashboard. Eligible services also include a refill guarantee that restores dropped engagement within the stated period."
+        }
+      ]
+    },
+    {
+      "blockType": "ctaBanner",
+      "heading": "Start Your Wholesale Conversation with SMMGen",
+      "intro": "SMMGen has been processing high-volume orders since 2018. Our infrastructure handles scale. Our catalog covers every platform. Our wholesale pricing reduces your per-unit cost as your volume grows. If your monthly order volume qualifies, contact our team today to discuss your requirements and receive a tailored wholesale pricing structure.",
+      "buttons": [
+        {
+          "label": "Sign Up Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "Contact Our Team",
+          "href": "/contact-us",
+          "variant": "outline"
+        },
+        {
+          "label": "Read the API Docs",
+          "href": "/smm-panel-api",
+          "variant": "outline"
+        },
+        {
+          "label": "Browse All Services",
+          "href": "/services",
+          "variant": "outline"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/ready-to-start.webp",
+          "alt": "Ready to start illustration"
+        }
+      ]
+    }
+  ]
+}

@@ -186,6 +186,13 @@ const fakeLink = ($: $, root: Node): Link | null => {
   return span.length ? { label: clean(span.text()), href: null } : null
 }
 
+/** The card element around an <h3>: the outermost ancestor that still contains only that one h3. */
+export const cardRoot = ($: $, h3: Node) => {
+  let root = h3.parent()
+  while (root.parent().length && root.parent().find('h3').length === 1 && !root.is('section')) root = root.parent()
+  return root
+}
+
 /**
  * Cards inside a section, found from their <h3>: the card root is the closest ancestor
  * that contains exactly one h3. Works for grids, masonry and nested list layouts.
@@ -195,12 +202,16 @@ export const cards = ($: $, section: Node): Card[] =>
     .find('h3')
     .map((_, h) => {
       const $h = $(h)
-      let root = $h.parent()
-      while (root.parent().length && root.parent().find('h3').length === 1 && !root.is('section')) root = root.parent()
+      const root = cardRoot($, $h)
       const badgeEl = root.find('div, span').filter((__, d) => /^From\s/i.test(clean($(d).text())) && $(d).children().length === 0).first()
       const numberEl = root.find('span').filter((__, sp) => /^\d{2}$/.test(clean($(sp).text()))).first()
       const linkEl = root.find('a').filter((__, a) => !!clean($(a).text())).last()
-      const bodyEls = root.find('p').filter((__, p) => !$(p).closest('a').length)
+      // Card text is usually <p>, but some cards use a bare <div> after the h3.
+      let bodyEls = root.find('p').filter((__, p) => !$(p).closest('a').length)
+      if (!bodyEls.length)
+        bodyEls = $h
+          .nextAll('div, ul, ol')
+          .filter((__, d) => !!clean($(d).text()) && !$(d).find('a[class*="rounded-full"], h3').length && !$(d).children('span:has(img)').length)
       return {
         title: clean($h.text()),
         body: markdown($, bodyEls),

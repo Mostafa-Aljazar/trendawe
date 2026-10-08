@@ -1,0 +1,698 @@
+{
+  "slug": "smm-reseller-panel",
+  "sourceUrl": "/smm-reseller-panel",
+  "seo": {
+    "title": "SMM Reseller Panel — Start and Scale Your SMM Business with SMMGen",
+    "description": "SMMGen's SMM reseller panel gives you wholesale prices, API access, and 9,000+ services to resell. Start with any budget. Build a profitable SMM business today."
+  },
+  "layout": [
+    {
+      "blockType": "hero",
+      "heading": "SMM Reseller Panel — Build a Profitable **Social Media Business with SMMGen**",
+      "intro": "SMMGen's SMM reseller panel gives you direct access to 9509 social media services at wholesale prices. You buy from us, sell to your clients at your own markup, and keep the profit. No inventory, no technical setup, no minimum volume required.",
+      "body": "Trusted by\n\n98121 Users",
+      "buttons": [
+        {
+          "label": "Start Reselling Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/about-smmgen-a-trusted-smm-panel-built-on-real-results.webp",
+          "alt": "SMMGen social media marketing dashboard with growth analytics"
+        },
+        {
+          "src": "/image/facebook-icon-small.png",
+          "alt": "Facebook SMM Panel"
+        },
+        {
+          "src": "/image/instagram-iocn-small.png",
+          "alt": "Instagram SMM Panel"
+        },
+        {
+          "src": "/image/linkdein-icon-small.png",
+          "alt": "LinkedIn SMM Panel"
+        },
+        {
+          "src": "/image/sportify-iocn-small.png",
+          "alt": "Spotify SMM Panel"
+        },
+        {
+          "src": "/image/telegram-icon-small.png",
+          "alt": "Telegram SMM Panel"
+        },
+        {
+          "src": "/image/tiktok-icon-small.png",
+          "alt": "TikTok SMM Panel"
+        }
+      ],
+      "rating": null,
+      "trustedBy": "Trusted by 98121 Users",
+      "avatars": [],
+      "platformIcons": [
+        {
+          "src": "/image/facebook-icon-small.png",
+          "alt": "Facebook SMM Panel"
+        },
+        {
+          "src": "/image/instagram-iocn-small.png",
+          "alt": "Instagram SMM Panel"
+        },
+        {
+          "src": "/image/linkdein-icon-small.png",
+          "alt": "LinkedIn SMM Panel"
+        },
+        {
+          "src": "/image/sportify-iocn-small.png",
+          "alt": "Spotify SMM Panel"
+        },
+        {
+          "src": "/image/telegram-icon-small.png",
+          "alt": "Telegram SMM Panel"
+        },
+        {
+          "src": "/image/tiktok-icon-small.png",
+          "alt": "TikTok SMM Panel"
+        }
+      ]
+    },
+    {
+      "blockType": "richTextWithImage",
+      "heading": "What Is **an SMM Reseller Panel?**",
+      "body": "An SMM reseller panel is a platform where you purchase social media marketing services at wholesale rates and sell them to your own clients at a higher price. You act as the business owner. The panel handles all delivery on the backend.\n\nAs an [SMMGen](/about-us) reseller, you get access to every service on our platform — followers, likes, views, comments, watch time, members, and more — for Instagram, YouTube, TikTok, Facebook, Telegram, Twitter/X, LinkedIn, and every other supported platform. You set your own prices. You manage your own client relationships. SMMGen processes every order automatically.\n\nThe model works because the [SMM Panel](/) industry operates at wholesale scale. SMMGen maintains the delivery infrastructure, provider relationships, and technical systems. You focus on acquiring clients and growing your business.",
+      "images": [
+        {
+          "src": "/image/what-is-an-smm-reseller-panel.png",
+          "alt": "What Is an SMM Reseller Panel?"
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "Why Resellers Choose **SMMGen**",
+      "intro": "Resellers need a backend that is reliable, fast, and priced low enough to leave room for a real profit margin. SMMGen delivers on all three.",
+      "cards": [
+        {
+          "title": "Wholesale Prices Starting from $0.0003",
+          "body": "SMMGen's pricing starts from $0.0003 per unit. That floor gives you room to markup for clients at 2x, 3x, or more depending on the service tier and your market. You control where you set your prices. We keep our wholesale rates fixed so your margins stay predictable. For the most competitive pricing across every service category, visit our [cheap SMM panel page](/cheap-smm-panel).",
+          "icon": {
+            "src": "/image/wholesale-prices-starting-from-00003.png",
+            "alt": "Wholesale Prices Starting from $0.0003"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "9509 Services Across Every Major Platform",
+          "body": "Your clients will not all want the same thing. Some need Instagram followers. Others need YouTube watch time, TikTok views, or Telegram members. SMMGen covers every platform and every service type, so you never have to turn a client away. Visit [smmgen.com/services](/services) to browse the full catalog.",
+          "icon": {
+            "src": "/image/9000-services-across-every-major-platform.png",
+            "alt": "9509 Services Across Every Major Platform"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Fast Delivery That Keeps Clients Happy",
+          "body": "The most common reason resellers lose clients is slow or failed delivery. SMMGen processes orders automatically. Most Instagram services start within 7 minutes. YouTube services start within 10 to 15 minutes. Your clients see results fast, which builds trust and generates repeat orders.",
+          "icon": {
+            "src": "/image/fast-delivery-that-keeps-clients-happy.png",
+            "alt": "Fast Delivery That Keeps Clients Happy"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Full API Access for Automation",
+          "body": "SMMGen provides a complete API that allows you to automate order placement, status checks, and delivery tracking. You can build your own reseller interface, connect SMMGen to your existing client management system, or run a fully automated order pipeline without logging in manually. Full API documentation is on the [SMM panel API page](/smm-panel-api).",
+          "icon": {
+            "src": "/image/full-api-access-for-automation.png",
+            "alt": "Full API Access for Automation"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Refill Guarantee Protects Your Reputation",
+          "body": "Many of our services include a refill guarantee. If engagement drops within the stated refill period, we restore it. That guarantee extends to your clients when you resell our services. You do not need to worry about refunding clients for drops on eligible services.",
+          "icon": {
+            "src": "/image/refill-guarantee-protects-your-reputation.png",
+            "alt": "Refill Guarantee Protects Your Reputation"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "24/7 Support Behind Your Business",
+          "body": "When a client has an order issue at 2am, your ability to resolve it fast is what keeps them. SMMGen's support team is available 24 hours a day, 7 days a week. Submit a ticket or use live chat at [smmgen.com/contact-us](/contact-us). Most issues are resolved within hours.",
+          "icon": {
+            "src": "/image/247-support-behind-your-business.png",
+            "alt": "24/7 Support Behind Your Business"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "richTextWithImage",
+      "heading": "How the **SMMGen Reseller Model Works**",
+      "body": "The business model is simple. Here is exactly how it operates from your side.\n\nYou purchase services from SMMGen at our wholesale panel prices. You charge your clients a higher price for those same services. The difference is your profit.\n\nExample: SMMGen charges $0.80 per 1,000 Instagram followers on a standard package. You charge your client $2.50 per 1,000. Your margin on that order is $1.70 per 1,000 units, or a 212% markup. Multiply that across hundreds of orders per month and you have a real income stream.\n\nYou are not limited to one service or one client. SMMGen's dashboard handles multiple simultaneous orders. The API lets you connect your own website or ordering system so clients can place orders directly without coming to you manually.\n\nThe key advantage of the reseller model is that you own the client relationship. You set your prices. You choose which services to offer. You build your own brand. SMMGen stays in the background handling delivery."
+    },
+    {
+      "blockType": "audienceGrid",
+      "heading": "Who Should **Use the SMMGen Reseller Panel?**",
+      "cards": [
+        {
+          "title": "Freelancers and Digital Marketers",
+          "body": "Freelancers offering social media marketing services to small businesses are the most natural fit for the reseller model. You already have client relationships. Adding SMM panel services to your offering gives you a recurring revenue stream with almost zero additional overhead.",
+          "icon": {
+            "src": "/image/freelancers-and-digital-marketers.png",
+            "alt": "Freelancers and Digital Marketers"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Social Media Agencies",
+          "body": "Agencies managing multiple client accounts use SMMGen to deliver growth results efficiently. Instead of building delivery infrastructure from scratch, you use SMMGen as your backend. The API integrates into your existing workflow. Bulk orders are processed automatically. You report results to clients without touching each order manually.",
+          "icon": {
+            "src": "/image/social-media-agencies.png",
+            "alt": "Social Media Agencies"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Content Creators and Influencers",
+          "body": "Creators with an audience often get asked by their followers where they buy services. Becoming an SMMGen reseller lets you monetize that question. You refer clients through your own branded offering. They pay you. You fulfill through SMMGen.",
+          "icon": {
+            "src": "/image/content-creators-and-influencers.png",
+            "alt": "Content Creators and Influencers"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Students and First-Time Entrepreneurs",
+          "body": "The SMMGen reseller panel requires no coding skills, no technical background, and no large upfront investment. You can start with a small initial deposit and test with your first few clients before scaling. The barrier to entry is low. The potential to scale is high.",
+          "icon": {
+            "src": "/image/students-and-first-time-entrepreneurs.png",
+            "alt": "Students and First-Time Entrepreneurs"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Existing SMM Panel Owners",
+          "body": "If you already run an SMM panel and need a reliable upstream provider, SMMGen's API connects directly to your panel's backend. Your clients place orders on your panel. SMMGen fulfills them on ours. You maintain full control of your front end while relying on our infrastructure for delivery.",
+          "icon": {
+            "src": "/image/existing-smm-panel-owners.png",
+            "alt": "Existing SMM Panel Owners"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "stepsTimeline",
+      "heading": "How to Start Reselling with SMMGen — **Step by Step**",
+      "intro": "Getting started takes less than 10 minutes. Follow these steps exactly.",
+      "cards": [
+        {
+          "title": "Create Your Free SMMGen Account",
+          "body": "Go to [smmgen.com/signup](https://my.smmgen.com/signup) and register with your email address. Account creation is free and takes under two minutes. You get immediate access to the full dashboard including the service catalog, pricing, and API documentation.",
+          "icon": {
+            "src": "/image/how-smmgen-works-1.png",
+            "alt": "Create Your Free SMMGen Account"
+          },
+          "link": null,
+          "number": "01",
+          "badge": null
+        },
+        {
+          "title": "Add Funds to Your Balance",
+          "body": "Click \"Add Funds\" inside your dashboard. SMMGen accepts PayPal, Visa, Mastercard, Bitcoin, Ethereum, USDT, and local payment options worldwide. Add whatever amount you want to start with. There is no minimum deposit requirement beyond the cost of your first order.",
+          "icon": {
+            "src": "/image/how-smmgen-works-2.png",
+            "alt": "Add Funds to Your Balance"
+          },
+          "link": null,
+          "number": "02",
+          "badge": null
+        },
+        {
+          "title": "Study the Service Catalog",
+          "body": "Before you approach clients, spend time in the catalog. Understand which services are available, what the delivery times are, and what our wholesale prices look like. This gives you the information you need to set your client-facing prices with confidence. Bookmark services that fit your target market. If you are working with Instagram-focused clients, explore every service on the Instagram SMM panel page. If your clients need YouTube growth, explore the YouTube SMM panel page.",
+          "icon": {
+            "src": "/image/how-smmgen-works-3.png",
+            "alt": "Study the Service Catalog"
+          },
+          "link": null,
+          "number": "03",
+          "badge": null
+        },
+        {
+          "title": "Set Your Prices and Find Clients",
+          "body": "Decide how much to charge your clients for each service. A common approach is to mark up 2x to 3x the wholesale cost for standard services and 4x to 5x for premium or high-retention services where clients are less price-sensitive. Your first clients are usually in your existing network: business owners you know, creators you follow, local shops with social media accounts. Once you have a few successful deliveries, word-of-mouth and online marketing take over.",
+          "icon": {
+            "src": "/image/how-smmgen-works-4.png",
+            "alt": "Set Your Prices and Find Clients"
+          },
+          "link": null,
+          "number": "04",
+          "badge": null
+        },
+        {
+          "title": "Place Orders and Track Delivery",
+          "body": "When a client orders from you, log in to SMMGen, find the service, paste the client's public profile or post link, and submit the order. Delivery starts automatically. Monitor the status inside your dashboard and update your client when complete. Once you are handling volume, connect the SMM panel API to automate this entire process.",
+          "icon": {
+            "src": "/image/how-smmgen-works-5.png",
+            "alt": "Place Orders and Track Delivery"
+          },
+          "link": null,
+          "number": "05",
+          "badge": null
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Start Reselling Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        }
+      ]
+    },
+    {
+      "blockType": "marginExamples",
+      "heading": "What Can **You Earn as an SMMGen Reseller?**",
+      "intro": "Earnings depend on three factors: the services you sell, the prices you charge, and the volume of clients you serve. There is no ceiling on what a reseller can earn. The model scales with effort.",
+      "cards": [
+        {
+          "title": "Building Recurring Revenue",
+          "body": "The most profitable resellers do not rely on one-time orders. They build recurring relationships with clients who reorder consistently. A business page that buys 500 Instagram followers this month will likely buy again next month. A creator that orders TikTok views for one video will want the same for the next.\nFocus on client retention, not just client acquisition. Recurring revenue from 20 steady clients beats chasing 100 one-time orders every month.",
+          "icon": {
+            "src": "/image/building-recurring-revenue-icon.png",
+            "alt": "Building Recurring Revenue"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Margin Examples Across Key Services",
+          "body": "These are illustrative ranges based on typical reseller pricing in the market. Actual margins depend on your specific pricing strategy and client base.",
+          "icon": {
+            "src": "/image/instagram.png",
+            "alt": "Instagram Followers"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "margins": [
+        {
+          "service": "Instagram Followers",
+          "icon": {
+            "src": "/image/instagram.png",
+            "alt": "Instagram Followers"
+          },
+          "buyAt": "$0.80/1,000",
+          "resellAt": "$2.00-$3.00/1,000",
+          "margin": "150% to 275%"
+        },
+        {
+          "service": "YouTube Views",
+          "icon": {
+            "src": "/image/youtube.png",
+            "alt": "YouTube Views"
+          },
+          "buyAt": "$0.20/1,000",
+          "resellAt": "$0.60-$1.20/1,000",
+          "margin": "200% to 500%"
+        },
+        {
+          "service": "TikTok Views",
+          "icon": {
+            "src": "/image/tiktok.png",
+            "alt": "TikTok Views"
+          },
+          "buyAt": "$0.05/1,000",
+          "resellAt": "$0.20-$0.40/1,000",
+          "margin": "300% to 700%"
+        },
+        {
+          "service": "Telegram Members",
+          "icon": {
+            "src": "/image/telegram.png",
+            "alt": "Telegram Members"
+          },
+          "buyAt": "$1.00/1,000",
+          "resellAt": "$3.00-$5.00/1,000",
+          "margin": "200% to 400%"
+        }
+      ]
+    },
+    {
+      "blockType": "comparisonTable",
+      "heading": "Reseller vs. White **Label vs. Wholesale — What Is the Difference?**",
+      "intro": "Many resellers eventually want more than just placing orders through our dashboard. Here is how SMMGen's different options compare.",
+      "body": "Most resellers start with the standard reseller model, move to white label once they have a steady client base, and explore wholesale pricing as volume grows.",
+      "cards": [
+        {
+          "title": "SMM Reseller Panel",
+          "body": "You use SMMGen's dashboard to place orders on behalf of your clients. You pay our wholesale rates and charge your clients whatever you choose. This is the fastest way to start.",
+          "icon": {
+            "src": "/image/reseller-panel-icon.png",
+            "alt": "SMM Reseller Panel"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "White Label SMM Panel",
+          "body": "You get a fully branded version of an SMM panel operating under your own domain name and brand identity. Your clients see your brand, not SMMGen. You set all prices inside the panel. Clients can log in and order directly without going through you manually. Full details are on the [white label SMM panel page](/white-label-smm-panel).",
+          "icon": {
+            "src": "/image/whitelabel-panel-icon.png",
+            "alt": "White Label SMM Panel"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Wholesale SMM Panel",
+          "body": "For very high-volume buyers who want the deepest possible discounts across bulk orders. This is suited to resellers handling thousands of orders per month. Full details are on the [wholesale SMM panel page](/wholesale-smm-panel).",
+          "icon": {
+            "src": "/image/wholesale-panel-icon.png",
+            "alt": "Wholesale SMM Panel"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "platformCardsGrid",
+      "heading": "Platforms **You Can Resell Through SMMGen**",
+      "intro": "SMMGen covers every major social platform. As a reseller, your catalog is as wide as your clients need.",
+      "cards": [
+        {
+          "title": "Instagram",
+          "body": "Followers, likes, Reels views, Story views, comments, saves, and impressions.",
+          "icon": {
+            "src": "/image/instagram.png",
+            "alt": "Instagram"
+          },
+          "link": {
+            "label": "Instagram SMM Panel",
+            "href": "/instagram-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "YouTube",
+          "body": "Views, subscribers, likes, watch time, Shorts views, and comments.",
+          "icon": {
+            "src": "/image/youtube.png",
+            "alt": "YouTube"
+          },
+          "link": {
+            "label": "YouTube SMM Panel",
+            "href": "/youtube-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "TikTok",
+          "body": "Followers, views, likes, shares, comments, and saves.",
+          "icon": {
+            "src": "/image/tiktok.png",
+            "alt": "TikTok"
+          },
+          "link": {
+            "label": "TikTok SMM Panel",
+            "href": "/tiktok-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Facebook",
+          "body": "Page likes, followers, post likes, video views, and shares.",
+          "icon": {
+            "src": "/image/facebook.png",
+            "alt": "Facebook"
+          },
+          "link": {
+            "label": "Facebook SMM Panel",
+            "href": "/facebook-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Telegram",
+          "body": "Channel members, post views, and reactions.",
+          "icon": {
+            "src": "/image/telegram.png",
+            "alt": "Telegram"
+          },
+          "link": {
+            "label": "Telegram SMM Panel",
+            "href": "/telegram-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "X (Twitter)",
+          "body": "Followers, likes, retweets, and impressions.",
+          "icon": {
+            "src": "/image/twiiter.png",
+            "alt": "X (Twitter)"
+          },
+          "link": {
+            "label": "Twitter/X SMM Panel",
+            "href": "/x-twitter-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "LinkedIn",
+          "body": "Followers, connections, post likes, reactions, and impressions.",
+          "icon": {
+            "src": "/image/linkdein.png",
+            "alt": "LinkedIn"
+          },
+          "link": {
+            "label": "LinkedIn SMM Panel",
+            "href": "/linkedin-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Spotify",
+          "body": "Plays, followers, saves, playlist adds, and monthly listeners.",
+          "icon": {
+            "src": "/image/spotify.png",
+            "alt": "Spotify"
+          },
+          "link": {
+            "label": "Spotify SMM Panel",
+            "href": "/spotify-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Discord",
+          "body": "Members, online members, boosts, and server engagement.",
+          "icon": {
+            "src": "/image/discord.png",
+            "alt": "Discord"
+          },
+          "link": {
+            "label": "Discord SMM Panel",
+            "href": "/discord-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Pinterest",
+          "body": "Followers, saves, likes, board followers, and monthly views.",
+          "icon": {
+            "src": "/image/pinterest.png",
+            "alt": "Pinterest"
+          },
+          "link": {
+            "label": "Pinterest SMM Panel",
+            "href": "/pinterest-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Snapchat",
+          "body": "Followers, story views, spotlight views, and snap score.",
+          "icon": {
+            "src": "/image/snapchat.png",
+            "alt": "Snapchat"
+          },
+          "link": {
+            "label": "Snapchat SMM Panel",
+            "href": "/snapchat-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Threads",
+          "body": "Followers, likes, reposts, comments, and views.",
+          "icon": {
+            "src": "/image/threads.png",
+            "alt": "Threads"
+          },
+          "link": {
+            "label": "Threads SMM Panel",
+            "href": "/threads-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Reddit",
+          "body": "Upvotes, comments, subreddit members, post views, and awards.",
+          "icon": {
+            "src": "/image/reddit.png",
+            "alt": "Reddit"
+          },
+          "link": {
+            "label": "Reddit SMM Panel",
+            "href": "/reddit-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Twitch",
+          "body": "Followers, live viewers, channel views, clip engagement, and subscribers.",
+          "icon": {
+            "src": "/image/twitch.png",
+            "alt": "Twitch"
+          },
+          "link": {
+            "label": "Twitch SMM Panel",
+            "href": "/twitch-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "SoundCloud",
+          "body": "Plays, likes, reposts, followers, and comments.",
+          "icon": {
+            "src": "/image/soundcloud.png",
+            "alt": "SoundCloud"
+          },
+          "link": {
+            "label": "SoundCloud SMM Panel",
+            "href": "/soundcloud-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "faqSection",
+      "id": "faq",
+      "heading": "Frequently Asked Questions About the **SMMGen Reseller Panel**",
+      "faq": [
+        {
+          "question": "What is an SMM reseller panel?",
+          "answer": "An SMM reseller panel is a platform where you buy social media services at wholesale prices and resell them to your own clients at a higher price. SMMGen's reseller panel gives you access to 9,000+ services across every major platform. You set your own prices and keep the margin. SMMGen handles all delivery automatically."
+        },
+        {
+          "question": "How do I start reselling SMM services with SMMGen?",
+          "answer": "Create a free account at smmgen.com/signup, add funds using any supported payment method, study the service catalog, set your client-facing prices, and start placing orders on your clients' behalf. The process takes less than 10 minutes to set up. No technical skills are required to begin."
+        },
+        {
+          "question": "How much profit can I make as an SMM reseller?",
+          "answer": "Margins vary by service but typically range from 150% to 700% above SMMGen's wholesale cost. A reseller charging $3.00 per 1,000 Instagram followers while paying $0.80 wholesale earns a 275% margin on that service. Earnings scale with the number of clients you serve and how consistently they reorder."
+        },
+        {
+          "question": "Do I need technical skills to become an SMM reseller?",
+          "answer": "No. The standard reseller model requires no coding or technical knowledge. You log in, browse services, place orders, and track delivery through the dashboard. For resellers who want to automate, the SMM panel API is available. But API use is optional, not required."
+        },
+        {
+          "question": "What is the minimum deposit to start reselling on SMMGen?",
+          "answer": "There is no stated minimum deposit. You add whatever amount covers your first order. Many resellers start with $10 to $20 to test a few services before scaling. The low entry point means you can verify delivery quality before committing larger amounts."
+        },
+        {
+          "question": "Can I use SMMGen to power my own SMM panel website?",
+          "answer": "Yes. SMMGen's API connects directly to other panel systems. If you have your own panel website, point it to SMMGen's API for order fulfillment. Your clients order on your site. SMMGen delivers on the backend. For a fully branded experience without building your own site, see the white label SMM panel option."
+        },
+        {
+          "question": "Does SMMGen offer refunds if a reseller order fails to deliver?",
+          "answer": "Yes. SMMGen's published refund policy covers failed or incomplete orders. If a service does not deliver as described, you are eligible for a refund or account credit. Raise a support ticket from your dashboard to initiate a claim."
+        }
+      ]
+    },
+    {
+      "blockType": "ctaBanner",
+      "heading": "Ready to Start Your SMM Reseller Business?",
+      "intro": "SMMGen has powered reseller businesses worldwide since 2018. The platform is free to join, simple to use, and built to scale from your first few clients to thousands of monthly orders.\n\nCreate your account now and place your first order within 10 minutes.",
+      "buttons": [
+        {
+          "label": "Start Reselling for Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "View All Services",
+          "href": "/services",
+          "variant": "outline"
+        },
+        {
+          "label": "Read the API Docs",
+          "href": "/smm-panel-api",
+          "variant": "outline"
+        },
+        {
+          "label": "Contact Support",
+          "href": "/contact-us",
+          "variant": "outline"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/ready-to-start.webp",
+          "alt": "Ready to start illustration"
+        }
+      ]
+    }
+  ]
+}

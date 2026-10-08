@@ -1,0 +1,737 @@
+{
+  "slug": "white-label-smm-panel",
+  "sourceUrl": "/white-label-smm-panel",
+  "seo": {
+    "title": "White Label SMM Panel — Launch Your Own Branded SMM Business with SMMGen",
+    "description": "SMMGen's white label SMM panel lets you run a fully branded social media marketing panel under your own domain and logo. SMMGen handles all delivery. You own the brand."
+  },
+  "layout": [
+    {
+      "blockType": "hero",
+      "heading": "White Label SMM Panel — Run Your Own **Branded Social Media Business**",
+      "intro": "SMMGen's white label SMM panel lets you launch a fully operational social media marketing panel under your own brand name, domain, and logo. Your clients see your business. SMMGen runs the backend. You set the prices, manage the relationships, and keep every dollar of profit.",
+      "body": "Trusted by\n\n98121 Users",
+      "buttons": [
+        {
+          "label": "Contact Us to Get Started",
+          "href": "/contact-us",
+          "variant": "outline"
+        },
+        {
+          "label": "Sign Up Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/about-smmgen-a-trusted-smm-panel-built-on-real-results.webp",
+          "alt": "White label SMM panel — run your own branded social media business"
+        },
+        {
+          "src": "/image/facebook-icon-small.png",
+          "alt": "Facebook SMM Panel"
+        },
+        {
+          "src": "/image/instagram-iocn-small.png",
+          "alt": "Instagram SMM Panel"
+        },
+        {
+          "src": "/image/linkdein-icon-small.png",
+          "alt": "LinkedIn SMM Panel"
+        },
+        {
+          "src": "/image/sportify-iocn-small.png",
+          "alt": "Spotify SMM Panel"
+        },
+        {
+          "src": "/image/telegram-icon-small.png",
+          "alt": "Telegram SMM Panel"
+        },
+        {
+          "src": "/image/tiktok-icon-small.png",
+          "alt": "TikTok SMM Panel"
+        }
+      ],
+      "rating": null,
+      "trustedBy": "Trusted by 98121 Users",
+      "avatars": [],
+      "platformIcons": [
+        {
+          "src": "/image/facebook-icon-small.png",
+          "alt": "Facebook SMM Panel"
+        },
+        {
+          "src": "/image/instagram-iocn-small.png",
+          "alt": "Instagram SMM Panel"
+        },
+        {
+          "src": "/image/linkdein-icon-small.png",
+          "alt": "LinkedIn SMM Panel"
+        },
+        {
+          "src": "/image/sportify-iocn-small.png",
+          "alt": "Spotify SMM Panel"
+        },
+        {
+          "src": "/image/telegram-icon-small.png",
+          "alt": "Telegram SMM Panel"
+        },
+        {
+          "src": "/image/tiktok-icon-small.png",
+          "alt": "TikTok SMM Panel"
+        }
+      ]
+    },
+    {
+      "blockType": "richTextWithImage",
+      "heading": "What Is a **White Label SMM Panel?**",
+      "body": "A white label SMM panel is a fully functional social media marketing panel that operates under your brand identity instead of the provider's. Your clients visit your domain, see your logo, and place orders through your interface. They never see [SMMGen](/about-us) 's name anywhere in the process.\n\nBehind your branded front end, SMMGen's infrastructure handles every order. Our delivery systems, provider connections, and backend processing power every service your clients buy. You own the customer relationship and the brand. We handle the technical work.\n\nThis model is also called a child panel in the SMM industry. The terminology describes the relationship: your branded panel (the child) sits on top of SMMGen's main panel (the parent) through an API connection. Every order placed on your panel routes automatically to our system for processing and delivery.",
+      "images": [
+        {
+          "src": "/image/what-is-a-white-label-smm-panel.png",
+          "alt": "What Is a White Label SMM Panel?"
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "Why Build a **White Label SMM Business?**",
+      "cards": [
+        {
+          "title": "You Build Brand Equity, Not Just Income",
+          "body": "Every order your client places goes through your branded panel. They remember your brand name, not SMMGen's. As your client base grows, so does the equity in your brand. You can reinvest that reputation into new clients, new services, and higher pricing. A standard reseller sends clients to a panel that shows another company's branding. A white label owner builds something that belongs entirely to them.",
+          "icon": {
+            "src": "/image/white-label-image/digital-marketing-agencies.png",
+            "alt": "You Build Brand Equity, Not Just Income"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Your Clients Self-Serve Around the Clock",
+          "body": "When clients can log into your panel and place their own orders at any time of day, your business generates revenue while you sleep. You do not have to be online, available, or responsive for every single order to process. The system handles it automatically. Standard resellers must be involved in every order. That limits how many clients they can serve and how fast they can scale.",
+          "icon": {
+            "src": "/image/white-label-image/freelancers-ready-to-build-a-brand.png",
+            "alt": "Your Clients Self-Serve Around the Clock"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "You Control Pricing Completely",
+          "body": "Your white label panel has your prices, not SMMGen's. You decide the markup on every service. You can run promotions, create service bundles, offer loyalty discounts, or price premium services at 5x the wholesale rate. Your white label panel displays your prices automatically inside a professional dashboard your clients trust.",
+          "icon": {
+            "src": "/image/white-label-image/entrepreneurs-entering-the-smm-industry.png",
+            "alt": "You Control Pricing Completely"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Your Business Grows With Client Accounts",
+          "body": "Every client who creates an account on your panel is a permanent addition to your customer base. They come back every time they need services because your panel is their established tool. White label creates lock-in through the professional experience and the existing client wallet balance.",
+          "icon": {
+            "src": "/image/white-label-image/existing-smm-resellers-ready-to-scale.png",
+            "alt": "Your Business Grows With Client Accounts"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Low Overhead, High Scalability",
+          "body": "Building a fully functional SMM panel from scratch requires backend development, server infrastructure, payment gateway integrations, API connections, security setup, and ongoing maintenance. The white label model gives you all of that at a fraction of the cost. SMMGen maintains the infrastructure. You pay for access and focus entirely on building your client base.",
+          "icon": {
+            "src": "/image/white-label-image/niche-market-specialists.png",
+            "alt": "Low Overhead, High Scalability"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/white-label-image/digital-marketing-agencies.png",
+          "alt": "You Build Brand Equity, Not Just Income"
+        },
+        {
+          "src": "/image/white-label-image/freelancers-ready-to-build-a-brand.png",
+          "alt": "Your Clients Self-Serve Around the Clock"
+        },
+        {
+          "src": "/image/white-label-image/entrepreneurs-entering-the-smm-industry.png",
+          "alt": "You Control Pricing Completely"
+        },
+        {
+          "src": "/image/white-label-image/existing-smm-resellers-ready-to-scale.png",
+          "alt": "Your Business Grows With Client Accounts"
+        },
+        {
+          "src": "/image/white-label-image/niche-market-specialists.png",
+          "alt": "Low Overhead, High Scalability"
+        }
+      ]
+    },
+    {
+      "blockType": "comparisonTable",
+      "heading": "White Label SMM Panel vs **Standard Reseller Panel**",
+      "intro": "These two models are different in one critical way. Understanding that difference helps you choose the right path for your business.",
+      "body": "Your own domain\n\nStandard Reseller\n\nWhite Label\n\nYour own logo and branding\n\nStandard Reseller\n\nWhite Label\n\nClients have their own login\n\nStandard Reseller\n\nWhite Label\n\nClients self-serve orders\n\nStandard Reseller\n\nWhite Label\n\nYour pricing shown to clients\n\nStandard Reseller\n\nWhite Label\n\nManual order placement needed\n\nStandard Reseller\n\nWhite Label\n\nAPI automation possible\n\nStandard Reseller\n\nWhite Label\n\nSMMGen visible to clients\n\nStandard Reseller\n\nWhite Label\n\nBest for\n\nStandard Reseller\n\nWhite Label",
+      "cards": [
+        {
+          "title": "Standard Reseller Panel",
+          "body": "With SMMGen's [SMM reseller panel](/smm-reseller-panel), you log into SMMGen's dashboard and place orders on behalf of your clients. Your clients do not have their own login. You manage orders manually or through the API. SMMGen's branding is visible on your side of the interface. This works perfectly for freelancers and smaller operations where you handle all client orders yourself.",
+          "icon": {
+            "src": "/image/wholesale-vs-standard-icon.png",
+            "alt": "Standard Reseller Panel"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "White Label SMM Panel",
+          "body": "With the white label model, your clients get their own branded dashboard at your domain. They log in, browse your service catalog, add funds, and place orders themselves. You are not involved in the individual order process at all. Your panel runs 24/7 without your manual input. This is the correct model for anyone building a proper SMM panel brand with its own customer base.",
+          "icon": {
+            "src": "/image/wholesale-vs-standard-wholesale-icon.png",
+            "alt": "White Label SMM Panel"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/wholesale-vs-standard-icon.png",
+          "alt": "Standard Reseller Panel"
+        },
+        {
+          "src": "/image/wholesale-vs-standard-wholesale-icon.png",
+          "alt": "White Label SMM Panel"
+        }
+      ],
+      "table": {
+        "rows": [
+          [
+            "Feature",
+            "Standard Reseller",
+            "White Label Panel"
+          ],
+          [
+            "Your own domain",
+            "No",
+            "Yes"
+          ],
+          [
+            "Your own logo and branding",
+            "No",
+            "Yes"
+          ],
+          [
+            "Clients have their own login",
+            "No",
+            "Yes"
+          ],
+          [
+            "Clients self-serve orders",
+            "No",
+            "Yes"
+          ],
+          [
+            "Your pricing shown to clients",
+            "No",
+            "Yes"
+          ],
+          [
+            "Manual order placement needed",
+            "Yes",
+            "No"
+          ],
+          [
+            "API automation possible",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "SMMGen visible to clients",
+            "Partially",
+            "Never"
+          ],
+          [
+            "Best for",
+            "Freelancers, small ops",
+            "Panel brands, agencies"
+          ]
+        ],
+        "recommendedColumn": 2,
+        "recommendedRow": null
+      }
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "What Your White **Label Panel Includes**",
+      "intro": "When you launch a white label SMM panel powered by SMMGen, you get a complete, ready-to-operate business platform.",
+      "cards": [
+        {
+          "title": "Your Own Domain and Branding",
+          "body": "Your panel runs on your domain name. Your logo appears on every page. Your color scheme, your business name, your contact details. Clients experience your brand on every screen, from login to order confirmation.",
+          "icon": {
+            "src": "/image/white-label-image/your-own-domain-and-branding.png",
+            "alt": "Your Own Domain and Branding"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "API Access for Further Automation",
+          "body": "If you want to take your panel further, SMMGen's API connects to your white label system for deeper automation. Resellers who want to build additional tools on top of their panel can do so using the API. Full documentation is on the [SMM panel API page](/smm-panel-api).",
+          "icon": {
+            "src": "/image/white-label-image/api-access-for-further-automation.png",
+            "alt": "API Access for Further Automation"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Client Account Management",
+          "body": "Your clients register on your panel, create accounts, add funds, browse services, place orders, and track delivery. Everything happens inside your branded dashboard. You see all client accounts, order history, and balance activity from your admin view.",
+          "icon": {
+            "src": "/image/white-label-image/client-account-management.png",
+            "alt": "Client Account Management"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Your Own Pricing on Every Service",
+          "body": "You set the price for every service in your catalog. Import the SMMGen wholesale rates and apply whatever markup you choose. You can price different tiers differently. Offer one price for standard services and a premium price for high-quality services. Adjust prices at any time without contacting us.",
+          "icon": {
+            "src": "/image/white-label-image/your-own-pricing-on-every-service.png",
+            "alt": "Your Own Pricing on Every Service"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Automatic Order Routing",
+          "body": "When a client places an order on your panel, the system routes it to SMMGen automatically through the API connection. No manual steps are needed from your side. Delivery begins within the same timeframe as direct SMMGen orders. Your client's dashboard shows the status updating in real time.",
+          "icon": {
+            "src": "/image/white-label-image/automatic-order-routing.png",
+            "alt": "Automatic Order Routing"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Payment System for Your Clients",
+          "body": "Your panel includes a payment system through which your clients can add funds. You manage what payment methods you accept from your clients independently of how you fund your SMMGen account. Your client pays you. You maintain a funded balance on SMMGen to cover order costs.",
+          "icon": {
+            "src": "/image/white-label-image/payment-system-for-your-clients.png",
+            "alt": "Payment System for Your Clients"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Full Access to SMMGen's Service Catalog",
+          "body": "Your panel connects to SMMGen's complete catalog of 9,000+ services across 15+ platforms. Every service available on SMMGen is available on your panel. Instagram, YouTube, TikTok, Facebook, Telegram, Twitter/X, LinkedIn, Spotify, Discord, and more. Detailed descriptions for each platform are on the relevant service pages: [Instagram SMM panel](/instagram-smm-panel), [YouTube SMM panel](/youtube-smm-panel), [TikTok SMM panel](/tiktok-smm-panel), [Facebook SMM panel](/facebook-smm-panel), [Telegram SMM panel](/telegram-smm-panel), [Twitter/X SMM panel](/x-twitter-smm-panel).",
+          "icon": {
+            "src": "/image/white-label-image/full-access-to-smmgens-service-catalog.png",
+            "alt": "Full Access to SMMGen's Service Catalog"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/white-label-image/your-own-domain-and-branding.png",
+          "alt": "Your Own Domain and Branding"
+        },
+        {
+          "src": "/image/white-label-image/api-access-for-further-automation.png",
+          "alt": "API Access for Further Automation"
+        },
+        {
+          "src": "/image/white-label-image/client-account-management.png",
+          "alt": "Client Account Management"
+        },
+        {
+          "src": "/image/white-label-image/your-own-pricing-on-every-service.png",
+          "alt": "Your Own Pricing on Every Service"
+        },
+        {
+          "src": "/image/white-label-image/automatic-order-routing.png",
+          "alt": "Automatic Order Routing"
+        },
+        {
+          "src": "/image/white-label-image/payment-system-for-your-clients.png",
+          "alt": "Payment System for Your Clients"
+        },
+        {
+          "src": "/image/white-label-image/full-access-to-smmgens-service-catalog.png",
+          "alt": "Full Access to SMMGen's Service Catalog"
+        }
+      ]
+    },
+    {
+      "blockType": "audienceGrid",
+      "heading": "Who Should Launch a **White Label SMM Panel?**",
+      "cards": [
+        {
+          "title": "Digital Marketing Agencies",
+          "body": "Agencies offering social media management to clients can add SMM panel services as a product line without any additional staff. Your branded panel processes orders automatically. Clients pay you directly. You manage delivery through the SMMGen backend. The agency grows its revenue without growing its headcount proportionally.",
+          "icon": {
+            "src": "/image/white-label-image/digital-marketing-agencies.png",
+            "alt": "Digital Marketing Agencies"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Freelancers Ready to Build a Brand",
+          "body": "A freelancer currently placing orders manually through a reseller panel reaches a ceiling quickly. Time limits how many clients you can serve when you handle every order yourself. A white label panel removes that ceiling. Your clients self-serve. You market and acquire. The panel handles the rest.",
+          "icon": {
+            "src": "/image/white-label-image/freelancers-ready-to-build-a-brand.png",
+            "alt": "Freelancers Ready to Build a Brand"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Entrepreneurs Entering the SMM Industry",
+          "body": "The SMM panel market is large and growing. Hundreds of profitable panels operate globally by serving specific markets, languages, or niches. A white label panel powered by SMMGen gives you a complete, tested, reliable product to take to market. You skip the years of infrastructure development and start with a working business from day one.",
+          "icon": {
+            "src": "/image/white-label-image/entrepreneurs-entering-the-smm-industry.png",
+            "alt": "Entrepreneurs Entering the SMM Industry"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Existing SMM Resellers Ready to Scale",
+          "body": "If you are already reselling through the SMM reseller panel and have a growing client base, the white label model is the natural next step. You already know the services work. You already have clients trusting your recommendations. Give those clients a proper branded platform instead of directing them to your dashboard manually.",
+          "icon": {
+            "src": "/image/white-label-image/existing-smm-resellers-ready-to-scale.png",
+            "alt": "Existing SMM Resellers Ready to Scale"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Niche Market Specialists",
+          "body": "Some of the most profitable white label panels serve specific niches: music artists buying Spotify plays, YouTube creators targeting watch time, or local businesses in specific countries buying Facebook engagement. A white label panel lets you brand for your niche and build authority in a focused market. Combined with one of our country-specific pages, geo-targeted panels are a particularly strong business model.",
+          "icon": {
+            "src": "/image/white-label-image/niche-market-specialists.png",
+            "alt": "Niche Market Specialists"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/white-label-image/digital-marketing-agencies.png",
+          "alt": "Digital Marketing Agencies"
+        },
+        {
+          "src": "/image/white-label-image/freelancers-ready-to-build-a-brand.png",
+          "alt": "Freelancers Ready to Build a Brand"
+        },
+        {
+          "src": "/image/white-label-image/entrepreneurs-entering-the-smm-industry.png",
+          "alt": "Entrepreneurs Entering the SMM Industry"
+        },
+        {
+          "src": "/image/white-label-image/existing-smm-resellers-ready-to-scale.png",
+          "alt": "Existing SMM Resellers Ready to Scale"
+        },
+        {
+          "src": "/image/white-label-image/niche-market-specialists.png",
+          "alt": "Niche Market Specialists"
+        }
+      ]
+    },
+    {
+      "blockType": "stepsTimeline",
+      "heading": "How to Launch Your **White Label SMM Panel**",
+      "intro": "Step by step — from sign up to first client order.",
+      "body": "Contact our team at [smmgen.com/contact-us](/contact-us) for specific guidance on setting up your white label connection to SMMGen.",
+      "cards": [
+        {
+          "title": "Create a SMMGen Account",
+          "body": "Go to smmgen.com/signup and register. This gives you access to the full SMMGen dashboard, service catalog, and your API credentials. Your API key is the connection between your branded panel and our delivery system.",
+          "icon": {
+            "src": "/image/how-social/white-label-smm-panel/create-a-smmgen-account.png",
+            "alt": "Create a SMMGen Account"
+          },
+          "link": null,
+          "number": "01",
+          "badge": null
+        },
+        {
+          "title": "Register Your Domain Name",
+          "body": "Choose a domain name for your branded panel. Pick something relevant to your brand or target market. Register it through any standard domain registrar. Keep it short and professional.",
+          "icon": {
+            "src": "/image/how-social/white-label-smm-panel/register-your-domain-name.png",
+            "alt": "Register Your Domain Name"
+          },
+          "link": null,
+          "number": "02",
+          "badge": null
+        },
+        {
+          "title": "Set Up Your Panel Software",
+          "body": "Your white label panel runs on [SMM panel](/) software. Connect the software to SMMGen using your API key. Import the SMMGen service catalog into your panel. The software handles the front-end interface and routes orders to SMMGen on the backend.",
+          "icon": {
+            "src": "/image/how-social/white-label-smm-panel/set-up-your-panel-software.png",
+            "alt": "Set Up Your Panel Software"
+          },
+          "link": null,
+          "number": "03",
+          "badge": null
+        },
+        {
+          "title": "Customize Your Branding",
+          "body": "Add your logo, set your color scheme, write your service descriptions, and configure your payment gateway for client deposits. Your panel should look completely like your own business.",
+          "icon": {
+            "src": "/image/how-social/white-label-smm-panel/customize-your-branding.png",
+            "alt": "Customize Your Branding"
+          },
+          "link": null,
+          "number": "04",
+          "badge": null
+        },
+        {
+          "title": "Set Your Pricing",
+          "body": "Go through every service category and set your retail prices. As a [Cheap SMM Panel](/cheap-smm-panel), SMMGen offers wholesale rates starting from just $0.0003, giving you plenty of room to stay competitive while maximizing your profits.",
+          "icon": {
+            "src": "/image/how-social/white-label-smm-panel/set-your-pricing.png",
+            "alt": "Set Your Pricing"
+          },
+          "link": null,
+          "number": "05",
+          "badge": null
+        },
+        {
+          "title": "Launch and Acquire Clients",
+          "body": "Your panel is ready. Promote your panel through social media, paid advertising, SEO, or direct outreach to businesses and creators in your target market. Every client who signs up is a recurring revenue source.",
+          "icon": {
+            "src": "/image/how-social/white-label-smm-panel/launch-and-acquire-clients.png",
+            "alt": "Launch and Acquire Clients"
+          },
+          "link": null,
+          "number": "06",
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/how-social/white-label-smm-panel/create-a-smmgen-account.png",
+          "alt": "Create a SMMGen Account"
+        },
+        {
+          "src": "/image/how-social/white-label-smm-panel/register-your-domain-name.png",
+          "alt": "Register Your Domain Name"
+        },
+        {
+          "src": "/image/how-social/white-label-smm-panel/set-up-your-panel-software.png",
+          "alt": "Set Up Your Panel Software"
+        },
+        {
+          "src": "/image/how-social/white-label-smm-panel/customize-your-branding.png",
+          "alt": "Customize Your Branding"
+        },
+        {
+          "src": "/image/how-social/white-label-smm-panel/set-your-pricing.png",
+          "alt": "Set Your Pricing"
+        },
+        {
+          "src": "/image/how-social/white-label-smm-panel/launch-and-acquire-clients.png",
+          "alt": "Launch and Acquire Clients"
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "Why SMMGen for Wholesale **SMM Services?**",
+      "intro": "High-volume buyers have clear requirements that differ from casual users. Here is why SMMGen meets those requirements consistently.",
+      "cards": [
+        {
+          "title": "Operational history since 2018",
+          "body": "Seven years of continuous operation means SMMGen has survived platform changes, API updates, and market shifts that ended newer competitors. Wholesale buyers cannot afford panel downtime or service discontinuation mid-campaign.",
+          "icon": {
+            "src": "/image/wholesale-why/operational-history.png",
+            "alt": "Operational history since 2018"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "76 million completed orders",
+          "body": "The volume of orders SMMGen has processed proves the infrastructure handles scale without failure. High-volume buyers need infrastructure that works at their level, not just at a demo level.",
+          "icon": {
+            "src": "/image/wholesale-why/completed-orders.png",
+            "alt": "76 million completed orders"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "9,000+ active services",
+          "body": "Agencies and panel operators need a catalog wide enough to cover every client request. SMMGen's catalog eliminates the need for multiple provider relationships.",
+          "icon": {
+            "src": "/image/wholesale-why/active-services.png",
+            "alt": "9,000+ active services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Full API with documentation",
+          "body": "Wholesale buyers operate through the API. SMMGen's API is fully documented, stable, and covers every service in the catalog.",
+          "icon": {
+            "src": "/image/wholesale-why/full-api.png",
+            "alt": "Full API with documentation"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Refill guarantee on eligible services",
+          "body": "When you are managing hundreds of client accounts, service drops create support problems. SMMGen's refill guarantee on eligible services reduces the volume of client complaints your team has to handle.",
+          "icon": {
+            "src": "/image/wholesale-why/refill-guarantee.png",
+            "alt": "Refill guarantee on eligible services"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "24/7 support",
+          "body": "Issues at scale need fast resolution. Our team is available around the clock. Wholesale buyers get priority response for volume-related queries.",
+          "icon": {
+            "src": "/image/wholesale-why/support-24-7.png",
+            "alt": "24/7 support"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Secure infrastructure",
+          "body": "SSL encryption across all pages. No password required for any service. Verified payment gateways.",
+          "icon": {
+            "src": "/image/wholesale-why/secure-infrastructure.png",
+            "alt": "Secure infrastructure"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/wholesale-why/secure-infrastructure.png",
+          "alt": "Secure infrastructure"
+        }
+      ]
+    },
+    {
+      "blockType": "faqSection",
+      "id": "faq",
+      "heading": "Frequently Asked Questions About **White Label SMM Panels**",
+      "intro": "Find answers to common questions about SMMGen, our services, and how the panel works.",
+      "faq": [
+        {
+          "question": "What is a white label SMM panel?",
+          "answer": "A white label SMM panel is a fully operational social media marketing panel that runs under your own brand name, domain, and logo. Your clients use your branded interface to place orders for followers, likes, views, and other social media services. The actual service delivery is handled by SMMGen on the backend. Your clients never see SMMGen's name."
+        },
+        {
+          "question": "How is a white label panel different from a reseller panel?",
+          "answer": "A standard reseller logs into SMMGen's dashboard and places orders manually on behalf of clients. A white label panel owner has their own branded platform where clients log in and place orders themselves. White label is a full business product. Standard reselling is a manual fulfillment service."
+        },
+        {
+          "question": "Can I use my own brand name and domain?",
+          "answer": "Yes. Your white label panel runs on your domain, shows your logo, displays your business name, and carries your brand identity on every page. Your clients have no visibility into SMMGen unless you choose to tell them."
+        },
+        {
+          "question": "Do my clients know they are using SMMGen?",
+          "answer": "No. The white label model is designed specifically so your clients see only your brand. All order confirmations, dashboard screens, and service listings carry your branding. SMMGen operates invisibly as the backend provider."
+        },
+        {
+          "question": "What is a child panel?",
+          "answer": "A child panel is another term for a white label SMM panel. The name describes the technical relationship: your branded panel (child) connects to SMMGen (the parent panel) through the API. Every order on your panel routes to SMMGen for delivery. The two terms refer to the same business model."
+        },
+        {
+          "question": "How much does it cost to set up a white label SMM panel?",
+          "answer": "The cost depends on your domain registration, panel software, and any design work for your branding. Panel software varies but is generally affordable. Your SMMGen account has no setup fee. You fund your balance only when you start processing client orders. Contact us at smmgen.com/contact-us for a detailed setup conversation."
+        },
+        {
+          "question": "Do I need technical skills to run a white label panel?",
+          "answer": "Basic familiarity with domain setup and panel software configuration is helpful. Most panel software is designed for non-developers. The SMMGen API connection is handled through your API key with standard setup steps. You do not need to write code or manage servers. Our support team at smmgen.com/contact-us assists with connection setup."
+        },
+        {
+          "question": "Can I run a white label panel alongside the standard reseller model?",
+          "answer": "Yes. Some resellers use SMMGen's dashboard for their own manual orders while also operating a white label panel for a larger self-serve client base. Both models use the same SMMGen account and API credentials. Your balance funds orders from both systems."
+        }
+      ]
+    },
+    {
+      "blockType": "ctaBanner",
+      "heading": "Launch Your White Label SMM Business Today",
+      "intro": "SMMGen has powered resellers and white label operators worldwide since 2018. Our infrastructure processes over 108774260 completed orders. Our service catalog covers 9509 services across 15+ platforms. Our wholesale prices start from $0.0003.\n\nYour branded panel can be live and accepting clients within days of starting setup.",
+      "buttons": [
+        {
+          "label": "Sign Up Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "View All Services",
+          "href": "/services",
+          "variant": "outline"
+        },
+        {
+          "label": "Read the API Docs",
+          "href": "/smm-panel-api",
+          "variant": "outline"
+        },
+        {
+          "label": "Contact Support",
+          "href": "/contact-us",
+          "variant": "outline"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/ready-to-start.webp",
+          "alt": "Ready to start illustration"
+        }
+      ]
+    }
+  ]
+}

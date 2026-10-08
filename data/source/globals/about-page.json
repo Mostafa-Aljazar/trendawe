@@ -1,0 +1,443 @@
+{
+  "slug": "about-page",
+  "sourceUrl": "/about-us",
+  "seo": {
+    "title": "About SMMGen — Trusted SMM Panel Since 2018 | Our Story, Mission and Values",
+    "description": "Learn about SMMGen, a trusted SMM panel founded in 2018. Over 76 million orders completed. 79,000 active users worldwide. Fast delivery, lowest prices, 24/7 support."
+  },
+  "layout": [
+    {
+      "blockType": "hero",
+      "heading": "About SMMGen — A Trusted **SMM Panel Built on Real Results**",
+      "intro": "[SMMGen](/about-us) is a global SMM panel founded in 2018. We provide social media marketing services — followers, likes, views, comments, watch time, and engagement — across every major platform. Over 108774260 orders have been processed through our panel. More than 98121 users are active on the platform today.\n\nThis page tells you exactly who we are, how we operate, what we stand for, and why users across 100+ countries choose SMMGen as their primary SMM panel.",
+      "body": "Trusted by\n\n98121 Users",
+      "buttons": [
+        {
+          "label": "Explore Our Services",
+          "href": "/services",
+          "variant": "primary"
+        },
+        {
+          "label": "Sign Up Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/about-smmgen-a-trusted-smm-panel-built-on-real-results.webp",
+          "alt": "SMMGen social media marketing dashboard with growth analytics"
+        },
+        {
+          "src": "/image/facebook-icon-small.png",
+          "alt": "Facebook SMM Panel"
+        },
+        {
+          "src": "/image/instagram-iocn-small.png",
+          "alt": "Instagram SMM Panel"
+        },
+        {
+          "src": "/image/linkdein-icon-small.png",
+          "alt": "LinkedIn SMM Panel"
+        },
+        {
+          "src": "/image/sportify-iocn-small.png",
+          "alt": "Spotify SMM Panel"
+        },
+        {
+          "src": "/image/telegram-icon-small.png",
+          "alt": "Telegram SMM Panel"
+        },
+        {
+          "src": "/image/tiktok-icon-small.png",
+          "alt": "TikTok SMM Panel"
+        }
+      ],
+      "rating": null,
+      "trustedBy": "Trusted by 98121 Users",
+      "avatars": [],
+      "platformIcons": [
+        {
+          "src": "/image/facebook-icon-small.png",
+          "alt": "Facebook SMM Panel"
+        },
+        {
+          "src": "/image/instagram-iocn-small.png",
+          "alt": "Instagram SMM Panel"
+        },
+        {
+          "src": "/image/linkdein-icon-small.png",
+          "alt": "LinkedIn SMM Panel"
+        },
+        {
+          "src": "/image/sportify-iocn-small.png",
+          "alt": "Spotify SMM Panel"
+        },
+        {
+          "src": "/image/telegram-icon-small.png",
+          "alt": "Telegram SMM Panel"
+        },
+        {
+          "src": "/image/tiktok-icon-small.png",
+          "alt": "TikTok SMM Panel"
+        }
+      ]
+    },
+    {
+      "blockType": "richTextWithImage",
+      "heading": "Who **Is SMMGen?**",
+      "body": "SMMGen is a social media marketing panel — commonly called an SMM panel — that allows individuals, businesses, agencies, and resellers to purchase engagement services for major social platforms at wholesale prices.\n\nThe platform covers Instagram, YouTube, TikTok, Facebook, Telegram, Twitter/X, LinkedIn, Spotify, Discord, Pinterest, Snapchat, Threads, Reddit, Twitch, SoundCloud, and more. Every service is available through a single, automated dashboard. Users create an account, add funds, choose a service, paste a public link, and place an order. Delivery starts automatically.\n\nSMMGen operates as an independent [SMM panel](/) provider. We are not a reseller of another panel's services. Our infrastructure, pricing, and support systems are built and maintained directly by our team.\n\nThe company behind SMMGen has been operating since 2018. That is more than seven years of continuous service in one of the most competitive and fast-changing industries in digital marketing.",
+      "buttons": [
+        {
+          "label": "Contact Us",
+          "href": "/contact-us",
+          "variant": "primary"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/who-is-smmgen.png",
+          "alt": "Who Is SMMGen?"
+        }
+      ]
+    },
+    {
+      "blockType": "richTextWithImage",
+      "heading": "The SMMGen **Story — Founded in 2018 with One Clear Goal**",
+      "body": "SMMGen was launched in 2018 with a single purpose: to build an SMM panel that delivered what it promised.\n\nThe SMM panel industry in 2018 had a serious problem. Most panels either disappeared within months, delivered results that dropped within days, or charged high prices for inconsistent quality. Users had no reliable way to tell which panels were legitimate and which would waste their money.\n\nThe founders of SMMGen saw that gap and decided to fill it by building differently. Instead of focusing on short-term revenue, the approach from day one was operational stability, consistent delivery, and pricing that worked for everyone from a solo creator to a high-volume reseller.\n\nSeven years later, that foundation holds. SMMGen has never gone offline for more than routine maintenance. The panel has grown from a small catalog of services into one of the most comprehensive SMM dashboards available, with over 9509 active services across more than 15 platforms.\n\nThe 108774260 order milestone reached in 2026 is not a marketing figure. It is a counted number displayed live on our platform. Every order in that count was placed, processed, and delivered through our system.",
+      "images": [
+        {
+          "src": "/image/the-smm-gen-story-founded-in-2018-with-one-clear-goal.webp",
+          "alt": "SMMGen team working on social media marketing platform development"
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "What SMMGen Does **— Services, Platforms and Capabilities**",
+      "intro": "SMMGen provides one type of service done across a wide range of platforms. Understanding what we do and how we do it removes any ambiguity about what you are paying for.",
+      "cards": [
+        {
+          "title": "The Core Service: Social Media Engagement Delivery",
+          "body": "Every service on SMMGen falls into one of these categories: followers, likes, views, comments, shares, saves, watch time, impressions, reactions, or members. These are delivered to a public social media profile or post link that you provide when placing an order. No personal login information is ever required. No account access is ever requested. The only thing we need is a publicly accessible URL.",
+          "icon": {
+            "src": "/image/social-media-engagement-delivery.png",
+            "alt": "Social Media Engagement Delivery"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "How Orders Are Processed",
+          "body": "When a user places an order on SMMGen, the system routes it through our backend delivery infrastructure. Depending on the service type, delivery begins within minutes. The user's dashboard shows a live status update throughout the process.\n\nMost Instagram orders start within 7 minutes of placement. YouTube views typically begin within 10 to 15 minutes. Telegram and larger batch orders may take a few hours depending on package size. Every service listing on the platform shows an estimated start time before you order.",
+          "icon": {
+            "src": "/image/how-orders-are-processed.png",
+            "alt": "How Orders Are Processed"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "API Access for Resellers and Developers",
+          "body": "SMMGen provides a full API that allows resellers, agencies, and developers to automate order placement and management. The API uses standard JSON formatting and supports every service on the panel. Developers use the API to build their own ordering interfaces. Resellers use it to place bulk orders and check delivery status without logging in manually. Full documentation is available on the [SMM panel API page](/smm-panel-api).",
+          "icon": {
+            "src": "/image/social-media-engagement-delivery.png",
+            "alt": "API Access for Resellers and Developers"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Platform Coverage on SMMGen",
+          "body": "SMMGen covers the platforms that matter most to marketers, creators, and resellers worldwide.\n\nFollowers, likes, Reels views, Story views, comments, saves, and impressions.\n\nViews, subscribers, likes, watch time, comments, and Shorts views. The watch time service is particularly useful for creators working toward the YouTube Partner Program monetization threshold.\n\nFollowers, views, likes, comments, shares, and saves.\n\nPage likes, followers, post likes, video views, and shares.\n\nChannel members, post views, and reactions.\n\nFollowers, likes, retweets, and impressions.\n\nBeyond these six core platforms, SMMGen also covers LinkedIn, Spotify, Discord, Pinterest, Snapchat, Threads, Reddit, Twitch, and SoundCloud. All services are accessible from one dashboard after creating a free account.",
+          "icon": {
+            "src": "/image/instagram.png",
+            "alt": "Instagram SMM Panel"
+          },
+          "link": {
+            "label": "View Services",
+            "href": "/x-twitter-smm-panel"
+          },
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "SMMGen's **Core Values — What We Stand For**",
+      "intro": "SMMGen operates according to four principles. These are not marketing statements. They are operational standards that every team member follows and every system is built around.",
+      "cards": [
+        {
+          "title": "Reliability Above Everything",
+          "body": "A panel that delivers most of the time is not reliable. SMMGen commits to consistent delivery across all services, all platforms, and all order sizes. When an order is placed, it processes. When a service says delivery starts in 7 minutes, it starts in 7 minutes. Reliability is what turns a first-time user into a long-term customer. It is also why resellers choose to build their businesses on SMMGen rather than switching panels every few months.",
+          "icon": {
+            "src": "/image/reliability-above-everything.png",
+            "alt": "Reliability Above Everything"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Pricing That Stays Fair",
+          "body": "SMMGen's pricing starts from $0.0003 per unit. That is not a promotional rate for a limited period. That is the actual starting price for services on the panel, maintained consistently since we introduced it. We keep prices low by operating efficiently and maintaining direct provider relationships where possible. High-volume users can access even lower rates through our wholesale SMM panel pricing structure. Resellers building a business on top of our services can compare our cheap SMM panel rates against any competitor in the industry.",
+          "icon": {
+            "src": "/image/pricing-that-stays-fair.png",
+            "alt": "Pricing That Stays Fair"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Transparency in Every Interaction",
+          "body": "SMMGen publishes its refund policy, privacy policy, and terms and conditions openly. Every user can read exactly what they are agreeing to before spending a single dollar. We display live order counts, active user numbers, and real pricing on every service before purchase. There are no hidden fees, no surprise charges, and no bait-and-switch pricing between the catalog and checkout.",
+          "icon": {
+            "src": "/image/transparency-in-every-interaction.png",
+            "alt": "Transparency in Every Interaction"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Security That Protects Every User",
+          "body": "SMMGen never asks for a social media password. Every service on the platform uses only a public link. Your account credentials, your personal data, and your payment information are never at risk when you use SMMGen. Every page on smmgen.com runs full SSL encryption. Payment transactions are processed through verified, encrypted gateways. Our security practices have protected users across 100+ countries since 2018 without a single reported data breach.",
+          "icon": {
+            "src": "/image/security-that-protects-every-user.png",
+            "alt": "Security That Protects Every User"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "audienceGrid",
+      "heading": "Who Trusts SMMGen? **Our User Base Explained**",
+      "intro": "SMMGen serves four distinct groups of users. Each group has different goals and uses the platform differently.",
+      "cards": [
+        {
+          "title": "Solo Creators and Influencers",
+          "body": "Individual content creators, influencers, musicians, artists, and personal brand builders use SMMGen to accelerate growth on their social channels. They typically place smaller, targeted orders on specific posts or profiles to build initial credibility or boost a piece of content early in its lifecycle. A video with strong early engagement has a higher chance of being pushed by the platform algorithm. A profile with an established follower count converts new visitors at a higher rate. SMMGen gives solo creators access to the same tools that larger brands use, at prices that fit a creator budget.",
+          "icon": {
+            "src": "/image/content-creators-and-influencers.png",
+            "alt": ""
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Small and Medium Businesses",
+          "body": "Business owners use SMMGen to build and maintain a credible social media presence without committing to expensive agency contracts. A restaurant with 3,000 Instagram followers and active post engagement looks more trustworthy to a new customer than one with 50. SMMGen gives businesses a fast, affordable path to that social proof. Once the presence is established, organic content and advertising take over. The panel provides the foundation.",
+          "icon": {
+            "src": "/image/small-businesses-and-brands.png",
+            "alt": ""
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Marketing Agencies",
+          "body": "Agencies that manage social media for multiple clients use SMMGen to deliver results efficiently. The dashboard handles multiple accounts. The API allows full automation. Order tracking gives account managers real-time visibility into delivery progress. Agencies that operate at scale can access our [SMM reseller panel](/smm-reseller-panel) structure, which includes volume pricing, API integration, and tools designed for managing high-order throughput across multiple client accounts.",
+          "icon": {
+            "src": "/image/marketing-agencies.png",
+            "alt": ""
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Resellers and Entrepreneurs",
+          "body": "The reseller model is the most profitable way to use SMMGen. You purchase services at our wholesale rates and sell them to your own clients at a markup. You set your own prices. You manage your own customer relationships. SMMGen handles delivery entirely on the backend. Resellers who want a fully branded experience can explore our [white label SMM panel](/white-label-smm-panel) option, which allows you to operate a complete SMM panel under your own brand name. Those buying at very high volume can access additional discounts through the [wholesale SMM panel page](/wholesale-smm-panel).",
+          "icon": {
+            "src": "/image/resellers-and-entrprenuers.png",
+            "alt": ""
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "How SMMGen **Compares to Other SMM Panels**",
+      "intro": "The SMM panel market is crowded. Users researching their options will find hundreds of panels making similar promises. Here is what sets SMMGen apart in concrete, verifiable terms.",
+      "cards": [
+        {
+          "title": "Longevity and Operational History",
+          "body": "Most SMM panels that exist today were created after 2020. SMMGen was operating in 2018. That is a meaningful difference. A panel that has been running for seven years has solved problems that new panels have not yet encountered. Payment gateway changes, platform API updates, delivery infrastructure issues — we have navigated all of these and kept the platform running.",
+          "icon": {
+            "src": "/image/longivity-and-operational-history.png",
+            "alt": "Longevity and Operational History"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Volume of Completed Orders",
+          "body": "108774260 completed orders is a number that most SMM panels cannot match. This volume reflects real, sustained usage across real users placing real orders over real time. It is not a projected number or a rounded estimate.",
+          "icon": {
+            "src": "/image/longivity-and-operational-history.png",
+            "alt": "Volume of Completed Orders"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Price Against Quality",
+          "body": "Many platforms market themselves as a [Cheap SMM Panel](/cheap-smm-panel), but extremely low prices often come with poor-quality services, instant drops, bot accounts that get removed within days, or orders that never finish. SMMGen is built differently. As a Cheap SMM Panel, we keep our prices competitive without sacrificing quality, ensuring reliable delivery and long-lasting results. Our refill guarantee on eligible services reflects our confidence in the quality we provide, giving you better value instead of just the lowest price.",
+          "icon": {
+            "src": "/image/longivity-and-operational-history.png",
+            "alt": "Price Against Quality"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Transparent Policies",
+          "body": "Many panels bury their refund terms or do not publish them at all. SMMGen's [refund policy](/refund-policy), [terms and conditions](/terms-and-conditions), and [privacy policy](/privacy-policy) are published and accessible from every page on the site. For users wanting to compare SMMGen directly against specific competitors, visit the [best SMM panel comparison page](/best-smm-panel)",
+          "icon": {
+            "src": "/image/longivity-and-operational-history.png",
+            "alt": "Transparent Policies"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/how-smmgen-compares-to-other-smm-panels.webp",
+          "alt": "How SMMGen compares to other SMM panels illustration"
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "SMMGen's **Commitment to Security and Privacy**",
+      "intro": "Security is not a feature we added later. It is built into the foundation of how SMMGen operates.",
+      "cards": [
+        {
+          "title": "No Password Policy — Strictly Enforced",
+          "body": "SMMGen has a firm company-wide policy: we never ask for a social media password. Not for any service, not for any platform, not under any circumstance. If any communication claiming to be from SMMGen asks for your login credentials, it is fraudulent. Every service on the platform operates using only the public URL of your profile or post. We work entirely through publicly accessible links. Your account is never exposed.",
+          "icon": {
+            "src": "/image/no-password-policy-strictly-enforced.png",
+            "alt": "No Password Policy — Strictly Enforced"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "SSL Encryption on Every Page",
+          "body": "The padlock is not decorative. Every page on smmgen.com, including every payment page and dashboard screen, runs full SSL encryption. Data transmitted between your browser and our server is encrypted end to end.",
+          "icon": {
+            "src": "/image/ssl-encryption-on-every-page.png",
+            "alt": "SSL Encryption on Every Page"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Secure Payment Processing",
+          "body": "We do not store payment card details on our servers. All payment transactions are processed through verified, PCI-compliant payment gateways. SMMGen accepts PayPal, Visa, Mastercard, Bitcoin, Ethereum, USDT, and other major cryptocurrencies, along with local payment options for users worldwide.",
+          "icon": {
+            "src": "/image/secure-payment-processing.png",
+            "alt": "Secure Payment Processing"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "GDPR-Aligned Data Practices",
+          "body": "SMMGen collects only the data needed to process your orders and provide support. We do not sell user data to third parties. Full details of how we collect, store, and use personal data are in our privacy policy.",
+          "icon": {
+            "src": "/image/gdrp-align-data-practices.png",
+            "alt": "GDPR-Aligned Data Practices"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "faqSection",
+      "id": "faq",
+      "heading": "Frequently Asked **Questions About SMMGen**",
+      "faq": [
+        {
+          "question": "When was SMMGen founded?",
+          "answer": "SMMGen was founded in 2018. The platform has operated continuously for over seven years, making it one of the longer-standing SMM panels in the industry. Most panels in this space launch and close within 12 months. SMMGen has remained operational through every major platform algorithm change and market shift since 2018."
+        },
+        {
+          "question": "Is SMMGen a legitimate company?",
+          "answer": "Yes. SMMGen has completed over 76 million orders since 2018. The platform serves over 79,000 active users worldwide and operates with published refund, privacy, and terms policies. We use SSL encryption on all pages and accept payments through verified gateways. No password is ever required for any service."
+        },
+        {
+          "question": "How many orders has SMMGen completed?",
+          "answer": "SMMGen has completed over 76 million orders as of April 2026. This is a live figure displayed on the homepage counter. At an average of approximately 29,000 orders per day across seven years of operation, this number reflects sustained, real usage by real users worldwide."
+        },
+        {
+          "question": "What platforms does SMMGen support?",
+          "answer": "SMMGen supports Instagram, YouTube, TikTok, Facebook, Telegram, Twitter/X, LinkedIn, Spotify, Discord, Pinterest, Snapchat, Threads, Reddit, Twitch, SoundCloud, and more. All platforms are accessible from one dashboard. Visit smmgen.com/services for the full catalog."
+        },
+        {
+          "question": "Does SMMGen offer refunds?",
+          "answer": "Yes. SMMGen has a published refund policy that covers all standard order scenarios. If a service is not delivered as described, you are eligible for a refund or account credit. The full policy is available at smmgen.com/refund-policy. Raise a support ticket from your dashboard to initiate any refund request."
+        },
+        {
+          "question": "How do I contact SMMGen support?",
+          "answer": "Visit smmgen.com/contact-us to submit a support ticket or access live chat. Support is available 24/7. You can also email support@smmgen.com for non-urgent queries. Response times for tickets are typically under a few hours during standard operating periods."
+        },
+        {
+          "question": "Can I build a reseller business using SMMGen?",
+          "answer": "Yes. SMMGen is built to support resellers at every level. You access wholesale pricing, API automation, and full order management tools from day one. The SMM reseller panel page covers everything needed to start. For a branded panel under your own name, see the white label SMM panel page."
+        }
+      ]
+    },
+    {
+      "blockType": "ctaBanner",
+      "heading": "Start with SMMGen Today",
+      "intro": "Trusted by over 98,121 active users worldwide since 2018, SMMGen has earned its reputation as one of the Best SMM Panel platforms for creators, businesses, agencies, and resellers. Whether you're building a loyal audience, strengthening your brand's online presence, managing multiple client accounts, or launching your own reseller business, SMMGen provides the tools and reliability you need to grow.\n\nCreating an account takes just two minutes. Adding funds and placing your first order takes only a few more. With fast processing and reliable delivery, you can start seeing results within minutes.",
+      "buttons": [
+        {
+          "label": "Create Free Account",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "Browse All Services",
+          "href": "/services",
+          "variant": "outline"
+        },
+        {
+          "label": "Contact Support",
+          "href": "/contact-us",
+          "variant": "outline"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/ready-to-start.webp",
+          "alt": "Ready to start illustration"
+        }
+      ]
+    }
+  ]
+}

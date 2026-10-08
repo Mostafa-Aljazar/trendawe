@@ -1,0 +1,359 @@
+{
+  "slug": "smm-panel-api",
+  "sourceUrl": "/smm-panel-api",
+  "seo": {
+    "title": "SMM Panel API — Automate Orders and Scale Your Reseller Business | SMMGen",
+    "description": "SMMGen's SMM panel API lets you automate order placement, check status, and manage your balance programmatically. JSON format. Full documentation. Connect in minutes."
+  },
+  "layout": [
+    {
+      "blockType": "hero",
+      "heading": "SMM Panel API — **Automate Every Order,** Scale Without Limits",
+      "intro": "SMMGen's SMM panel API connects your website, reseller panel, or custom system directly to our service catalog. Place orders, check delivery status, query your balance, and retrieve the full service list programmatically. No manual login required per order.",
+      "body": "Trusted by\n\n79,000+ Users",
+      "buttons": [
+        {
+          "label": "Sign Up to Get Your API Key",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "Contact Support",
+          "href": "/contact-us",
+          "variant": "outline"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/wholesale-smm-bulk-social-media-at-volume-prices.png",
+          "alt": "SMM panel API — automate orders and scale your reseller business"
+        }
+      ],
+      "rating": null,
+      "trustedBy": "Trusted by 79,000+ Users",
+      "avatars": [],
+      "platformIcons": []
+    },
+    {
+      "blockType": "richTextWithImage",
+      "heading": "What Is an **SMM Panel API?**",
+      "body": "An [SMM panel](/) API (Application Programming Interface) is a technical bridge between your system and SMMGen's backend. Instead of logging into the dashboard to place each order manually, your system sends an automated request to SMMGen's server. The server processes the order and returns a response with the order ID and status.\n\nEverything that happens inside the SMMGen dashboard can happen through the API. Placing orders, checking status, cancelling eligible orders, retrieving your account balance, and pulling the full service catalog with live pricing — all available programmatically.\n\nThis is the tool that makes an [SMM reseller](/smm-reseller-panel) business scalable. Manual ordering has a ceiling. The API removes it.",
+      "images": [
+        {
+          "src": "/image/backgrounds/what-is-an-smm-panel-api.png",
+          "alt": "What is an SMM panel API — developer using SMMGen API for automated order placement"
+        }
+      ]
+    },
+    {
+      "blockType": "audienceGrid",
+      "heading": "Who Uses the **SMMGen API?**",
+      "cards": [
+        {
+          "title": "Resellers With Their Own Panel Website",
+          "body": "If you operate a reseller website where clients place orders directly, the SMMGen API handles fulfillment automatically. When a client orders on your site, your system forwards the request to SMMGen via API. Delivery starts. Status updates return to your dashboard in real time. You never touch the order manually.\n\nThis is the technical foundation of the [white label SMM](/white-label-smm-panel) panel model.",
+          "icon": {
+            "src": "/image/wholesale-ordering-api-icon.png",
+            "alt": "Resellers With Their Own Panel Website"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Agencies Managing Multiple Client Accounts",
+          "body": "Agencies using automation tools, internal dashboards, or project management systems can connect those tools to SMMGen via API. Orders for multiple client accounts process simultaneously without manual input per order. Real-time status tracking keeps your team informed without logging in.",
+          "icon": {
+            "src": "/image/wholesale-ordering-batch-icon.png",
+            "alt": "Agencies Managing Multiple Client Accounts"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Developers Building Custom Tools",
+          "body": "Developers building custom SMM ordering interfaces, Telegram bots, Discord bots, or browser extensions use the SMMGen API to power service delivery. Any application that needs to place social media orders programmatically can connect through the API.",
+          "icon": {
+            "src": "/image/wholesale-why/full-api.png",
+            "alt": "Developers Building Custom Tools"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Wholesale Buyers Ordering at Volume",
+          "body": "Users accessing [wholesale SMM panel](/wholesale-smm-panel) pricing process hundreds or thousands of orders per month. At that volume, manual ordering through the dashboard is not practical. The API is the only viable approach at scale.",
+          "icon": {
+            "src": "/image/wholesale-why/active-services.png",
+            "alt": "Wholesale Buyers Ordering at Volume"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "cards": [
+        {
+          "title": "Getting Your SMMGen API Key",
+          "body": "Your API key is available inside your SMMGen dashboard.\n\nCreate a free account at [smmgen.com/signup](https://my.smmgen.com/signup) if you do not have one\n\nLog in to your dashboard\n\nNavigate to the API section in your account settings\n\nCopy your unique API key\n\nKeep your API key private. Do not include it in public code repositories or client-facing interfaces. Anyone with your API key can place orders against your account balance.",
+          "icon": {
+            "src": "/image/api-panel/integration/api-key-icon.png",
+            "alt": "API key integration icon"
+          },
+          "link": null,
+          "number": "01",
+          "badge": null
+        },
+        {
+          "title": "Connecting the SMMGen API to Your Panel",
+          "body": "Most white label panel software supports SMMGen's API format out of the box. PerfectPanel, BoostPanel, and most common SMM scripts use the same standard endpoint and parameter structure that SMMGen supports.\n\nLog in to your panel admin dashboard\n\nNavigate to the provider or API settings section\n\nEnter the SMMGen API endpoint URL\n\nPaste your SMMGen API key\n\nRun a service sync to import the full catalog\n\nSet your markup on each service category\n\nSave and test with a small order\n\nMost setups complete in under 30 minutes. If you encounter any issues during integration, contact our team at [smmgen.com/contact-us](/contact-us). Our support team assists with API connection queries around the clock.",
+          "icon": {
+            "src": "/image/api-panel/integration/api-key-icon.png",
+            "alt": "API key integration icon"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/api-panel/integration/api-key-icon.png",
+          "alt": "API key integration icon"
+        },
+        {
+          "src": "/image/api-panel/integration/api-key-icon.png",
+          "alt": "API key integration icon"
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "How the **SMMGen API Works** — The Technical Overview",
+      "cards": [
+        {
+          "title": "Request Format",
+          "body": "SMMGen's API uses standard HTTP POST requests with JSON responses. Every request requires your unique API key for authentication. The API key identifies your account and ensures requests are authorized.\n\nA basic order placement request contains four required parameters:\n\nAPI Working Process\n\nSMMGen API",
+          "icon": {
+            "src": "/image/api-panel/how-works/api-working-process-icon.png",
+            "alt": "API working process icon"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Available API Actions",
+          "body": "Places a new order. Returns an order ID.\n\nReturns the current status of an existing order including charge, start count, remains, and status label (pending, in progress, completed, partial, cancelled).\n\nCancels an eligible order. Returns a list of cancelled order IDs.\n\nReturns the full SMMGen service catalog including service IDs, names, categories, types, rates, minimum and maximum quantities.\n\nReturns your current account balance and currency.",
+          "icon": null,
+          "link": null,
+          "number": "01",
+          "badge": null
+        },
+        {
+          "title": "add",
+          "body": "Places a new order. Returns an order ID.",
+          "icon": null,
+          "link": null,
+          "number": "01",
+          "badge": null
+        },
+        {
+          "title": "status",
+          "body": "Returns the current status of an existing order including charge, start count, remains, and status label (pending, in progress, completed, partial, cancelled).",
+          "icon": null,
+          "link": null,
+          "number": "02",
+          "badge": null
+        },
+        {
+          "title": "cancel",
+          "body": "Cancels an eligible order. Returns a list of cancelled order IDs.",
+          "icon": null,
+          "link": null,
+          "number": "03",
+          "badge": null
+        },
+        {
+          "title": "services",
+          "body": "Returns the full SMMGen service catalog including service IDs, names, categories, types, rates, minimum and maximum quantities.",
+          "icon": null,
+          "link": null,
+          "number": "04",
+          "badge": null
+        },
+        {
+          "title": "balance",
+          "body": "Returns your current account balance and currency.",
+          "icon": null,
+          "link": null,
+          "number": "05",
+          "badge": null
+        },
+        {
+          "title": "Order Status Labels",
+          "body": "When you call the status action, the response includes one of the following status labels:\n\nPending\n\nOrder received, queued for processing\n\nIn progress\n\nDelivery is actively running\n\nCompleted\n\nOrder delivered in full\n\nPartial\n\nOrder partially delivered, remainder refunded\n\nCancelled\n\nOrder cancelled before delivery began",
+          "icon": null,
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/api-panel/how-works/api-working-process-icon.png",
+          "alt": "API working process icon"
+        },
+        {
+          "src": "/image/api-panel/how-works/woman-tablet.webp",
+          "alt": "SMMGen API technical overview with developer holding tablet"
+        },
+        {
+          "src": "/image/api-panel/how-works/smmgen-api-icon.png",
+          "alt": "SMMGen API icon"
+        }
+      ],
+      "definitions": [
+        {
+          "name": "Key",
+          "description": "Your unique API key from your SMMGen dashboard"
+        },
+        {
+          "name": "Action",
+          "description": "The action to perform (add, status, cancel, services, balance)"
+        },
+        {
+          "name": "Service",
+          "description": "The service ID from the SMMGen service catalog"
+        },
+        {
+          "name": "Quantity",
+          "description": "The number of units to order"
+        },
+        {
+          "name": "Link",
+          "description": "The public URL of the profile or post"
+        }
+      ]
+    },
+    {
+      "blockType": "featureGrid",
+      "heading": "API Best Practices for **Resellers**",
+      "intro": "Field-tested rules for keeping your integration reliable and secure at scale.",
+      "cards": [
+        {
+          "title": "Test with small orders first",
+          "body": "Before routing live client orders through the API, place a few small test orders and verify the status responses are coming back correctly.",
+          "icon": null,
+          "link": null,
+          "number": "01",
+          "badge": null
+        },
+        {
+          "title": "Sync the service catalog regularly",
+          "body": "Use the services action daily to keep your panel's catalog accurate. SMMGen updates pricing and adds new services regularly.",
+          "icon": null,
+          "link": null,
+          "number": "02",
+          "badge": null
+        },
+        {
+          "title": "Store order IDs",
+          "body": "Every order placed via the API returns a unique order ID. Store this in your database so you can check status and handle refunds or cancellations efficiently.",
+          "icon": null,
+          "link": null,
+          "number": "03",
+          "badge": null
+        },
+        {
+          "title": "Handle partial completions",
+          "body": "Some orders deliver partially due to the target account being private or the post being deleted. Your system should handle partial status responses and process refunds accordingly.",
+          "icon": null,
+          "link": null,
+          "number": "04",
+          "badge": null
+        },
+        {
+          "title": "Use HTTPS on your side",
+          "body": "All API calls to SMMGen use HTTPS. Ensure your own server also uses HTTPS to protect the API key and order data in transit.",
+          "icon": null,
+          "link": null,
+          "number": "05",
+          "badge": null
+        },
+        {
+          "title": "Do not expose your API key publicly",
+          "body": "Store your key in environment variables or a secure configuration file. Never commit it to a public code repository.",
+          "icon": null,
+          "link": null,
+          "number": "06",
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "faqSection",
+      "id": "faq",
+      "heading": "Frequently Asked Questions About **the SMMGen API**",
+      "faq": [
+        {
+          "question": "What is an SMM panel API?",
+          "answer": "An SMM panel API is a programmatic interface that connects your system directly to an SMM provider's service catalog. Instead of placing orders through a dashboard manually, your code sends HTTP requests to the API endpoint. The API processes orders, returns status updates, and provides balance and catalog data in real time. SMMGen's API uses standard HTTP POST requests and returns JSON responses."
+        },
+        {
+          "question": "How do I get a SMMGen API key?",
+          "answer": "Create a free account at smmgen.com/signup. After logging in, navigate to the API section in your account settings. Your unique API key is displayed there. Copy and store it securely. The API key is free and included with every SMMGen account at no additional cost."
+        },
+        {
+          "question": "Can I automate all orders through the API?",
+          "answer": "Yes. Every service available in the SMMGen catalog can be ordered through the API. You can also check order status, cancel eligible orders, query your account balance, and retrieve the full service list programmatically. There is no function available in the dashboard that is not also available through the API."
+        },
+        {
+          "question": "What format does the SMMGen API use?",
+          "answer": "The SMMGen API accepts HTTP POST requests and returns JSON responses. This is the standard format used across the SMM panel industry, making SMMGen compatible with PerfectPanel, BoostPanel, and most common SMM panel scripts without custom modification."
+        },
+        {
+          "question": "Is the API free to use?",
+          "answer": "Yes. API access is included with every SMMGen account at no additional charge. You only pay for the services you order. There are no API call fees, no monthly access fees, and no setup costs."
+        },
+        {
+          "question": "Can I connect multiple systems to the same API key?",
+          "answer": "Yes. Your API key works across multiple systems simultaneously. Agencies connecting both a white label panel and a custom internal tool can use the same key. Monitor your balance and order logs from the dashboard to track usage across all connected systems."
+        }
+      ]
+    },
+    {
+      "blockType": "ctaBanner",
+      "heading": "Start Automating With the SMMGen API Today",
+      "intro": "Create a free account, get your API key, and connect to 9,000+ services across every major platform. Orders process automatically. Balance updates in real time. No per-request fees.",
+      "buttons": [
+        {
+          "label": "Get Your API Key Free",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "Contact Support",
+          "href": "/contact-us",
+          "variant": "outline"
+        },
+        {
+          "label": "View Cheap SMM Panel",
+          "href": "/cheap-smm-panel",
+          "variant": "outline"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/ready-to-start.webp",
+          "alt": "Ready to start illustration"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "contact-page",
+  "sourceUrl": "/contact-us",
+  "seo": {
+    "title": "Contact Us - SMMGen",
+    "description": "Connect with SMMGen for unparalleled support 24/7. Reach out to us effortlessly - your gateway to exceptional service and assistance."
+  },
+  "layout": [
+    {
+      "blockType": "hero",
+      "heading": "Reach Out to **SMMGen for Your Social Media Solutions**",
+      "intro": "At SMMGen, we're always eager to connect with you and discuss how our [SMM Panel](/) services can help elevate your social media presence. Whether you have questions about our services, need assistance choosing the right strategy, or want to discuss a customized marketing plan, we're here to help. Learn more about our journey, mission, and commitment to delivering [Cheap SMM panel](/cheap-smm-panel) solutions on our [About Us](/about-us) page.",
+      "buttons": [
+        {
+          "label": "Get Started",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        }
+      ],
+      "images": [
+        {
+          "src": "/image/reach-out-to-smmgen-for-your-social-media-solutions.webp",
+          "alt": "Reach Out to SMMGen for Your Social Media Solutions"
+        }
+      ],
+      "rating": null,
+      "trustedBy": null,
+      "avatars": [],
+      "platformIcons": []
+    },
+    {
+      "blockType": "contactInfo",
+      "heading": "Get in **Touch With Us**",
+      "intro": "Have questions or need assistance? Our support team is always ready to help you with fast and reliable service.",
+      "cards": [
+        {
+          "title": "Email Address",
+          "body": "Our team is committed to providing timely and helpful responses.",
+          "icon": {
+            "src": "/image/email-address.png",
+            "alt": "Email Address"
+          },
+          "link": {
+            "label": "support@smmgen.com",
+            "href": "mailto:support@smmgen.com"
+          },
+          "number": null,
+          "badge": null
+        },
+        {
+          "title": "Verified Business",
+          "body": "Trusted and officially verified business support.",
+          "icon": {
+            "src": "/image/verified-business.png",
+            "alt": "Verified Business"
+          },
+          "link": null,
+          "number": null,
+          "badge": null
+        }
+      ]
+    },
+    {
+      "blockType": "socialLinks",
+      "heading": "Follow Us on Social Media",
+      "intro": "Get in touch with SMMGen today and take the first step towards transforming your brand's social media narrative. We're more than just a service provider; we're your partner in digital growth!",
+      "buttons": [
+        {
+          "label": "Create Free Account",
+          "href": "https://my.smmgen.com/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "See All Services",
+          "href": "/cheap-smm-panel",
+          "variant": "outline"
+        }
+      ]
+    }
+  ]
+}

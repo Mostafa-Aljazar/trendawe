@@ -1,0 +1,348 @@
+[
+  {
+    "label": "Instagram",
+    "icon": "/_next/image?url=%2Fimage%2Fprice-overview-instagram-icon.png&w=64&q=75",
+    "items": [
+      {
+        "title": "Instagram Followers",
+        "price": "From $0.80",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Instagram Likes",
+        "price": "From $0.05",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Instagram Reels Views",
+        "price": "From $0.04",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Instagram Story Views",
+        "price": "From $0.06",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Instagram Comments",
+        "price": "From $0.50",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Instagram Saves",
+        "price": "From $0.10",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Instagram Impressions",
+        "price": "From $0.05",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      }
+    ]
+  },
+  {
+    "label": "YouTube",
+    "icon": "/_next/image?url=%2Fimage%2Fprice-overview-youtube-icon.png&w=64&q=75",
+    "items": [
+      {
+        "title": "YouTube Views",
+        "price": "From $0.20",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "YouTube Subscribers",
+        "price": "From $1.50",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "YouTube Likes",
+        "price": "From $0.10",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "YouTube Watch Time",
+        "price": "From $2.50",
+        "unit": "Per 1,000 hours",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "YouTube Shorts Views",
+        "price": "From $0.10",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "YouTube Comments",
+        "price": "From $0.60",
+        "unit": "Per 10",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      }
+    ]
+  },
+  {
+    "label": "TikTok",
+    "icon": "/_next/image?url=%2Fimage%2Fprice-overview-tiktok-icon.png&w=64&q=75",
+    "items": [
+      {
+        "title": "TikTok Followers",
+        "price": "From $0.30",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "TikTok Views",
+        "price": "From $0.05",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "TikTok Likes",
+        "price": "From $0.07",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "TikTok Shares",
+        "price": "From $0.15",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "TikTok Comments",
+        "price": "From $0.50",
+        "unit": "Per 10",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "TikTok Saves",
+        "price": "From $0.12",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      }
+    ]
+  },
+  {
+    "label": "Facebook",
+    "icon": "/_next/image?url=%2Fimage%2Fprice-overview-facebook-icon.png&w=64&q=75",
+    "items": [
+      {
+        "title": "Facebook Page Likes",
+        "price": "From $0.50",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Facebook Followers",
+        "price": "From $0.40",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Facebook Post Likes",
+        "price": "From $0.06",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Facebook Video Views",
+        "price": "From $0.08",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Facebook Shares",
+        "price": "From $0.20",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      }
+    ]
+  },
+  {
+    "label": "Telegram",
+    "icon": "/_next/image?url=%2Fimage%2Fprice-overview-telegram-icon.png&w=64&q=75",
+    "items": [
+      {
+        "title": "Telegram Members",
+        "price": "From $1.00",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Telegram Post Views",
+        "price": "From $0.05",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Telegram Reactions",
+        "price": "From $0.15",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      }
+    ]
+  },
+  {
+    "label": "X (Twitter)",
+    "icon": "/_next/image?url=%2Fimage%2Fprice-overview-x-icon.png&w=64&q=75",
+    "items": [
+      {
+        "title": "Twitter Followers",
+        "price": "From $0.50",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Twitter Likes",
+        "price": "From $0.08",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Twitter Retweets",
+        "price": "From $0.20",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      },
+      {
+        "title": "Twitter Impressions",
+        "price": "From $0.05",
+        "unit": "Per 1,000",
+        "cta": {
+          "label": "Order",
+          "href": "https://my.smmgen.com/signup"
+        },
+        "image": "/_next/image?url=%2Fimage%2Fprice-overview-service-image.png&w=128&q=75"
+      }
+    ]
+  }
+]
