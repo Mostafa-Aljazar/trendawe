@@ -71,7 +71,7 @@ smmgen puts **white text on the primary colour** (buttons, active tabs). White o
 | Headings (h1–h3) | **Poppins** 700 | **Cairo** 700 |
 | Body, UI | **Inter** 400 / 500 / 600 | **Cairo** 400 / 500 / 600 |
 
-All three via `next/font/google`.
+All three via `next/font/google` with `display: 'swap'`. smmgen uses `font-display: optional`, so first-time visitors often see the Arial-like fallback for headings; we use `swap` so Poppins/Cairo always render. (Reference screenshots reload the page so the real fonts show.)
 
 ### 2.1 Scale
 

@@ -52,3 +52,6 @@ node_modules/
 # scraped data (large / regenerable)
 /data/raw/
 /data/assets/
+
+# reference screenshots (regenerate: pnpm audit:screenshots && pnpm audit:states)
+/docs/screenshots/

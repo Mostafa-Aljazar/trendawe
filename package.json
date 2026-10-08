@@ -19,7 +19,9 @@
     "test:int": "cross-env NODE_OPTIONS=--no-deprecation vitest run --config ./vitest.config.mts",
     "scrape:urls": "tsx scripts/scrape/fetch-sitemap.ts",
     "scrape:pages": "tsx scripts/scrape/fetch-pages.ts",
-    "audit:design": "tsx scripts/scrape/audit-design.ts"
+    "audit:design": "tsx scripts/scrape/audit-design.ts",
+    "audit:screenshots": "tsx scripts/scrape/screenshots.ts",
+    "audit:states": "tsx scripts/scrape/screenshots-states.ts"
   },
   "dependencies": {
     "@payloadcms/db-postgres": "3.90.2",

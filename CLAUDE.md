@@ -120,7 +120,7 @@ data/
 docs/
   design-tokens.md
   page-inventory.md
-  screenshots/reference/         # smmgen.com screenshots for visual diffing
+  screenshots/reference/         # smmgen.com screenshots (gitignored; pnpm audit:screenshots / audit:states)
 ```
 
 ---
