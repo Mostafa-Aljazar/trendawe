@@ -1,4 +1,4 @@
-# trendawe — SMMGen rebuild (Next.js + Payload CMS)
+# trendawe — Trendawe marketing site (Next.js + Payload CMS)
 
 This template comes configured with the bare minimum to get started on anything you need.
 

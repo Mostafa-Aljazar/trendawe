@@ -7,8 +7,8 @@ Put `CLAUDE.md`, `PLAN.md` and this file in the root of an **empty folder**, ope
 ## 1. First session — kickoff (paste once)
 
 ```
-You are the lead engineer on a rebuild of https://smmgen.com — the owner's own marketing
-site — as a Next.js app with an embedded Payload CMS admin.
+You are the lead engineer on the Trendawe marketing site, which replicates the design of https://smmgen.com (reference)
+— as a Next.js app with an embedded Payload CMS admin.
 
 Before writing any code:
 1. Read CLAUDE.md fully. It defines the stack, folder structure, routing map, content
@@ -53,7 +53,7 @@ Start Phase <N> from PLAN.md.
 ## 3. Resume after a break / new session
 
 ```
-We are resuming the SMMGen rebuild. Read CLAUDE.md, then read PLAN.md and find the current
+We are resuming the Trendawe site build. Read CLAUDE.md, then read PLAN.md and find the current
 phase (the first phase with unchecked tasks). Run git log --oneline -20 to see recent work.
 Tell me: current phase, what is done, what is next, and any failing check
 (typecheck / lint / build). Then wait for my go-ahead.
@@ -94,8 +94,8 @@ Report findings by severity, then fix the high and medium ones.
 
 ## Questions to settle with the owner before / during the build
 
-1. **Correct business address and phone** (pages currently show Bangladesh, Southampton UK, and a US number).
-2. **Blog source** — move the blog into the new admin (default), or keep the existing `api.smmgen.com` backend?
+1. **Light-background logo** — does Trendawe have one, or should we create a temporary variant?
+2. **smmgen.com images** — confirm we have permission to reuse them.
 3. **Hosting** — Vercel + Supabase OK? Who owns the accounts?
 4. **Live stats** — should orders/users/services counts update automatically from the ordering app, or be edited manually in Site Settings?
 5. **Admin users** — who needs access, and with which role (admin / editor / writer)?
