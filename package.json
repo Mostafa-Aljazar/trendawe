@@ -18,7 +18,8 @@
     "test:e2e": "cross-env NODE_OPTIONS=\"--no-deprecation --import=tsx/esm\" playwright test --config=playwright.config.ts",
     "test:int": "cross-env NODE_OPTIONS=--no-deprecation vitest run --config ./vitest.config.mts",
     "scrape:urls": "tsx scripts/scrape/fetch-sitemap.ts",
-    "scrape:pages": "tsx scripts/scrape/fetch-pages.ts"
+    "scrape:pages": "tsx scripts/scrape/fetch-pages.ts",
+    "audit:design": "tsx scripts/scrape/audit-design.ts"
   },
   "dependencies": {
     "@payloadcms/db-postgres": "3.90.2",
