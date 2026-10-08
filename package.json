@@ -22,7 +22,8 @@
     "audit:design": "tsx scripts/scrape/audit-design.ts",
     "audit:screenshots": "tsx scripts/scrape/screenshots.ts",
     "audit:states": "tsx scripts/scrape/screenshots-states.ts",
-    "audit:inventory": "tsx scripts/scrape/inventory.ts"
+    "audit:inventory": "tsx scripts/scrape/inventory.ts",
+    "parse:countries": "tsx scripts/scrape/parse-country.ts"
   },
   "dependencies": {
     "@payloadcms/db-postgres": "3.90.2",
@@ -54,6 +55,7 @@
     "@types/react-dom": "19.2.3",
     "@vitejs/plugin-react": "4.5.2",
     "cheerio": "^1.2.0",
+    "domhandler": "^6.0.1",
     "eslint": "^9.16.0",
     "eslint-config-next": "16.3.3",
     "jsdom": "28.0.0",

@@ -58,7 +58,7 @@
 - [x] `fetch-pages.ts` — download raw HTML for every URL to `data/raw/` (throttle ~1 req/s, retry on failure, skip if cached).
 - [x] FAQ answers: present in the RSC payload of the static HTML (`question`/`answer` props) — no Playwright needed.
 - [ ] Parsers (cheerio), one per template → `data/source/<collection>/<slug>.json` shaped like the planned Payload fields:
-  - [ ] `parse-country.ts` (25)
+  - [x] `parse-country.ts` (25)
   - [ ] `parse-platform.ts` (15)
   - [ ] `parse-buy.ts` (23)
   - [ ] `parse-post.ts` (79) — keep heading/list/link structure so it can become Lexical; keep internal links.
