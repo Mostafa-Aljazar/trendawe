@@ -60,7 +60,7 @@
 - [ ] Parsers (cheerio), one per template → `data/source/<collection>/<slug>.json` shaped like the planned Payload fields:
   - [x] `parse-country.ts` (25)
   - [x] `parse-platform.ts` (15)
-  - [ ] `parse-buy.ts` (23)
+  - [x] `parse-buy.ts` (23)
   - [ ] `parse-post.ts` (79) — keep heading/list/link structure so it can become Lexical; keep internal links.
   - [ ] `parse-legal.ts` (5)
   - [ ] `parse-singletons.ts` — Home, Services, About, Contact, FAQ, 6 landing pages → ordered list of blocks with content.

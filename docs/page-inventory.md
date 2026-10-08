@@ -82,8 +82,8 @@ Legend — **Component** = `components/sections/*` (shared, presentational); **F
 | 3 | "Our Instagram Follower Packages" — 4 cards 2-col | `FeatureGrid` 2-col image cards | `packageTypes[]` |
 | 4 | "Why Choose … for Instagram Followers?" — 6 cards 3-col | `FeatureGrid` icon cards | `whyChoose[6]` |
 | 5 | "How to Buy … — 3 Simple Steps" | `StepsTimeline` | `steps[3]` |
-| 6 | "Pricing Packages" — 5 rows + note | `PricingTable` | `pricingPackages[]`, `pricingNote` |
-| 7 | "What Our Customers Say" — carousel | `TestimonialsCarousel` | `testimonials` (rel) |
+| 6 | "Pricing Packages" — 5 rows + note | `PricingTable` | `pricingPackages[]` (name, quantity, price, delivery, isPopular), `pricingQuantityLabel` (Followers / Likes / Views / Watch Hours…), `pricingNote` |
+| 7 | "What Our Customers Say" — carousel | `TestimonialsCarousel` | `testimonials` (rel, 3 per page — 69 unique across the 23 pages) |
 | 8 | FAQ (7) | `FaqSection` | `faq` |
 | 9 | "Ready to grow your Instagram profile today?" | `CtaBanner` | `cta` |
 
