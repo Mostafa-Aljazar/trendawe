@@ -15,9 +15,10 @@ radii, shadows and type scale are kept exactly.
 
 | Role | smmgen | Trendawe | Notes |
 |---|---|---|---|
-| `--primary` (buttons, links, active tabs, borders of selected cards) | `#1F41BB` | `#F37321` | Logo orange. See §1.4 for text-on-orange contrast |
-| `--primary-darker` (hover, pressed, dark CTA panels) | `#112779` | `#B8480A` | |
-| Primary hover (e.g. "Create Free Account") | `#1A3AAD` | `#D95A0B` | |
+| `--primary` (filled buttons, text links, active tabs — anything with text on/in it) | `#1F41BB` | `#C9500A` | Accessible orange (§1.4) |
+| `--brand` (icons, gradients, decorative accents, borders, logo) | — | `#F37321` | Logo orange; never behind small white text |
+| `--primary-darker` (pressed, dark CTA panels) | `#112779` | `#9A3C08` | |
+| Primary hover (e.g. "Create Free Account") | `#1A3AAD` | `#B8480A` | |
 | Secondary accent (icon chips, small highlights) | `#5666F2` | `#FF8A4C` | |
 | Light tint (badges, chip backgrounds) | `#C2D5FF` | `#FFD9BF` | |
 | Light tint 2 (cards, table header) | `#CFD8F8` | `#FDE3D0` | |
@@ -52,13 +53,13 @@ radii, shadows and type scale are kept exactly.
 ### 1.3 Overlays
 `rgb(0 0 0 / 0.3)` and `/ 0.2` (chips on dark/hero backgrounds), `rgb(255 255 255 / 0.1–0.4)` (glass cards on dark), border `rgb(255 255 255 / 0.2)`.
 
-### 1.4 ⚠️ Open decision — text on orange
+### 1.4 Text on orange — decided: option B (2026-10-08)
 smmgen puts **white text on the primary colour** (buttons, active tabs). White on `#F37321` has a contrast of **2.88:1** (WCAG AA needs 4.5:1 for normal text, 3:1 for large/bold ≥ 18.66px). Options:
 
 | Option | Button background | Contrast with white |
 |---|---|---|
 | A. Brand orange everywhere | `#F37321` | 2.88 ✗ |
-| B. **Darker orange for filled buttons/links, brand orange for accents** (recommended) | `#C9500A` | 4.53 ✓ |
+| **B. Darker orange for filled buttons/links, brand orange for accents ← chosen** | `#C9500A` | 4.53 ✓ |
 | C. Brand orange with **navy text** | `#F37321` + `#0F172A` text | 6.19 ✓ |
 
 ---

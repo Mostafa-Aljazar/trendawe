@@ -47,7 +47,7 @@
 ### 0.2 Design audit (Playwright MCP on https://smmgen.com)
 - [x] Extract design tokens from computed styles into `docs/design-tokens.md`: font families + weights + sizes per heading level, color palette (primary blue, text, muted, backgrounds, gradients), radii, shadows, container widths, section spacing, breakpoints.
 - [ ] Identify the Latin web font(s) and load them with `next/font`; load **Cairo** for Arabic.
-- [x] Map brand tokens from trendawe.com (`CLAUDE.md §2a`) onto the reference palette: which smmgen colour becomes Trendawe orange / navy / neutral. Get or create a light-background logo variant (temporary navy variant in `data/brand/`). Open: text-on-orange contrast (design-tokens §1.4).
+- [x] Map brand tokens from trendawe.com (`CLAUDE.md §2a`) onto the reference palette: which smmgen colour becomes Trendawe orange / navy / neutral. Get or create a light-background logo variant (temporary navy variant in `data/brand/`). Text on orange: darker `#C9500A` for buttons (design-tokens §1.4).
 - [ ] Capture **reference screenshots** (desktop 1440px + mobile 390px, full page) for one representative URL per design → `docs/screenshots/reference/`:
   `/`, `/services`, `/about-us`, `/contact-us`, `/faq`, `/best-smm-panel`, `/cheap-smm-panel`, `/smm-reseller-panel`, `/wholesale-smm-panel`, `/white-label-smm-panel`, `/smm-panel-api`, `/smm-panel-egypt`, `/instagram-smm-panel`, `/pinterest-smm-panel`, `/buy-instagram-followers`, `/blog`, `/blog/threads-vs-instagram`, `/privacy-policy`.
 - [ ] Capture interaction states: Services mega menu (with sub-menu open), Service Area two-column menu, Company menu, mobile drawer, FAQ accordion open, platform tabs.
