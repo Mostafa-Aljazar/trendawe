@@ -28,6 +28,14 @@ export default buildConfig({
     },
   },
   collections: [Users, Media],
+  localization: {
+    locales: [
+      { label: 'English', code: 'en' },
+      { label: 'العربية', code: 'ar', rtl: true },
+    ],
+    defaultLocale: 'en',
+    fallback: true,
+  },
   editor: lexicalEditor(),
   secret: process.env.PAYLOAD_SECRET || '',
   typescript: {

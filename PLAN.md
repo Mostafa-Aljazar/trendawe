@@ -39,10 +39,10 @@
 - [ ] Configure `src/` structure exactly as in `CLAUDE.md §3`.
 - [x] Connect Supabase Postgres (transaction pooler for runtime, session pooler for dev/migrations).
 - [x] Configure `@payloadcms/storage-s3` against Supabase Storage (bucket `media`, public read).
-- [ ] Tailwind v4 + shadcn/ui init; ESLint + Prettier; `typecheck` script; Vitest; Playwright.
-- [ ] Localization: Payload `localization` (en default, ar, fallback), `src/proxy.ts` locale routing (en un-prefixed, `/ar` prefix), `app/(frontend)/[locale]/` layout with `lang`/`dir`, `lib/i18n.ts`, UI dictionaries.
+- [x] Tailwind v4 + shadcn/ui init; ESLint + Prettier; `typecheck` script; Vitest; Playwright.
+- [x] Localization: Payload `localization` (en default, ar, fallback), `src/proxy.ts` locale routing (en un-prefixed, `/ar` prefix), `app/(frontend)/[locale]/` layout with `lang`/`dir`, `lib/i18n.ts`, UI dictionaries.
 - [x] `.env.example` with: `DATABASE_URI`, `DATABASE_URI_DIRECT`, `PAYLOAD_SECRET`, `S3_ENDPOINT`, `S3_BUCKET`, `S3_ACCESS_KEY_ID`, `S3_SECRET_ACCESS_KEY`, `S3_REGION`, `NEXT_PUBLIC_SITE_URL`, `PREVIEW_SECRET`.
-- [ ] First admin user created; `/admin` loads; image upload lands in Supabase Storage.
+- [x] First admin user created; `/admin` loads; image upload lands in Supabase Storage.
 
 ### 0.2 Design audit (Playwright MCP on https://smmgen.com)
 - [ ] Extract design tokens from computed styles into `docs/design-tokens.md`: font families + weights + sizes per heading level, color palette (primary blue, text, muted, backgrounds, gradients), radii, shadows, container widths, section spacing, breakpoints.
