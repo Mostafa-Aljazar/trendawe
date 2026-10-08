@@ -51,7 +51,7 @@
 - [x] Capture **reference screenshots** (desktop 1440px + mobile 390px, full page) for one representative URL per design → `docs/screenshots/reference/`:
   `/`, `/services`, `/about-us`, `/contact-us`, `/faq`, `/best-smm-panel`, `/cheap-smm-panel`, `/smm-reseller-panel`, `/wholesale-smm-panel`, `/white-label-smm-panel`, `/smm-panel-api`, `/smm-panel-egypt`, `/instagram-smm-panel`, `/pinterest-smm-panel`, `/buy-instagram-followers`, `/blog`, `/blog/threads-vs-instagram`, `/privacy-policy`.
 - [x] Capture interaction states: Services mega menu (with sub-menu open), Service Area two-column menu, Company menu, mobile drawer, FAQ accordion open, platform tabs.
-- [ ] Write `docs/page-inventory.md`: every section of every design, in order, with its matching block/field name and RTL notes. Include an "Open questions" list.
+- [x] Write `docs/page-inventory.md`: every section of every design, in order, with its matching block/field name and RTL notes. Include an "Open questions" list.
 
 ### 0.3 Content extraction (`scripts/scrape/`)
 - [x] `fetch-sitemap.ts` — read `https://smmgen.com/sitemap.xml` → `data/urls.json` (161 URLs). `/blog/author/kanok-miah` returns 404 on the source, so it is not included.
