@@ -171,7 +171,7 @@ Rules:
 | `buy-pages` | 23 "Buy X" pages | platform (rel), slug, menuLabel, menuOrder, hero (with checklist), whyBuy, packageTypes[], whyChoose[], steps[], pricingPackages[], testimonials (rel), faq, cta, seo |
 | `countries` | 25 country pages | name, slug, menuColumn, menuOrder, hero, whatIs, whyChoose[3–5], highlightNote, featuredPlatforms[] (rel + override text), paymentMethods[] (rel + type label), steps[4], reseller, faq, cta, seo |
 | `landing-pages` | 6 commercial pages | title, slug, `layout` (blocks), seo |
-| `legal-pages` | 5 legal pages | title, slug, intro, lastUpdated, effectiveDate, body (rich text), relatedLinks, seo |
+| `legal-pages` | 5 legal pages | title, slug, intro, lastUpdated, effectiveDate, contactNote, body (rich text), faq (optional — refund policy), relatedLinks, seo |
 | `posts` | Blog | title, slug, excerpt, featuredImage, body (lexical), category (rel), author (rel), publishedAt, readingTime (computed), relatedPosts (optional override), seo |
 | `categories` | Blog categories | name, slug, description |
 | `authors` | Blog authors | name, slug, role, avatar, bio |

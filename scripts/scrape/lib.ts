@@ -235,3 +235,26 @@ export const readPlatformMenu = ($: $) => {
   })
   return platforms.map((p) => ({ ...p, buyPages: buyPages.get(p.slug) ?? [] }))
 }
+
+/** The decoded Next.js RSC flight payload embedded in the page (self.__next_f.push chunks). */
+export const rscPayload = ($: $) =>
+  $('script')
+    .map((_, s) => $(s).html() ?? '')
+    .get()
+    .flatMap((js) => [...js.matchAll(/self\.__next_f\.push\(\[1,"((?:[^"\\]|\\.)*)"\]\)/g)].map((m) => JSON.parse(`"${m[1]}"`) as string))
+    .join('')
+
+/** FAQ items from JSON-LD, falling back to `{question, answer}` props in the RSC payload. */
+export const faqItems = ($: $): FaqItem[] => {
+  const fromLd = faqFromJsonLd($)
+  if (fromLd.length) return fromLd
+  const seen = new Set<string>()
+  const items: FaqItem[] = []
+  for (const m of rscPayload($).matchAll(/"question":("(?:[^"\\]|\\.)*"),"answer":("(?:[^"\\]|\\.)*")/g)) {
+    const question = clean(JSON.parse(m[1]))
+    if (seen.has(question)) continue
+    seen.add(question)
+    items.push({ question, answer: clean(JSON.parse(m[2])) })
+  }
+  return items
+}

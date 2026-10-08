@@ -1,0 +1,45 @@
+{
+  "slug": "cookies-policy",
+  "sourceUrl": "/cookies-policy",
+  "title": "Cookies **Policy**",
+  "intro": "This Cookies Policy explains how [SMMGen](/about-us) uses cookies to improve your experience with our [SMM panel](/) and website. By continuing to use SMMGen, you agree to our use of cookies as outlined in this policy.",
+  "lastUpdated": "April 2026",
+  "effectiveDate": "April 2026",
+  "contactNote": "",
+  "body": "## What Are Cookies?\n\nCookies are small text files that a website saves on your device when you visit. They help the site remember information about your visit, such as your login status, language preferences, and how you navigate the pages.\nCookies do not contain your personal passwords or financial details. They are used to make websites work properly and to give website owners basic analytics about how their site is used.\n\n## How Does SMMGen Use Cookies?\n\nSMMGen uses cookies for three main purposes: to keep the platform working correctly, to understand how users interact with the site, and to remember your preferences between visits.\nWe do not use cookies to serve you advertising, sell your data to third parties, or track you across other websites for marketing purposes.\n\n## What Types of Cookies Does SMMGen Use?\n\n### Essential Cookies\n\nEssential cookies are required for smmgen.com to function. Without them, core features such as logging in, placing orders, and managing your account balance will not work.\nThese cookies do not collect any personal information beyond what is needed to maintain your session. You cannot opt out of essential cookies while using the platform.\nExamples of what essential cookies do:\n• Keep you logged into your SMMGen account while you navigate between pages\n• Remember your active session after you sign in at smmgen.com/signup\n• Protect your account by detecting unusual login activity\n\n### Analytics Cookies\n\nAnalytics cookies help us understand how visitors use smmgen.com. We use this data to improve page performance, fix issues, and identify which parts of the site get the most engagement.\nAll analytics data is aggregated and anonymized. We cannot identify individual users from analytics data.\nExamples of what analytics cookies track:\n• Which pages users visit and how long they stay\n• Which countries visitors come from\n• How users move through the site before placing an order\n\n### Preference Cookies\n\nPreference cookies remember your settings so you do not have to reconfigure them every time you visit. These cookies improve your experience on return visits.\nExamples of what preference cookies store:\n• Your display or language settings\n• Whether you have dismissed a notification or banner\n\n### Third-Party Cookies\n\nSome features on smmgen.com are powered by third-party services. These services may set their own cookies on your device when you interact with them. SMMGen does not control third-party cookies.\nThird-party services that may set cookies include:\n• Payment processors (PayPal, Visa, Mastercard, crypto processors) when you add funds to your account\n• Analytics providers that help us measure site performance\n• Security tools that help detect and block fraudulent activity\nEach third-party provider operates under its own cookies and privacy policy. We recommend reviewing their policies directly if you have concerns.\n\n## How Long Do Cookies Stay on Your Device?\n\nCookies are either session cookies or persistent cookies.\nSession cookies are temporary. They exist only while your browser is open and are deleted automatically when you close it. SMMGen uses session cookies primarily to maintain your login state.\nPersistent cookies remain on your device for a set period after you close your browser. SMMGen's analytics and preference cookies are persistent. They typically expire between 30 days and 12 months depending on their purpose.\nYou can delete all cookies at any time through your browser settings, regardless of their expiry period.\n\n## How Can You Control or Disable Cookies?\n\nYou have full control over cookies stored on your device. There are several ways to manage them.\nThrough your browser settings. All major browsers allow you to view, block, or delete cookies. The steps vary by browser. Use the links below for guidance:\n• Google Chrome\n• Mozilla Firefox\n• Safari\n• Microsoft Edge\nThrough browser privacy extensions. Tools such as uBlock Origin or Privacy Badger let you block specific types of tracking scripts and cookies across all websites you visit.\nImportant note: Blocking essential cookies will prevent you from logging into your SMMGen account and using the platform. Analytics and preference cookies can be blocked without affecting your ability to place orders or use our services.\n\n## Does SMMGen Use Cookies for Advertising?\n\nNo. SMMGen does not use advertising cookies or retargeting cookies. We do not partner with ad networks, and we do not use cookies to show you ads on other websites after you visit smmgen.com.\nOur cookie usage is limited to what is necessary to run the platform, analyze performance, and remember your preferences.\n\n## Cookies and Your Privacy\n\nOur use of cookies is described alongside our full data practices in our Privacy Policy. The Privacy Policy explains in detail what personal data we collect, how we store it, and what rights you have over your information.\nCookies are one small part of how we collect data. The Privacy Policy gives you the full picture.\n\n## Changes to This Cookies Policy\n\nWe update this Cookies Policy when our cookie usage changes or when required by applicable law. All updates appear on this page with a revised \"Last updated\" date at the top.\nWe recommend checking this page periodically if you want to stay informed about how we use cookies on smmgen.com.\n\n## How to Contact Us\n\nIf you have any questions about our use of cookies, reach out to the SMMGen team using the details below.\n\nWe aim to respond to all queries within 48 hours.",
+  "contactLinks": [
+    {
+      "label": "Support ticket",
+      "value": "smmgen.com/contact-us",
+      "href": "https://smmgen.com/contact-us"
+    },
+    {
+      "label": "Email",
+      "value": "support@smmgen.com",
+      "href": "mailto:support@smmgen.com"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "/privacy-policy"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/terms-and-conditions"
+    },
+    {
+      "label": "Refund Policy",
+      "href": "/refund-policy"
+    },
+    {
+      "label": "Disclaimer",
+      "href": "/disclaimer"
+    }
+  ],
+  "faq": null,
+  "seo": {
+    "title": "Cookies Policy — How SMMGen Uses Cookies on Its Website",
+    "description": "Learn how SMMGen uses cookies on smmgen.com, what types of cookies we set, and how you can manage or disable them at any time."
+  }
+}

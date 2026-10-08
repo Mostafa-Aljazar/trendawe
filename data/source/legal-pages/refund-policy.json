@@ -1,0 +1,73 @@
+{
+  "slug": "refund-policy",
+  "sourceUrl": "/refund-policy",
+  "title": "Refund **Policy**",
+  "intro": "This Refund Policy explains how refunds work for orders placed through the [SMMGen](/about-us) [SMM panel](/). Please review this policy before purchasing any service to understand your eligibility and refund process.",
+  "lastUpdated": "April 2026",
+  "effectiveDate": "April 2026",
+  "contactNote": "If you have a question about a specific order, contact us at support@smmgen.com or visit smmgen.com/contact-us.",
+  "body": "## Our Refund Commitment\n\nSMMGen processes millions of orders every year. We deliver fast, reliable results across Instagram, YouTube, TikTok, Facebook, Telegram, LinkedIn, Spotify, and more.\n\nWhen something goes wrong on our end, we fix it. If we cannot fix it, we refund it. That is our commitment to every user on the platform.\n\n## When Are You Eligible for a Refund?\n\nYou are eligible for a refund or account credit in the following situations.\nYour order was not delivered. If you placed an order and no delivery started within the expected timeframe for that service, you qualify for a full refund to your account balance or your original payment method.\nYour order was partially delivered. If we delivered only part of your order and cannot complete the remainder, we refund the undelivered portion to your account balance.\nYou were charged incorrectly. If a technical error caused a duplicate charge or an incorrect deduction from your account balance, we correct it and refund the difference.\nThe service you ordered is no longer available. If we discontinue a service after you have paid for it and your order has not started, we issue a full refund.\n\n## When Are Refunds Not Issued?\n\nRefunds are not available in every situation. The following cases do not qualify for a refund.\nYour account or profile is private. Many of our services require your social media profile or post to be public at the time of ordering. If your profile is private, we cannot deliver the service. We do not issue refunds for orders that fail due to a private account unless you notify us within 1 hour of placing the order.\nYou entered an incorrect URL. If you submit the wrong profile link or post URL when placing your order and delivery is made to that URL, we cannot issue a refund. Always double-check your link before confirming.\nYou changed your username or deleted your post after ordering. If you change your username, delete your post, or make your account private after placing an order, we cannot guarantee delivery or issue a refund for any undelivered portion.\nThe order is already complete. Once an order is fully delivered, it is not eligible for a refund. All sales of completed orders are final.\nYou changed your mind. We do not issue refunds for completed or in-progress orders because you decided you no longer want the service.\nDrops after delivery. Social media platforms sometimes remove followers, likes, or views after delivery. This is outside our control. We offer a refill guarantee on eligible services instead of a refund for drops. Check the service description before ordering to confirm if refill is available.\n\n## What Is a Refill Guarantee?\n\nA refill guarantee means that if the followers, likes, or views you receive drop below the quantity you ordered within the guarantee period, we top them back up at no extra charge.\nRefill guarantees are available on selected services. The guarantee period and eligibility vary by service. You can see whether a service includes a refill guarantee in the service description on your dashboard.\nTo request a refill, open a support ticket at smmgen.com/contact-us and include your order ID and the current count. Our team processes refill requests within 24 to 48 hours.\n\n## Refund to Account Balance vs. Original Payment Method\n\nSMMGen issues refunds in two ways depending on the situation.\nAccount balance refund. In most cases, refunds go back to your SMMGen account balance. You can use this balance to place new orders immediately. Account balance refunds are processed within 24 hours.\nOriginal payment method refund. In specific cases where an order never started and the full deposit amount needs to be returned, we process a refund to your original payment method. This takes 5 to 10 business days depending on your payment provider. We apply this only in cases of significant billing errors or service unavailability.\nIf you are unsure which type of refund applies to your situation, open a support ticket and our team will explain your options.\n\n## How to Request a Refund\n\nFollow these steps to submit a refund request.\nStep 1: Gather your order details. Find your order ID in your SMMGen dashboard. Note the service name, the URL you submitted, and the date of the order.\nStep 2: Contact our support team. Visit smmgen.com/contact-us or email support@smmgen.com. Include your order ID, the issue you experienced, and a screenshot if possible.\nStep 3: Wait for our review. Our team reviews all refund requests within 24 to 48 hours. We may ask for additional information to verify the issue.\nStep 4: Receive your refund. Once approved, account balance refunds are applied immediately. Payment method refunds take 5 to 10 business days.\nWe do not process refund requests sent through social media, live chat tools, or unofficial channels. All requests must go through smmgen.com/contact-us or support@smmgen.com.\n\n## Disputed Payments and Chargebacks\n\nIf you file a chargeback or payment dispute with your bank or payment provider before contacting SMMGen, your account will be suspended pending investigation.\nWe strongly encourage you to contact us first. Most issues are resolved within 24 to 48 hours. Chargebacks cause delays for both sides and can result in permanent account termination if found to be fraudulent.\nIf you believe an unauthorized payment was made using your account, report it immediately at smmgen.com/contact-us so we can investigate and secure your account.\n\n## Changes to This Refund Policy\n\nWe update this Refund Policy when our practices change or when required by law. All updates appear on this page with a revised \"Last updated\" date at the top.\nWe recommend reviewing this page before placing large or bulk orders so you are always aware of the current refund terms.\n\n## How to Contact Us\n\nFor any refund requests or questions about this policy, reach the SMMGen support team through the channels below.\n\nWe respond to all refund queries within 24 to 48 hours.\n\nFind answers to common questions about SMMGen's refund policy, eligibility, and how to request a refund.",
+  "contactLinks": [
+    {
+      "label": "Support ticket",
+      "value": "smmgen.com/contact-us",
+      "href": "https://smmgen.com/contact-us"
+    },
+    {
+      "label": "Email",
+      "value": "support@smmgen.com",
+      "href": "mailto:support@smmgen.com"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "/privacy-policy"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/terms-and-conditions"
+    },
+    {
+      "label": "Cookies Policy",
+      "href": "/cookies-policy"
+    },
+    {
+      "label": "Disclaimer",
+      "href": "/disclaimer"
+    }
+  ],
+  "faq": {
+    "title": "Frequently Asked Questions About **Refunds**",
+    "items": [
+      {
+        "question": "How long does a refund take to process?",
+        "answer": "Account balance refunds are applied within 24 hours of approval. Refunds to your original payment method take 5 to 10 business days depending on your bank or payment provider."
+      },
+      {
+        "question": "Can I get a refund if my followers dropped after delivery?",
+        "answer": "Drops after full delivery are not eligible for a refund. However, many of our services include a refill guarantee. If your service includes a refill, open a support ticket with your order ID and we will top up the count at no charge."
+      },
+      {
+        "question": "What happens if I ordered the wrong service?",
+        "answer": "If your order has not started yet, contact us immediately at smmgen.com/contact-us and we will cancel it and credit your account balance. Once an order is in progress, we cannot cancel or redirect it."
+      },
+      {
+        "question": "My order shows as delivered but I see no change. What do I do?",
+        "answer": "Some services have a gradual delivery period. Check your order status in the dashboard first. If the issue persists after the expected delivery window, contact support with your order ID and a screenshot. We will investigate and issue a refund or refill if there is a confirmed delivery failure."
+      },
+      {
+        "question": "Do you offer refunds on bulk or reseller orders?",
+        "answer": "Reseller and API orders follow the same refund policy. If a service fails to deliver, we refund the undelivered portion to your account balance. We do not issue cash refunds for partially completed reseller orders."
+      },
+      {
+        "question": "Can I transfer my account balance to another user or withdraw it as cash?",
+        "answer": "No. Account balance is non-transferable and cannot be withdrawn as cash. It can only be used to place orders on smmgen.com."
+      }
+    ]
+  },
+  "seo": {
+    "title": "Refund Policy — SMMGen Refund Rules and Eligibility Explained",
+    "description": "Read SMMGen's refund policy to understand when refunds are issued, how to request one, and what happens if your order is not delivered. Last updated April 2026."
+  }
+}

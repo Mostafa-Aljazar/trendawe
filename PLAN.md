@@ -62,7 +62,7 @@
   - [x] `parse-platform.ts` (15)
   - [x] `parse-buy.ts` (23)
   - [x] `parse-post.ts` (79) — keep heading/list/link structure so it can become Lexical; keep internal links.
-  - [ ] `parse-legal.ts` (5)
+  - [x] `parse-legal.ts` (5)
   - [ ] `parse-singletons.ts` — Home, Services, About, Contact, FAQ, 6 landing pages → ordered list of blocks with content.
   - [ ] `parse-shared.ts` — menus, footer, payment methods, testimonials, home FAQ group, authors, categories.
 - [ ] `download-assets.ts` — decode `/_next/image?url=…` to the original `/image/...` path; download all referenced images (site + `api.smmgen.com/storage/...` for blog) to `data/assets/` with a manifest mapping original URL → local file → alt text.
