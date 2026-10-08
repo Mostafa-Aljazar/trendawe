@@ -72,7 +72,7 @@ Legend — **Component** = `components/sections/*` (shared, presentational); **F
 | 6 | "Who Uses …'s Instagram SMM Panel?" — dark, 4–5 cards | `AudienceGrid` dark | `whoUses[]` |
 | 7 | "Is It Safe to Buy Instagram Services…?" + CTA | `RichTextWithImage` text-start | `safety` |
 | 8 | FAQ (8) | `FaqSection` | `faq` |
-| 9 | CTA (present on Pinterest, **missing on Instagram** — see open questions) | `CtaBanner` | `cta` (optional) |
+| 9 | CTA (present on Pinterest, missing on Instagram) | `CtaBanner` | `cta` with `enabled` toggle, **on by default** (decided) |
 
 ### 3.3 Buy — `/buy-{platform}-{service}` (23) · collection `buy-pages`
 | # | Section | Component | Fields |
@@ -134,13 +134,13 @@ Exact visual variants of landing-page sections are confirmed against the screens
 - Mirror every "image start / text start" split, the steps timeline (line and dots on the right), mega-menu sub-panel (opens to the left), drawer (slides from the left edge = end side).
 - Flip directional icons (›, », → in buttons, carousel arrows); keep platform logos and the ✓/★ icons unflipped.
 - Gradient text and section gradients: `90deg` → `270deg`.
-- Numbers (prices, stats, step numbers) stay Western digits unless the owner wants Arabic-Indic digits.
+- Numbers (prices, stats, step numbers) use **Western digits (0123)** in Arabic too (decided).
 - Tables (pricing, payments, comparison) read right-to-left: first column on the right.
 
 ## 8. Open questions
-1. Instagram platform page has **no final CTA section** while Pinterest has one — make `cta` optional per platform (default on)?
+1. ~~Platform CTA optional?~~ Decided: optional per platform, enabled by default.
 2. Home "Ready to Start? Join N Active Users" and Services CTA look like a different CTA style from the template `CtaBanner` — confirm visually in Phase 5.
-3. Western vs Arabic-Indic digits in `/ar`.
+3. ~~Digits in `/ar`?~~ Decided: Western digits.
 
 ## 9. Content issues (from the reference — fix while rewriting)
 - Blog post CTA leftover from another brand ("SMMSun", "Bangladesh", "68,000 users").

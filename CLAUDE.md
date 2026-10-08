@@ -154,7 +154,8 @@ Rules:
 - `src/proxy.ts` rewrites un-prefixed paths to `/en/...` internally; routes live under `app/(frontend)/[locale]/`. Admin (`/admin`) and `/api` are excluded.
 - Payload `localization` is enabled with locales `en`, `ar` and `fallback: true` (missing Arabic falls back to English). All copy/SEO fields are `localized: true`; structural fields (slug, relations, menuOrder, icons, prices) are **not** localized, so both languages share one slug.
 - `<html lang dir>` is set per locale (`dir="rtl"` for Arabic). Use Tailwind logical utilities (`ms-*`, `me-*`, `ps-*`, `pe-*`, `start-*`, `end-*`, `text-start`) — never `ml/mr/pl/pr/left/right` — and flip directional icons (arrows, chevrons) with `rtl:` variants.
-- Fonts: Latin font from the design audit for `en`; **Cairo** for `ar` (both via `next/font`).
+- Fonts: Poppins (headings) + Inter (body) for `en`; **Cairo** for `ar` (all via `next/font`, `display: swap`).
+- Numbers use Western digits (0123) in both locales (`Intl.NumberFormat('ar', { numberingSystem: 'latn' })`).
 - Every page outputs `hreflang` alternates (en, ar, x-default → en); the sitemap lists both locales.
 - A language switcher in the header links to the same page in the other locale.
 - UI micro-strings that are not content (e.g. "Read More", "min read", aria labels) live in `lib/dictionaries/{en,ar}.json`; everything else comes from Payload.
